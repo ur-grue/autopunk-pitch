@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:04,200
+Hello and welcome to this documentary
+about marine life.
+
+2
+00:00:04,500 --> 00:00:09,800
+The ocean covers over 70 percent
+of our planet.
+
+3
+00:00:10,200 --> 00:00:18,500
+It is home to millions of species,
+many of which remain undiscovered.
+
+4
+00:00:19,000 --> 00:00:25,300
+In this episode, we will explore
+the coral reefs of the Pacific.
+
+5
+00:00:25,800 --> 00:00:30,500
+These ecosystems support an incredible
+diversity of life.
