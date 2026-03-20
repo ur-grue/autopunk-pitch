@@ -1,10 +1,21 @@
 "use client";
 
 import Link from "next/link";
-import { useAuth } from "@clerk/nextjs";
+
+const hasClerk = !!process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY;
+
+function useAuthSafe() {
+  if (!hasClerk) return { isSignedIn: false, isLoaded: true };
+  try {
+    const { useAuth } = require("@clerk/nextjs");
+    return useAuth();
+  } catch {
+    return { isSignedIn: false, isLoaded: true };
+  }
+}
 
 export default function Home() {
-  const { isSignedIn, isLoaded } = useAuth();
+  const { isSignedIn, isLoaded } = useAuthSafe();
 
   return (
     <main className="relative z-10 flex min-h-screen flex-col items-center justify-center p-8">
@@ -34,13 +45,13 @@ export default function Home() {
           <>
             <div className="flex gap-4 justify-center">
               <Link
-                href="/sign-in"
+                href={hasClerk ? "/sign-in" : "/dashboard"}
                 className="btn-gradient font-display px-8 py-4 text-xs font-bold uppercase tracking-[0.2em] rounded hover:shadow-glow active:scale-[0.98] transition-all duration-200"
               >
                 Initialize Session
               </Link>
               <Link
-                href="/sign-up"
+                href={hasClerk ? "/sign-up" : "/dashboard"}
                 className="ghost-border text-primary px-8 py-4 font-display text-xs font-bold uppercase tracking-[0.2em] rounded hover:bg-surface-container-high transition-all duration-200"
               >
                 Create Account
