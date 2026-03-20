@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { ClerkProvider } from "@clerk/nextjs";
 import localFont from "next/font/local";
 import "./globals.css";
 
@@ -20,17 +19,28 @@ export const metadata: Metadata = {
   description: "AI-powered media localization at indie pricing",
 };
 
-const clerkAppearance = {
-  variables: {
-    colorPrimary: "#c3c0ff",
-    colorBackground: "#201e2e",
-    colorText: "#e5dff7",
-    colorTextSecondary: "#c7c4d8",
-    colorInputBackground: "transparent",
-    colorInputText: "#e5dff7",
-    borderRadius: "0.125rem",
-  },
-};
+const hasClerk = !!process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY;
+
+function AuthWrapper({ children }: { children: React.ReactNode }) {
+  if (!hasClerk) return <>{children}</>;
+
+  // Dynamic import to avoid build errors when Clerk key is missing
+  const { ClerkProvider } = require("@clerk/nextjs");
+
+  const clerkAppearance = {
+    variables: {
+      colorPrimary: "#c3c0ff",
+      colorBackground: "#201e2e",
+      colorText: "#e5dff7",
+      colorTextSecondary: "#c7c4d8",
+      colorInputBackground: "transparent",
+      colorInputText: "#e5dff7",
+      borderRadius: "0.125rem",
+    },
+  };
+
+  return <ClerkProvider appearance={clerkAppearance}>{children}</ClerkProvider>;
+}
 
 export default function RootLayout({
   children,
@@ -38,7 +48,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <ClerkProvider appearance={clerkAppearance}>
+    <AuthWrapper>
       <html lang="en">
         <body
           className={`${geistSans.variable} ${geistMono.variable} font-body antialiased bg-surface text-on-surface min-h-screen`}
@@ -46,6 +56,6 @@ export default function RootLayout({
           {children}
         </body>
       </html>
-    </ClerkProvider>
+    </AuthWrapper>
   );
 }

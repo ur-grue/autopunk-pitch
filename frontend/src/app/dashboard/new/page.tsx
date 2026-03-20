@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
-import { useAuth } from "@clerk/nextjs";
+import { useAuthSafe } from "@/lib/auth";
 import { createProject } from "@/lib/api";
 import { Button } from "@/components/ui/button";
 import { Input, Select, Label } from "@/components/ui/input";
@@ -27,7 +27,7 @@ const LANGUAGES = [
 
 export default function NewProjectPage() {
   const router = useRouter();
-  const { getToken } = useAuth();
+  const { getToken } = useAuthSafe();
   const [name, setName] = useState("");
   const [sourceLanguage, setSourceLanguage] = useState("en");
   const [targetLanguages, setTargetLanguages] = useState<string[]>([]);

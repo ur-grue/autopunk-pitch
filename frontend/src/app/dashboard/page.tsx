@@ -1,13 +1,13 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { useAuth } from "@clerk/nextjs";
+import { useAuthSafe } from "@/lib/auth";
 import Link from "next/link";
 import { listProjects, type Project } from "@/lib/api";
 import { Badge } from "@/components/ui/badge";
 
 export default function DashboardPage() {
-  const { getToken } = useAuth();
+  const { getToken } = useAuthSafe();
   const [projects, setProjects] = useState<Project[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
