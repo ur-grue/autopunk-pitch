@@ -1,0 +1,290 @@
+[metadata]
+name = "Contemporary Romance"
+description = "Book 6 of The Blackwell Interns — an events intern and the charming Events Director. Second chance romance with a one-night stand twist. Steamiest book in the series."
+tone = "charged, playful, emotionally raw"
+themes = ["past mistakes", "second chances", "professionalism vs. desire", "vulnerability after casual intimacy"]
+n_chapters = 20
+chapter_length = 2500
+target_audience = "women 18-30, BookTok romance readers"
+author_style = "Avery Sinclair"
+tropes = ["second chance", "workplace romance", "forbidden (boss-intern)", "secret history"]
+
+[meta]
+purpose = "Instruction specification for Book 6 of 'The Blackwell Interns' series by Avery Sinclair. A commercially optimized contemporary workplace romance novel featuring a young female events intern and the charming but emotionally guarded Events Director at a prestigious NYC fashion media empire. Medium-high spice (the steamiest book in the series so far). Second chance romance with a one-night stand twist. HEA guaranteed."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define emotional, structural, sensual, and psychological characteristics required for maximum reader obsession, binge-read behavior, and conversion on Amazon KDP, Kindle Unlimited, and BookTok."
+
+[series]
+name = "The Blackwell Interns"
+author = "Avery Sinclair"
+book_number = 6
+total_books = 7
+book_title = "Event Horizon"
+company = "Blackwell Media Group — a prestigious NYC fashion and media conglomerate housed in a glass tower in Midtown Manhattan"
+shared_locations = ["Blackwell Tower (glass skyscraper, Midtown Manhattan)", "The Thirty-Six (rooftop bar, 36th floor)", "The marble-and-glass lobby", "Central Park (lunch breaks, emotional conversations)"]
+recurring_character = "Marcus Blackwell — founder/CEO, 60s, mentor figure, brief appearance"
+timeline = "One summer internship, June through August"
+intern_cohort = "Seven female interns across seven departments who know each other, have a group chat, and support each other throughout the summer"
+
+[book_specific]
+department = "Events"
+heroine_role = "Events intern — organized, high-energy, hides vulnerability behind competence, the 'always has it together' friend who is actually falling apart inside after her parents' divorce"
+hero_role = "Events Director — smooth, confident publicly, haunted by a failed engagement (his ex left him at the altar), uses charm as armor"
+primary_trope = "second chance — they had a one-night stand the night before she started the internship"
+secondary_tropes = ["workplace romance", "forbidden (boss-intern)", "secret history"]
+central_conflict = "She walks into orientation and sees her one-night stand is her boss. They agree to pretend it never happened. But they are forced to work together on every event. The chemistry is undeniable. They keep 'accidentally' ending up alone together. She starts falling but he is terrified of being left again after his ex abandoned him at the altar."
+spice_beats = "Their shared history adds heat from page one — they have already been intimate. Three steamy scenes around chapters 8, 15, and 19. Medium-high spice — the steamiest book in the series so far. Sensual, vivid, and emotionally charged with explicit physical detail grounded in emotional vulnerability."
+cameos = "All five previous couples appear in meaningful scenes. The intern cohort is tight — multiple scenes of friendship, group dinners, and honest conversations. The editorial intern, styling intern, social media intern, PR intern, and photography intern all have established relationships by now. Reference the Blackwell Gala preparations as setup for Book 7."
+previous_books_context = "Books 1-5 couples are established and happy. The intern friend group has deepened over the summer. The Blackwell Gala (the company's biggest annual event) is being planned — this is the heroine's biggest professional challenge and the series-wide culmination event in Book 7."
+epilogue_setup = "Epilogue hints at Book 7 couple (executive intern + CFO) and teases the Blackwell Gala as the series finale event"
+
+[target_audience]
+primary_gender = "female"
+age_range = "18-30"
+psychographic_profile = [
+    "seeks emotionally intense romantic experiences",
+    "fantasizes about being uniquely chosen and desired",
+    "values emotional validation and exclusivity",
+    "responds strongly to power dynamics balanced with emotional safety",
+    "prefers strong emotional payoff and satisfying romantic resolution",
+    "engages deeply with character psychology and romantic tension",
+    "actively consumes BookTok-recommended romance",
+    "prefers immersive escapist emotional narratives",
+    "enjoys the thrill of a shared secret between romantic leads",
+    "drawn to second chance stories where past chemistry reignites"
+]
+reader_fantasy_drivers = [
+    "being seen and recognized as uniquely special",
+    "the intoxicating tension of a secret shared history",
+    "being desired by a high-status, confident, and attractive partner who only loses control around you",
+    "emotional exclusivity — being the one person who gets past his armor",
+    "emotional security earned through vulnerability and trust",
+    "romantic partner confronting his deepest fear to choose the protagonist"
+]
+
+[genre]
+primary = "contemporary romance"
+secondary = ["workplace romance", "boss-intern romance", "second chance romance", "forbidden romance", "one-night stand to more"]
+genre_requirements = [
+    "romance must be primary narrative driver",
+    "external plot elements must exist only to intensify romantic tension",
+    "emotional and romantic progression must drive pacing",
+    "story must prioritize emotional immersion over external action",
+    "the shared sexual history must create immediate tension that builds rather than dissipates"
+]
+
+[romantic_dynamic]
+core_dynamic = "second_chance_forbidden"
+dynamic_definition = [
+    "male counterpart publicly charming and confident but privately guarded and afraid of abandonment",
+    "female protagonist competent and energetic on the surface but emotionally fragile underneath",
+    "their one-night stand created genuine connection neither expected",
+    "forced proximity at work makes avoidance impossible",
+    "both use professionalism as a shield against reigniting what they felt that first night",
+    "male counterpart gradually reveals the depth beneath his smooth exterior only with protagonist",
+    "protagonist is the first person since his failed engagement he cannot keep at arm's length"
+]
+power_dynamic_calibration = [
+    "male counterpart initially holds structural authority as her direct supervisor",
+    "their shared secret creates an equalizing vulnerability — he has as much to lose as she does",
+    "male counterpart must never emotionally exploit protagonist or leverage their history",
+    "male counterpart must demonstrate increasing emotional respect and equality",
+    "relationship must evolve into emotional and relational equality"
+]
+
+[romantic_partner_design]
+male_counterpart_required_traits = [
+    "publicly charming and socially masterful",
+    "privately haunted by abandonment trauma",
+    "uses humor and confidence as emotional armor",
+    "highly competent event orchestrator",
+    "protective without being possessive",
+    "terrified of emotional investment after being left at the altar",
+    "demonstrates emotional vulnerability only after prolonged resistance"
+]
+attraction_model = [
+    "immediate physical recognition and tension from their shared night",
+    "attempted professional distance",
+    "involuntary moments of intimacy during high-pressure event work",
+    "gradual emotional dependence masked as professional partnership",
+    "his fear of abandonment creating push-pull cycles",
+    "emotional surrender when he realizes losing her is worse than risking heartbreak"
+]
+exclusivity_requirement = "male counterpart must demonstrate emotional exclusivity toward protagonist — she is the only person who has gotten past his defenses since his failed engagement"
+
+[protagonist_design]
+protagonist_gender = "female"
+required_psychological_traits = [
+    "organized and high-energy — the person everyone relies on",
+    "hides emotional vulnerability behind competence and a bright exterior",
+    "privately processing her parents' divorce and its impact on her belief in lasting love",
+    "capable of deep emotional honesty when she trusts someone",
+    "authentic and relatable despite her put-together surface",
+    "afraid that if she stops being useful, people will leave — like her father did"
+]
+reader_identification_requirement = "reader must easily psychologically project into protagonist — her fear of not being enough and her tendency to hold everything together for everyone else are deeply relatable"
+
+[emotional_design]
+primary_emotional_drivers = [
+    "sexual tension amplified by shared history",
+    "the ache of pretending something never happened when the memory is vivid",
+    "longing for emotional safety in a world where love feels unreliable",
+    "anticipation — every event they plan together is a ticking bomb of proximity",
+    "emotional vulnerability as the ultimate intimacy",
+    "the terror and relief of being truly known"
+]
+emotional_progression_model = [
+    "shock and denial — recognizing each other at orientation",
+    "pretending nothing happened — professional distance, stolen glances",
+    "forced proximity reignition — late nights planning events break down walls",
+    "giving in — stolen moments, secret kisses, the physical pull becomes undeniable",
+    "his fear of abandonment pushes her away — he panics when feelings deepen",
+    "crisis — she almost transfers to another department to protect herself",
+    "he stops her and confesses his fear — raw vulnerability",
+    "resolution — he chooses her despite the risk",
+    "emotional security — both finally feel safe enough to be fully seen"
+]
+attachment_mechanisms = [
+    "private moments of honesty during event setup — the quiet before the crowd arrives",
+    "him seeing through her competent exterior to the vulnerable woman underneath",
+    "her recognizing that his charm is armor, not authenticity",
+    "protective behaviors during high-stress event emergencies",
+    "physical callbacks to their first night together that carry new emotional weight",
+    "moments where professional partnership reveals genuine compatibility"
+]
+
+[sensuality_calibration]
+intensity = "medium-high spice — the steamiest book in the series so far. Three steamy scenes with explicit physical detail grounded in emotional vulnerability. Their shared history means the physical tension is immediate and the stakes are higher — this is not a first time, it is a return to something they both tried to forget."
+sensual_expression_methods = [
+    "charged proximity amplified by memory of their first night",
+    "involuntary physical responses — catching breath, pulse racing at accidental touch",
+    "deliberate physical contact disguised as professional necessity",
+    "heightened sensory awareness in private moments during event prep",
+    "emotional responses to physical closeness that echo their one-night stand",
+    "psychological anticipation built on knowledge of what the other person is like in bed",
+    "tactile detail during intimate scenes that carries emotional meaning",
+    "breath and heartbeat awareness during stolen moments",
+    "the specific ache of wanting someone you have already had and are pretending you do not want again"
+]
+sensuality_function = "amplify emotional intimacy and demonstrate that physical connection without emotional safety is not enough — the real heat comes from vulnerability"
+
+[pacing]
+structure_priority = "emotional progression"
+chapter_count = 20
+chapter_length_words = 2500
+tension_maintenance_protocol = [
+    "romantic and sexual tension must remain unresolved for majority of narrative",
+    "their shared history creates immediate tension that traditional slow burns lack — use this advantage",
+    "emotional payoff must be delayed strategically even when physical payoff comes earlier",
+    "each chapter must increase romantic or emotional stakes",
+    "avoid emotional neutrality — every scene carries the weight of what they are pretending did not happen"
+]
+reader_retention_mechanisms = [
+    "unresolved romantic tension despite physical familiarity",
+    "emotional uncertainty — will his fear of abandonment win",
+    "anticipation of emotional payoff",
+    "deepening emotional intimacy that outpaces the physical connection they already share",
+    "the friend group scenes provide warmth and humor between high-tension beats"
+]
+
+[immersion_protocol]
+narrative_perspective = "first person"
+perspective_priority = "maximize emotional intimacy"
+description_priority_order = [
+    "emotional internal experience — especially the gap between her composed exterior and inner turmoil",
+    "sensory awareness — particularly physical reactions to his proximity",
+    "interpretation of romantic partner behavior — reading his charm versus his real emotions",
+    "external environment — event venues as emotional mirrors"
+]
+immersion_methods = [
+    "internal emotional monologue revealing the contrast between her public composure and private chaos",
+    "detailed emotional reactions to his presence, touch, and words",
+    "sensory amplification during romantic and professional proximity moments",
+    "continuous emotional continuity — every scene carries forward the tension of their secret",
+    "physical memory flashbacks to their first night triggered by proximity"
+]
+
+[conflict_design]
+conflict_types = [
+    "internal emotional resistance — both pretending their one-night stand meant nothing",
+    "his abandonment trauma — his ex left him at the altar and he cannot survive that again",
+    "her fear that love is unreliable — her parents' divorce shattered her faith in permanence",
+    "professional boundary tension — he is her direct supervisor and the company has policies",
+    "the secret itself — if anyone finds out about their history, both their careers are at risk",
+    "his push-pull pattern — getting close then retreating when feelings deepen",
+    "her almost transferring out of the events department to protect herself emotionally"
+]
+conflict_resolution_requirement = "conflicts must resolve in favor of emotional union — he must choose vulnerability over self-protection, and she must choose to trust love again despite everything"
+
+[ending_requirements]
+ending_type = "HEA"
+hea_definition = [
+    "clear emotional commitment — he chooses her knowing the risk",
+    "long-term romantic stability built on mutual vulnerability",
+    "emotional openness between partners — no more armor, no more pretending",
+    "elimination of emotional barriers — his abandonment fear addressed, her trust restored",
+    "reader certainty of permanent romantic union"
+]
+emotional_resolution_requirements = [
+    "male counterpart must fully emotionally open — confessing his fear of abandonment and choosing her anyway",
+    "male counterpart must actively choose protagonist over emotional safety",
+    "protagonist must feel emotionally secure — finally believing someone will stay",
+    "emotional payoff must exceed emotional tension experienced — the relief must be cathartic",
+    "epilogue hints at Book 7 couple (executive intern + CFO) and teases the Blackwell Gala as the series finale"
+]
+
+[reader_conversion_optimization]
+booktok_alignment = [
+    "the moment she walks into orientation and sees him — instant viral hook",
+    "emotionally intense dialogue moments where the pretense cracks",
+    "memorable scenes where professional composure breaks in private",
+    "emotionally vulnerable confessions — especially his altar abandonment reveal",
+    "moments where physical familiarity collides with emotional distance",
+    "high emotional payoff scenes — especially his grand gesture to stop her from leaving",
+    "quotable lines about second chances and choosing love over fear"
+]
+kindle_unlimited_optimization = [
+    "fast emotional engagement from chapter 1 — the recognition scene is an immediate hook",
+    "consistent romantic progression despite the push-pull dynamic",
+    "avoid prolonged exposition — ground backstory in present-tense emotional reactions",
+    "maximize immersive readability",
+    "20 chapters at ~2500 words for fast page-turn pace",
+    "friend group scenes provide breathing room without losing momentum"
+]
+
+[prohibited_elements]
+emotionally_unavailable_ending = true
+ambiguous_romantic_resolution = true
+emotionally_passive_male_counterpart = true
+emotionally_passive_protagonist = true
+abuse_framed_as_romance = true
+stalking_framed_as_devotion = true
+
+[required_reader_effect]
+psychological_outcomes = [
+    "strong emotional attachment to romantic partner — readers should ache for him",
+    "emotional immersion — feeling the protagonist's composure fracture in real time",
+    "emotional catharsis — the relief when he finally stops running",
+    "reader satisfaction with romantic resolution",
+    "desire to immediately read Book 7 — the Blackwell Gala finale",
+    "desire to reread and recommend — especially the recognition scene and the confession",
+    "this should feel like the emotional peak of the series before the grand finale"
+]
+
+[setting]
+city = "New York City"
+neighborhood = "Midtown Manhattan"
+building = "Blackwell Tower — a glass-and-steel skyscraper housing Blackwell Media Group"
+key_locations = [
+    "the events floor (open space with mood boards, seating charts, and sample centerpieces — organized chaos)",
+    "his office (glass-walled, overlooking the city — where they first lock eyes at orientation)",
+    "The Thirty-Six rooftop bar (after-work drinks with the intern cohort, city views, loaded glances across the group)",
+    "event venues across NYC — rooftop galas with Manhattan glittering below, museum openings with art as emotional backdrop, charity dinners in candlelit ballrooms",
+    "his apartment — the scene of their one-night stand, revisited with devastating emotional weight",
+    "a supply closet at a venue (their first kiss since that night — unplanned, electric)",
+    "Central Park at night after a gala falls apart (their most honest conversation)"
+]
+season = "summer — June through August, hot NYC nights, rooftop events, thunderstorms that trap them together"

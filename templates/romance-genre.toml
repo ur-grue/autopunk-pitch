@@ -1,0 +1,50 @@
+# ccwriter Genre Configuration — Rich Format
+# This format supports detailed emotional and structural specifications.
+
+[metadata]
+name = "Contemporary Romance"
+description = "A driven corporate lawyer forced to co-counsel with her ex-boyfriend on a high-profile case discovers that the person she's fighting hardest against is herself."
+tone = "witty, emotionally charged, tension-filled with moments of tenderness"
+themes = ["vulnerability as strength", "second chances", "ambition vs. connection", "forgiveness"]
+n_chapters = 24
+chapter_length = 3500
+target_audience = "women 25-45, romance readers, BookTok audience"
+author_style = "Emily Henry"
+tropes = ["second chance romance", "forced proximity", "workplace rivals", "he fell first"]
+
+[emotional_design]
+core_tension = "professional ambition vs. unresolved love"
+emotional_arc = "guarded → cracking → vulnerable → shattered → rebuilt"
+heat_level = "closed door with high emotional intimacy"
+hea_type = "hard-won HEA — both characters must sacrifice something real"
+
+[pacing]
+act1_percent = 25
+act2_percent = 50
+act3_percent = 25
+chapter_length_range = [3000, 4000]
+cliffhanger_frequency = "every chapter except the last"
+
+[characters.protagonist]
+name_suggestion = "Maya Chen"
+age_range = "30-34"
+occupation = "senior associate at a top law firm"
+wound = "abandoned by her father, equates love with being left"
+want = "to make partner — proof she doesn't need anyone"
+need = "to let someone in without it meaning she's weak"
+
+[characters.love_interest]
+name_suggestion = "Ethan Park"
+age_range = "32-35"
+occupation = "plaintiff's attorney, former public defender"
+wound = "chose career over their relationship three years ago"
+want = "to win the case and prove he made the right choice"
+need = "to admit he made the wrong one"
+
+[reader_retention]
+kindle_unlimited = true
+booktok_hooks = ["the tension when they're forced to share an office", "the courtroom scene where everything unravels", "chapter 18 will DESTROY you"]
+series_potential = "standalone with series potential (law firm ensemble)"
+
+[prohibited]
+never_include = ["love triangle", "cheating", "miscommunication that could be solved by one conversation", "perfect protagonist", "instant forgiveness"]

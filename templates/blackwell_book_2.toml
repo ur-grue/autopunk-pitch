@@ -1,0 +1,266 @@
+[metadata]
+name = "Contemporary Romance"
+description = "Book 2 of The Blackwell Interns — a styling intern and the brooding Creative Director during Fashion Week in NYC. Fake dating becomes real."
+tone = "emotionally intense, glamorous, romantic"
+themes = ["authenticity", "self-worth", "class difference", "creative passion"]
+n_chapters = 20
+chapter_length = 2500
+target_audience = "women 18-30, BookTok romance readers"
+author_style = "Avery Sinclair"
+tropes = ["fake dating", "grumpy-sunshine", "workplace romance", "class difference"]
+
+[meta]
+purpose = "Instruction specification for Book 2 of 'The Blackwell Interns' series by Avery Sinclair. A commercially optimized contemporary workplace romance featuring a styling intern and the brooding Creative Director at Blackwell Media Group during Fashion Week in NYC. Fake dating becomes real. Medium spice. HEA guaranteed."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define emotional, structural, sensual, and psychological characteristics required for maximum reader obsession, binge-read behavior, and conversion on Amazon KDP, Kindle Unlimited, and BookTok."
+
+[series]
+name = "The Blackwell Interns"
+author = "Avery Sinclair"
+book_number = 2
+total_books = 7
+book_title = "Styled by You"
+company = "Blackwell Media Group — a prestigious NYC fashion and media conglomerate housed in a glass tower in Midtown Manhattan"
+shared_locations = ["Blackwell Tower (glass skyscraper, Midtown Manhattan)", "The Thirty-Six (rooftop bar, 36th floor)", "The marble-and-glass lobby", "Central Park"]
+recurring_character = "Marcus Blackwell — founder/CEO, 60s, mentor figure, brief appearance"
+timeline = "One summer internship, June through August"
+intern_cohort = "Seven female interns across seven departments — protagonist is close friends with the editorial intern from Book 1 (Corner Office Crush)"
+previous_books = "Book 1: Corner Office Crush — editorial intern and Editor-in-Chief now together, brief cameo showing their happy relationship"
+
+[book_specific]
+department = "Fashion/Design"
+heroine_role = "Styling intern — bold, creative, fearless in her aesthetic choices, unafraid to challenge his vision, comes from a working-class background and earned her spot on talent alone"
+hero_role = "Creative Director — perfectionist, brooding, internationally acclaimed but secretly insecure about his upcoming collection, emotionally closed off since his last relationship was with someone who only wanted his status"
+primary_trope = "fake dating that becomes real"
+secondary_tropes = ["grumpy-sunshine", "workplace romance", "class difference"]
+central_conflict = "He needs a 'girlfriend' for press appearances during Fashion Week to deflect tabloid rumors about his personal life. She volunteers because she wants access to the shows. Neither expected real feelings. When Fashion Week ends, the fake relationship should end too — but neither can walk away."
+spice_beats = "Tension through fittings and photoshoots where physical proximity is required. Two steamy scenes around chapters 15 and 18. Medium spice."
+cameos = "Editorial intern from Book 1 appears as close friend. Other interns mentioned in group chat scenes."
+
+[target_audience]
+primary_gender = "female"
+age_range = "18-30"
+psychographic_profile = [
+    "seeks emotionally intense romantic experiences",
+    "fantasizes about being uniquely chosen and desired",
+    "values emotional validation and exclusivity",
+    "responds strongly to power dynamics balanced with emotional safety",
+    "prefers strong emotional payoff and satisfying romantic resolution",
+    "engages deeply with character psychology and romantic tension",
+    "actively consumes BookTok-recommended romance",
+    "prefers immersive escapist emotional narratives"
+]
+reader_fantasy_drivers = [
+    "being seen and recognized as uniquely special",
+    "melting the emotional defenses of an emotionally unavailable partner",
+    "being desired by a high-status, competent, and attractive partner",
+    "emotional exclusivity",
+    "emotional security earned through vulnerability",
+    "romantic partner prioritizing protagonist above everything else"
+]
+
+[genre]
+primary = "contemporary romance"
+secondary = ["workplace romance", "fake dating romance", "grumpy-sunshine romance", "fashion world romance", "slow-burn romance"]
+genre_requirements = [
+    "romance must be primary narrative driver",
+    "external plot elements must exist only to intensify romantic tension",
+    "emotional and romantic progression must drive pacing",
+    "story must prioritize emotional immersion over external action"
+]
+
+[romantic_dynamic]
+core_dynamic = "grumpy_sunshine"
+dynamic_definition = [
+    "male counterpart emotionally guarded, controlled, and restrained",
+    "female protagonist emotionally open, bold, and authentic",
+    "the fake dating arrangement forces physical proximity and emotional intimacy",
+    "he begins performing affection for cameras but finds himself meaning it",
+    "she sees through his public persona to the insecure artist underneath"
+]
+power_dynamic_calibration = [
+    "male counterpart initially holds structural authority",
+    "male counterpart must never emotionally exploit protagonist",
+    "the fake dating arrangement equalizes their power — she has leverage too",
+    "relationship must evolve into emotional and relational equality"
+]
+
+[romantic_partner_design]
+male_counterpart_required_traits = [
+    "highly competent and creatively brilliant",
+    "emotionally controlled in public, volatile in private",
+    "psychologically complex — insecurity hidden behind arrogance",
+    "protective without being possessive",
+    "restrained emotional expression except with protagonist",
+    "demonstrates emotional vulnerability when she sees his unfinished designs"
+]
+attraction_model = [
+    "initial dismissal — she's just an intern",
+    "forced proximity through fake dating",
+    "involuntary attraction during photoshoots and fittings",
+    "emotional dependence — he starts needing her opinion on his work",
+    "emotional surrender — he chooses her over his carefully constructed image"
+]
+exclusivity_requirement = "male counterpart must demonstrate emotional exclusivity toward protagonist"
+
+[protagonist_design]
+protagonist_gender = "female"
+required_psychological_traits = [
+    "emotionally intelligent",
+    "bold and creatively confident",
+    "capable of emotional vulnerability beneath her bravado",
+    "capable of emotional growth",
+    "authentic and relatable — working-class roots ground her"
+]
+reader_identification_requirement = "reader must easily psychologically project into protagonist"
+
+[emotional_design]
+primary_emotional_drivers = [
+    "romantic tension heightened by fake intimacy becoming real",
+    "longing — wanting what started as pretend",
+    "anticipation of the moment the act drops",
+    "emotional vulnerability when the cameras aren't watching",
+    "emotional validation — he values her creative eye",
+    "emotional exclusivity",
+    "emotional safety after uncertainty"
+]
+emotional_progression_model = [
+    "professional arrangement",
+    "forced proximity attraction",
+    "blurred lines between fake and real",
+    "emotional connection in private moments",
+    "fear of loss when Fashion Week ends",
+    "emotional crisis — she overhears him call it just business",
+    "emotional resolution — he publicly chooses her",
+    "emotional security"
+]
+attachment_mechanisms = [
+    "private moments where the act drops and they're just themselves",
+    "him asking her opinion on his designs — trusting her eye",
+    "protective behaviors at industry events",
+    "the first time he touches her without cameras watching",
+    "increasing emotional openness about his insecurities"
+]
+
+[sensuality_calibration]
+intensity = "medium spice — sensual and vivid, 2-3 steamy scenes per book, tasteful but present"
+sensual_expression_methods = [
+    "charged proximity during fittings — her hands adjusting his collar",
+    "lingering eye contact across crowded Fashion Week events",
+    "deliberate physical contact that starts as performance",
+    "heightened sensory awareness — fabric, scent, skin",
+    "the moment a staged kiss becomes real",
+    "psychological anticipation between public appearances"
+]
+sensuality_function = "amplify the tension between fake and real intimacy"
+
+[pacing]
+structure_priority = "emotional progression"
+chapter_count = 20
+chapter_length_words = 2500
+tension_maintenance_protocol = [
+    "romantic tension must remain unresolved for majority of narrative",
+    "the fake dating arrangement must feel increasingly unsustainable",
+    "each chapter must blur the line between performance and reality further",
+    "avoid emotional neutrality"
+]
+reader_retention_mechanisms = [
+    "unresolved question: is this real or still fake?",
+    "emotional uncertainty — does he actually feel it?",
+    "anticipation of the moment they drop the act",
+    "Fashion Week deadline creates natural urgency"
+]
+
+[immersion_protocol]
+narrative_perspective = "first person"
+perspective_priority = "maximize emotional intimacy"
+description_priority_order = [
+    "emotional internal experience",
+    "sensory awareness — especially touch, fabric, scent",
+    "interpretation of romantic partner behavior — is this real or performance?",
+    "the glamorous fashion world as backdrop"
+]
+immersion_methods = [
+    "internal emotional monologue questioning what's real",
+    "detailed sensory reactions during intimate styling moments",
+    "sensory amplification during romantic moments",
+    "continuous emotional continuity"
+]
+
+[conflict_design]
+conflict_types = [
+    "internal confusion — are these feelings real or manufactured by proximity?",
+    "fear of being used for his image",
+    "class difference — she doesn't belong in his world",
+    "professional boundary tension",
+    "Fashion Week ending means the arrangement ends",
+    "she overhears him downplaying their relationship to a colleague"
+]
+conflict_resolution_requirement = "conflicts must resolve in favor of emotional union"
+
+[ending_requirements]
+ending_type = "HEA"
+hea_definition = [
+    "clear emotional commitment — he publicly declares her as real, not a performance",
+    "long-term romantic stability",
+    "emotional openness between partners",
+    "elimination of emotional barriers",
+    "reader certainty of permanent romantic union"
+]
+emotional_resolution_requirements = [
+    "male counterpart must publicly choose protagonist — not behind closed doors",
+    "male counterpart must actively reject the safety of his controlled image",
+    "protagonist must feel emotionally secure that she is chosen for herself",
+    "emotional payoff must exceed emotional tension experienced",
+    "epilogue hints at Book 3 couple (social media intern + Head of Digital)"
+]
+
+[reader_conversion_optimization]
+booktok_alignment = [
+    "the first real kiss vs all the fake ones",
+    "emotionally intense Fashion Week scenes",
+    "vulnerable confession where he admits it was never fake for him",
+    "moments demonstrating emotional exclusivity",
+    "high emotional payoff scenes"
+]
+kindle_unlimited_optimization = [
+    "fast emotional engagement from chapter 1",
+    "consistent romantic progression",
+    "avoid prolonged exposition",
+    "maximize immersive readability",
+    "20 chapters at ~2500 words for fast page-turn pace"
+]
+
+[prohibited_elements]
+emotionally_unavailable_ending = true
+ambiguous_romantic_resolution = true
+emotionally_passive_male_counterpart = true
+emotionally_passive_protagonist = true
+abuse_framed_as_romance = true
+
+[required_reader_effect]
+psychological_outcomes = [
+    "strong emotional attachment to romantic partner",
+    "emotional immersion",
+    "emotional catharsis",
+    "reader satisfaction with romantic resolution",
+    "desire to immediately read Book 3",
+    "desire to reread and recommend"
+]
+
+[setting]
+city = "New York City"
+neighborhood = "Midtown Manhattan and the Garment District"
+building = "Blackwell Tower — plus Fashion Week venues across Manhattan"
+key_locations = [
+    "the design studio (his creative sanctum — fabric swatches, mood boards, half-dressed mannequins)",
+    "Fashion Week runway shows and backstage chaos",
+    "The Thirty-Six rooftop bar (after-show drinks with industry people)",
+    "a fitting room where she adjusts clothes on him for a press appearance",
+    "his penthouse apartment (where the act drops completely)",
+    "her shared apartment in Bushwick with the other interns"
+]
+season = "summer — June through August, Fashion Week heat, rooftop parties, city energy"

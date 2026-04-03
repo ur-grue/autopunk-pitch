@@ -1,0 +1,275 @@
+[metadata]
+name = "Contemporary Romance"
+description = "Book 3 of The Blackwell Interns — a sharp-tongued social media intern and the analytical Head of Digital. Rivals-to-lovers."
+tone = "witty, combative, emotionally charged"
+themes = ["competition", "respect earned through conflict", "vulnerability beneath bravado"]
+n_chapters = 20
+chapter_length = 2500
+target_audience = "women 18-30, BookTok romance readers"
+author_style = "Avery Sinclair"
+tropes = ["rivals-to-lovers", "enemies-to-lovers", "workplace romance", "forced collaboration"]
+
+[meta]
+purpose = "Instruction specification for Book 3 of 'The Blackwell Interns' series by Avery Sinclair. A commercially optimized contemporary workplace romance novel featuring a sharp-tongued social media intern and the analytical Head of Digital at a prestigious NYC fashion media empire. Rivals-to-lovers. Medium spice. HEA guaranteed."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define emotional, structural, sensual, and psychological characteristics required for maximum reader obsession, binge-read behavior, and conversion on Amazon KDP, Kindle Unlimited, and BookTok."
+
+[series]
+name = "The Blackwell Interns"
+author = "Avery Sinclair"
+book_number = 3
+total_books = 7
+book_title = "Front Page Feelings"
+company = "Blackwell Media Group — a prestigious NYC fashion and media conglomerate housed in a glass tower in Midtown Manhattan"
+shared_locations = ["Blackwell Tower (glass skyscraper, Midtown Manhattan)", "The Thirty-Six (rooftop bar, 36th floor)", "The marble-and-glass lobby", "Central Park (lunch breaks, emotional conversations)"]
+recurring_character = "Marcus Blackwell — founder/CEO, 60s, mentor figure, forces the rivals to collaborate instead of firing her"
+timeline = "One summer internship, June through August"
+intern_cohort = "Seven female interns across seven departments who know each other, have a group chat, and support each other throughout the summer"
+
+[book_specific]
+department = "Digital Media"
+heroine_role = "Social media intern — witty, sharp-tongued, builds a following fast, uses humor as armor to hide vulnerability"
+hero_role = "Head of Digital — analytical, competitive, data-driven strategist who is threatened by her natural instincts for viral content, secretly respects her talent"
+primary_trope = "rivals-to-lovers — she goes viral roasting his strategy and the war begins"
+secondary_tropes = ["enemies-to-lovers", "workplace romance", "forced collaboration"]
+central_conflict = "Her viral post publicly embarrasses him and his carefully built digital strategy. He wants her fired. Marcus Blackwell overrules him and orders them to collaborate on a major campaign instead. Forced into proximity, their arguments sharpen into tension, their tension ignites into attraction, and their attraction terrifies them both."
+spice_beats = "Two steamy scenes around chapters 14 and 19. Medium spice — hate-chemistry that explodes. Sensual and vivid but not explicit anatomical description. The animosity makes the physical moments feel inevitable and electric."
+cameos = "Editorial intern from Book 1 (Corner Office Crush) and styling intern from Book 2 (Styled by You) appear as close friends and confidantes. Both are now in established relationships with their respective love interests. Other interns active in the group chat. Brief appearances from the Book 1 and Book 2 heroes in social settings."
+previous_books = "Book 1 (Corner Office Crush) — editorial intern and Editor-in-Chief, now an established couple. Book 2 (Styled by You) — styling intern and Creative Director, now an established couple. Both couples cameo briefly as proof that workplace love at Blackwell can work."
+epilogue_hint = "Epilogue hints at Book 4 couple — the PR intern and the VP of Communications, who are glimpsed in a charged exchange at a company event"
+
+[target_audience]
+primary_gender = "female"
+age_range = "18-30"
+psychographic_profile = [
+    "seeks emotionally intense romantic experiences",
+    "fantasizes about being uniquely chosen and desired",
+    "values emotional validation and exclusivity",
+    "responds strongly to rivals-to-lovers tension and competitive banter",
+    "enjoys watching enemies realize they've been falling all along",
+    "engages deeply with character psychology and romantic tension",
+    "actively consumes BookTok-recommended romance",
+    "prefers immersive escapist emotional narratives"
+]
+reader_fantasy_drivers = [
+    "being respected and desired by someone who initially dismissed you",
+    "winning over someone who fought their attraction",
+    "proving yourself to a rival who becomes your greatest advocate",
+    "emotional exclusivity — being the only person who gets past his walls",
+    "the thrill of verbal sparring that becomes foreplay",
+    "romantic partner choosing you over pride and professional ego"
+]
+
+[genre]
+primary = "contemporary romance"
+secondary = ["workplace romance", "rivals-to-lovers romance", "enemies-to-lovers romance", "forced proximity romance", "banter-driven romance"]
+genre_requirements = [
+    "romance must be primary narrative driver",
+    "external plot elements must exist only to intensify romantic tension",
+    "emotional and romantic progression must drive pacing",
+    "story must prioritize emotional immersion over external action"
+]
+
+[romantic_dynamic]
+core_dynamic = "rivals_to_lovers"
+dynamic_definition = [
+    "male counterpart and protagonist are professional adversaries with opposing philosophies — data vs. instinct",
+    "their arguments are charged with underlying attraction neither will acknowledge",
+    "respect grows grudgingly through forced collaboration",
+    "male counterpart gradually admits her instincts outperform his analytics in key moments",
+    "protagonist gradually sees the protective strategy behind his rigid methods",
+    "hostility transforms into tension, tension into desire, desire into emotional need"
+]
+power_dynamic_calibration = [
+    "male counterpart initially holds structural authority as department head",
+    "protagonist holds cultural power — she understands the audience better than he does",
+    "forced collaboration equalizes their professional standing",
+    "male counterpart must never emotionally exploit protagonist",
+    "relationship must evolve into emotional and relational equality"
+]
+
+[romantic_partner_design]
+male_counterpart_required_traits = [
+    "highly competent and strategically brilliant",
+    "analytically minded — trusts data over gut feeling",
+    "competitive and territorial about his department's reputation",
+    "emotionally controlled — uses logic to avoid vulnerability",
+    "secretly impressed by her talent but too proud to admit it",
+    "demonstrates emotional vulnerability only after prolonged antagonism breaks his defenses"
+]
+attraction_model = [
+    "initial professional hostility and wounded pride",
+    "involuntary respect emerging through forced collaboration",
+    "attraction disguised as irritation and competitive fixation",
+    "growing emotional dependency masked as professional need",
+    "emotional surrender when maintaining the rivalry becomes unbearable"
+]
+exclusivity_requirement = "male counterpart must demonstrate emotional exclusivity toward protagonist — she is the only person who challenges him, sees through him, and makes him want to be better"
+
+[protagonist_design]
+protagonist_gender = "female"
+required_psychological_traits = [
+    "quick-witted and sharp-tongued — her humor is both weapon and shield",
+    "naturally gifted at reading people and audiences",
+    "uses comedy and deflection to hide deeper insecurities about being taken seriously",
+    "fiercely independent but privately craves genuine connection",
+    "capable of emotional growth — learns that vulnerability is not weakness"
+]
+reader_identification_requirement = "reader must easily psychologically project into protagonist — her sharp humor is relatable armor, her fear of being dismissed is universal"
+
+[emotional_design]
+primary_emotional_drivers = [
+    "competitive tension",
+    "grudging respect",
+    "frustrated attraction",
+    "emotional vulnerability hidden beneath banter",
+    "the ache of wanting someone you're supposed to hate",
+    "emotional validation from an adversary"
+]
+emotional_progression_model = [
+    "hostility — she humiliates him publicly, he retaliates professionally",
+    "grudging respect — forced collaboration reveals mutual competence",
+    "confused attraction — arguments start ending in charged silences",
+    "denial — both rationalize their feelings as competitive fixation",
+    "emotional crisis — she discovers his strategy she mocked was actually protecting the company from a predatory acquisition",
+    "vulnerability — guilt and tenderness crack both their defenses",
+    "emotional resolution — choosing each other over pride",
+    "emotional security — mutual respect, passion, and partnership"
+]
+attachment_mechanisms = [
+    "verbal sparring that reveals emotional intelligence",
+    "moments where hostility unexpectedly drops and real people emerge",
+    "protective behaviors disguised as professional concern",
+    "late-night work sessions where exhaustion erodes their walls",
+    "his quiet acts of support she only discovers after the fact"
+]
+
+[sensuality_calibration]
+intensity = "medium spice — hate-chemistry that explodes. 2 steamy scenes per book. Sensual and vivid but not explicit anatomical description. The antagonism makes physical moments feel earned and electric."
+sensual_expression_methods = [
+    "arguments that end with them too close, breathing hard",
+    "deliberate invasion of personal space during debates",
+    "lingering eye contact that neither will break first",
+    "accidental physical contact that sends shock through both",
+    "heightened sensory awareness — noticing his cologne during a fight, the way her lips move when she's about to destroy his argument",
+    "psychological anticipation — knowing the next argument will be the one where they stop fighting",
+    "tactile intensity when they finally give in — gripping, pulling, urgent",
+    "breath and heartbeat awareness during charged proximity"
+]
+sensuality_function = "amplify the emotional release of rivals finally surrendering to attraction"
+
+[pacing]
+structure_priority = "emotional progression"
+chapter_count = 20
+chapter_length_words = 2500
+tension_maintenance_protocol = [
+    "romantic tension must remain unresolved for majority of narrative",
+    "rivalry must feel genuinely antagonistic before softening — no premature friendliness",
+    "each chapter must escalate either the professional stakes or the emotional stakes or both",
+    "avoid emotional neutrality — every scene should crackle with friction or longing"
+]
+reader_retention_mechanisms = [
+    "unresolved rivalry-turned-sexual-tension",
+    "the question of who will break first",
+    "anticipation of the moment hostility becomes honesty",
+    "deepening emotional intimacy disguised as collaboration"
+]
+
+[immersion_protocol]
+narrative_perspective = "first person"
+perspective_priority = "maximize emotional intimacy and the unreliable narrator effect — she misreads his motivations because she expects the worst"
+description_priority_order = [
+    "emotional internal experience — especially frustration, attraction, and confusion",
+    "sensory awareness — heightened during arguments and proximity",
+    "interpretation of romantic partner behavior — initially hostile, gradually more generous",
+    "external environment — the digital media world, content creation, social media culture"
+]
+immersion_methods = [
+    "internal emotional monologue heavy with denial and rationalization",
+    "detailed emotional reactions to his words, expressions, and proximity",
+    "sensory amplification during arguments and charged moments",
+    "social media and digital culture woven naturally into her worldview"
+]
+
+[conflict_design]
+conflict_types = [
+    "professional rivalry — data analytics vs. creative instinct",
+    "public humiliation — her viral post damages his reputation and credibility",
+    "forced collaboration creating unbearable proximity",
+    "fear of appearing weak — both use competence as emotional armor",
+    "her discovery that the strategy she mocked was protecting the company from a predatory acquisition attempt",
+    "guilt and pride preventing either from being the first to admit feelings",
+    "the intern-executive power imbalance threatening both their careers"
+]
+conflict_resolution_requirement = "conflicts must resolve in favor of emotional union — he chooses her over professional pride, she chooses vulnerability over her armor of humor"
+
+[ending_requirements]
+ending_type = "HEA"
+hea_definition = [
+    "clear emotional commitment",
+    "long-term romantic stability",
+    "emotional openness between partners",
+    "elimination of emotional barriers — rivalry fully transformed into partnership",
+    "reader certainty of permanent romantic union"
+]
+emotional_resolution_requirements = [
+    "male counterpart must publicly acknowledge her talent and his feelings",
+    "male counterpart must actively choose protagonist over professional ego and reputation",
+    "protagonist must lower her humor-shield and show genuine vulnerability",
+    "protagonist must feel emotionally secure — truly seen, not just desired",
+    "emotional payoff must exceed emotional tension experienced",
+    "epilogue hints at Book 4 couple (PR intern + VP of Communications)"
+]
+
+[reader_conversion_optimization]
+booktok_alignment = [
+    "sharp banter exchanges perfect for quote graphics and video clips",
+    "the moment the argument becomes a kiss — peak BookTok content",
+    "emotionally vulnerable confessions from the last person expected to give one",
+    "moments demonstrating he's been paying attention to her all along",
+    "high emotional payoff scenes — rivals admitting they've fallen",
+    "quotable one-liners from their verbal sparring for social media sharing"
+]
+kindle_unlimited_optimization = [
+    "fast emotional engagement from chapter 1 — the viral post and its fallout",
+    "consistent romantic progression disguised as professional rivalry",
+    "avoid prolonged exposition — enter every scene mid-conflict",
+    "maximize immersive readability through snappy dialogue and internal tension",
+    "20 chapters at ~2500 words for fast page-turn pace"
+]
+
+[prohibited_elements]
+emotionally_unavailable_ending = true
+ambiguous_romantic_resolution = true
+emotionally_passive_male_counterpart = true
+emotionally_passive_protagonist = true
+abuse_framed_as_romance = true
+stalking_framed_as_devotion = true
+
+[required_reader_effect]
+psychological_outcomes = [
+    "strong emotional attachment to romantic partner — rooting for him despite initial antagonism",
+    "emotional immersion — feeling the frustration and attraction alongside the protagonist",
+    "emotional catharsis when the rivals finally surrender",
+    "reader satisfaction with romantic resolution",
+    "desire to immediately read Book 4",
+    "desire to reread and recommend — especially the banter scenes"
+]
+
+[setting]
+city = "New York City"
+neighborhood = "Midtown Manhattan"
+building = "Blackwell Tower — a glass-and-steel skyscraper housing Blackwell Media Group"
+key_locations = [
+    "the digital media floor (open plan, multiple screens, standing desks, energy of a newsroom)",
+    "his glass-walled office overlooking the bullpen (he can see her; she knows he's watching)",
+    "The Thirty-Six rooftop bar (after-work drinks, city views, arguments that go too far)",
+    "a trendy Brooklyn coffee shop (her creative refuge, where she films content — he shows up uninvited)",
+    "content creator events and influencer parties (their worlds collide outside the office)",
+    "a late-night editing bay in Blackwell Tower (proximity + exhaustion = honesty)",
+    "her apartment in Bushwick (grounding her outside the corporate world, covered in mood boards and ring lights)"
+]
+season = "summer — June through August, hot NYC days, rooftop evenings, outdoor content shoots, thunderstorms that trap them together"

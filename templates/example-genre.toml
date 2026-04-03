@@ -1,0 +1,12 @@
+# ccwriter Genre Configuration — Simple Format
+# Copy this file and customize for your novel.
+
+name = "Cozy Mystery"
+description = "A quirky small-town bookshop owner becomes an amateur sleuth when a rare book dealer turns up dead during the annual literary festival."
+tone = "warm, witty, suspenseful with a touch of humor"
+themes = ["community", "justice", "secrets beneath the surface", "the power of stories"]
+n_chapters = 20
+chapter_length = 3000
+target_audience = "adult cozy mystery readers, book lovers"
+author_style = "Alexander McCall Smith"
+tropes = ["amateur sleuth", "small town secrets", "quirky cast", "bookish setting"]

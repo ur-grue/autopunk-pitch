@@ -1,0 +1,275 @@
+[metadata]
+name = "Contemporary Romance"
+description = "Book 4 of The Blackwell Interns — a PR intern hiding a family scandal and the VP of Communications carrying guilt from a past crisis."
+tone = "tense, secretive, emotionally layered"
+themes = ["secrets and exposure", "trust", "family legacy", "guilt and redemption"]
+n_chapters = 20
+chapter_length = 2500
+target_audience = "women 18-30, BookTok romance readers"
+author_style = "Avery Sinclair"
+tropes = ["secret relationship", "forbidden romance", "workplace romance", "hidden identity"]
+
+[meta]
+purpose = "Instruction specification for Book 4 of 'The Blackwell Interns' series by Avery Sinclair. A commercially optimized contemporary workplace romance novel featuring a poised PR intern hiding a family scandal and the charismatic VP of Communications carrying guilt from a past crisis. Medium spice. HEA guaranteed."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define emotional, structural, sensual, and psychological characteristics required for maximum reader obsession, binge-read behavior, and conversion on Amazon KDP, Kindle Unlimited, and BookTok."
+
+[series]
+name = "The Blackwell Interns"
+author = "Avery Sinclair"
+book_number = 4
+total_books = 7
+book_title = "Off the Record"
+company = "Blackwell Media Group — a prestigious NYC fashion and media conglomerate housed in a glass tower in Midtown Manhattan"
+shared_locations = ["Blackwell Tower (glass skyscraper, Midtown Manhattan)", "The Thirty-Six (rooftop bar, 36th floor)", "The marble-and-glass lobby", "Central Park (lunch breaks, emotional conversations)"]
+recurring_character = "Marcus Blackwell — founder/CEO, 60s, mentor figure, brief appearance"
+timeline = "One summer internship, June through August"
+intern_cohort = "Seven female interns across seven departments who know each other, have a group chat, and support each other throughout the summer"
+
+[book_specific]
+department = "PR & Communications"
+heroine_role = "PR intern — poised, strategic, media-trained composure masking deep vulnerability. Her father was involved in a corporate fraud case that destroyed her family's reputation. She uses control and polish as armor."
+hero_role = "VP of Communications — charismatic, sharp, fiercely protective of the Blackwell brand. Carries guilt from a past crisis he mishandled that cost an innocent colleague their career. His charm masks a need for redemption."
+primary_trope = "secret relationship — one leak could end both careers"
+secondary_tropes = ["forbidden romance", "workplace romance", "hidden identity/secret"]
+central_conflict = "They connect at a press event, drawn together by their shared understanding of image and perception. They start meeting secretly — his office after hours, a hotel bar, her apartment. A journalist begins investigating Blackwell Media, and her family scandal IS the story being chased. He must choose between protecting the brand he has spent years rebuilding and protecting the woman he loves. When the story breaks, everything they have built in secret is exposed."
+spice_beats = "Three steamy scenes around chapters 13, 16, and 19. Medium spice — sensual and vivid but not explicit anatomical description. Stolen moments in private: his office after hours, a hotel bar in the West Village, her apartment."
+cameos = "Books 1-3 couples appear as established relationships: the editorial intern and Editor-in-Chief (Book 1), the styling intern and Creative Director (Book 2), the social media intern and Digital Media Director (Book 3). Reference the viral digital media incident from Book 3. Intern cohort group chat is active and supportive."
+previous_books_references = "The digital media viral incident from Book 3 is referenced as recent Blackwell history. The three established couples from Books 1-3 appear in social scenes, demonstrating that intern-executive relationships can work at Blackwell — raising the stakes for why this one must stay secret."
+epilogue_hint = "Epilogue hints at Book 5 couple: the photography intern and the Lead Photographer, glimpsed during a fashion shoot with undeniable creative and romantic tension."
+
+[target_audience]
+primary_gender = "female"
+age_range = "18-30"
+psychographic_profile = [
+    "seeks emotionally intense romantic experiences",
+    "fantasizes about being uniquely chosen and desired",
+    "values emotional validation and exclusivity",
+    "responds strongly to power dynamics balanced with emotional safety",
+    "prefers strong emotional payoff and satisfying romantic resolution",
+    "engages deeply with character psychology and romantic tension",
+    "actively consumes BookTok-recommended romance",
+    "prefers immersive escapist emotional narratives"
+]
+reader_fantasy_drivers = [
+    "being seen and recognized as uniquely special",
+    "being chosen and publicly defended when it costs the partner everything",
+    "being desired by a high-status, charismatic, and competent partner",
+    "emotional exclusivity — he risks his career for her alone",
+    "emotional security earned through vulnerability and public commitment",
+    "romantic partner prioritizing protagonist above reputation and professional safety"
+]
+
+[genre]
+primary = "contemporary romance"
+secondary = ["workplace romance", "secret relationship romance", "forbidden romance", "hidden identity romance", "emotional slow-burn romance"]
+genre_requirements = [
+    "romance must be primary narrative driver",
+    "external plot elements must exist only to intensify romantic tension",
+    "emotional and romantic progression must drive pacing",
+    "story must prioritize emotional immersion over external action"
+]
+
+[romantic_dynamic]
+core_dynamic = "secret_relationship"
+dynamic_definition = [
+    "both partners aware of the professional risk from the beginning",
+    "secrecy creates charged intimacy — every stolen moment matters more",
+    "male counterpart torn between duty to the brand and desire for the protagonist",
+    "protagonist torn between self-preservation and the need to be truly known",
+    "the secret itself becomes both bond and barrier — intimacy forged in hiding",
+    "exposure forces both to choose authenticity over safety"
+]
+power_dynamic_calibration = [
+    "male counterpart holds institutional authority as VP of Communications",
+    "protagonist holds emotional power — she is the one person who sees past his charm",
+    "male counterpart must never weaponize his position against protagonist",
+    "relationship must evolve into emotional and relational equality",
+    "his public defense of her in the crisis must be a choice, not a rescue — she is already standing on her own"
+]
+
+[romantic_partner_design]
+male_counterpart_required_traits = [
+    "charismatic and socially fluent",
+    "strategically brilliant — reads people and situations instantly",
+    "carrying guilt from a past professional failure that cost someone their career",
+    "protective of the Blackwell brand but increasingly protective of her",
+    "charm masks genuine vulnerability and fear of repeating past mistakes",
+    "demonstrates emotional vulnerability only after prolonged tension and trust-building"
+]
+attraction_model = [
+    "professional admiration and intellectual respect",
+    "involuntary personal attraction beneath professional interaction",
+    "attempted compartmentalization — keeping it professional",
+    "gradual emotional dependence forged through secret meetings",
+    "emotional surrender when the secret becomes unsustainable"
+]
+exclusivity_requirement = "male counterpart must demonstrate emotional exclusivity toward protagonist — she is the only person who sees the real man beneath the public persona"
+
+[protagonist_design]
+protagonist_gender = "female"
+required_psychological_traits = [
+    "poised and strategically intelligent",
+    "emotionally guarded — uses composure as armor against vulnerability",
+    "carrying shame about her family's public scandal",
+    "capable of deep emotional growth when she allows herself to be seen",
+    "authentic beneath the polished exterior — the mask cracks in private moments"
+]
+reader_identification_requirement = "reader must easily psychologically project into protagonist — her fear of exposure and desire to be loved despite her family's shame must feel universal"
+
+[emotional_design]
+primary_emotional_drivers = [
+    "romantic tension amplified by secrecy",
+    "longing intensified by stolen moments",
+    "fear of exposure — professional and personal",
+    "emotional vulnerability in hiding",
+    "the relief of being truly known by one person",
+    "emotional security after public crisis"
+]
+emotional_progression_model = [
+    "professional attraction — mutual respect at a press event",
+    "secret meetings — charged private encounters",
+    "deepening intimacy — walls crumbling in stolen hours",
+    "fear of exposure — the journalist gets closer",
+    "crisis — the story breaks, secrets exposed",
+    "he publicly defends her — choosing her over the brand",
+    "emotional resolution — no more hiding",
+    "emotional security — loved openly, flaws and all"
+]
+attachment_mechanisms = [
+    "private moments where both drop their public personas",
+    "him seeing through her composure to the real person beneath",
+    "her seeing through his charm to the guilt he carries",
+    "protective behaviors that risk his professional standing",
+    "increasing emotional honesty in secret meetings"
+]
+
+[sensuality_calibration]
+intensity = "medium spice — sensual and vivid, 3 steamy scenes per book, tasteful but present, not explicit anatomical description"
+sensual_expression_methods = [
+    "charged proximity in professional settings — the thrill of the secret",
+    "lingering eye contact across press rooms that no one else notices",
+    "deliberate physical contact behind closed doors",
+    "heightened sensory awareness during stolen moments",
+    "emotional responses to physical closeness amplified by secrecy",
+    "psychological anticipation — planning the next meeting",
+    "tactile detail during intimate scenes",
+    "breath and heartbeat awareness in his locked office"
+]
+sensuality_function = "amplify emotional intimacy and the intoxicating danger of their secret"
+
+[pacing]
+structure_priority = "emotional progression"
+chapter_count = 20
+chapter_length_words = 2500
+tension_maintenance_protocol = [
+    "romantic tension must remain unresolved for majority of narrative",
+    "the journalist subplot must ratchet external pressure steadily",
+    "each chapter must increase romantic, emotional, or exposure stakes",
+    "avoid emotional neutrality — every scene serves the secret or the relationship"
+]
+reader_retention_mechanisms = [
+    "unresolved romantic tension amplified by secrecy",
+    "escalating external threat from the journalist investigation",
+    "anticipation of exposure — when will the secret break",
+    "deepening emotional intimacy making the stakes feel catastrophic"
+]
+
+[immersion_protocol]
+narrative_perspective = "first person"
+perspective_priority = "maximize emotional intimacy"
+description_priority_order = [
+    "emotional internal experience — the thrill, fear, and longing of the secret",
+    "sensory awareness — his cologne in the elevator, the click of his office lock",
+    "interpretation of romantic partner behavior — reading his public persona vs. private self",
+    "external environment — press rooms, rooftop bars, Manhattan at night"
+]
+immersion_methods = [
+    "internal emotional monologue — the constant dual awareness of public face and private truth",
+    "detailed emotional reactions to near-exposure moments",
+    "sensory amplification during stolen romantic moments",
+    "continuous emotional continuity — the weight of the secret in every scene"
+]
+
+[conflict_design]
+conflict_types = [
+    "internal emotional resistance — fear of being truly known given her family shame",
+    "professional boundary tension — a VP dating an intern would be a PR disaster",
+    "his guilt from the past crisis making him fear another professional catastrophe",
+    "her family scandal — the secret she is hiding from everyone, including him initially",
+    "the journalist investigation closing in on Blackwell and her family connection",
+    "the impossible choice — protect the brand or protect her when the story breaks"
+]
+conflict_resolution_requirement = "conflicts must resolve in favor of emotional union — he publicly defends her, choosing love over professional safety"
+
+[ending_requirements]
+ending_type = "HEA"
+hea_definition = [
+    "clear emotional commitment — no more hiding",
+    "long-term romantic stability",
+    "emotional openness between partners — both masks permanently removed",
+    "elimination of emotional barriers — her shame confronted, his guilt resolved",
+    "reader certainty of permanent romantic union"
+]
+emotional_resolution_requirements = [
+    "male counterpart must publicly defend protagonist — choosing her over the brand",
+    "protagonist must confront her family shame and refuse to be defined by it",
+    "male counterpart must actively choose protagonist over career safety",
+    "protagonist must feel emotionally secure — loved openly, not in secret",
+    "emotional payoff must exceed emotional tension experienced",
+    "epilogue hints at Book 5 couple (photography intern + Lead Photographer)"
+]
+
+[reader_conversion_optimization]
+booktok_alignment = [
+    "emotionally intense secret meeting scenes",
+    "the moment he publicly chooses her over the brand",
+    "emotionally vulnerable confessions in stolen private moments",
+    "the journalist confrontation scene — maximum tension",
+    "high emotional payoff when the secret is no longer a burden",
+    "quotable lines about choosing someone over safety and reputation"
+]
+kindle_unlimited_optimization = [
+    "fast emotional engagement from chapter 1 — the press event meet",
+    "consistent romantic progression through escalating secret encounters",
+    "avoid prolonged exposition — enter scenes late, leave early",
+    "maximize immersive readability",
+    "20 chapters at ~2500 words for fast page-turn pace"
+]
+
+[prohibited_elements]
+emotionally_unavailable_ending = true
+ambiguous_romantic_resolution = true
+emotionally_passive_male_counterpart = true
+emotionally_passive_protagonist = true
+abuse_framed_as_romance = true
+stalking_framed_as_devotion = true
+
+[required_reader_effect]
+psychological_outcomes = [
+    "strong emotional attachment to romantic partner",
+    "emotional immersion — feeling the thrill and terror of the secret",
+    "emotional catharsis when the secret breaks and love survives",
+    "reader satisfaction with romantic resolution",
+    "desire to immediately read Book 5",
+    "desire to reread and recommend"
+]
+
+[setting]
+city = "New York City"
+neighborhood = "Midtown Manhattan"
+building = "Blackwell Tower — a glass-and-steel skyscraper housing Blackwell Media Group"
+key_locations = [
+    "the PR floor (sleek, glass-walled offices, screens showing media coverage)",
+    "his office (VP of Communications — corner office with a view, the door that locks)",
+    "The Thirty-Six rooftop bar (after-work drinks, city views, maintaining appearances)",
+    "press events and launch parties (where they must pretend to be nothing to each other)",
+    "a journalists' bar in the West Village (where the threat takes shape)",
+    "a boutique hotel bar in the West Village (their secret meeting spot)",
+    "her apartment in the East Village (the only place they can be real)",
+    "Central Park (stolen walks, emotional conversations away from the tower)"
+]
+season = "summer — June through August, hot NYC days, rooftop evenings, thunderstorms"

@@ -1,0 +1,269 @@
+[metadata]
+name = "Contemporary Romance"
+description = "Book 1 of The Blackwell Interns — an editorial intern and the emotionally guarded Editor-in-Chief at a NYC fashion media empire."
+tone = "emotionally intense, romantic, immersive"
+themes = ["vulnerability", "forbidden desire", "emotional growth", "proving yourself"]
+n_chapters = 20
+chapter_length = 2500
+target_audience = "women 18-30, BookTok romance readers"
+author_style = "Avery Sinclair"
+tropes = ["grumpy boss / sunshine intern", "forbidden romance", "workplace proximity", "slow burn"]
+
+[meta]
+purpose = "Instruction specification for Book 1 of 'The Blackwell Interns' series by Avery Sinclair. A commercially optimized contemporary workplace romance novel featuring a young female editorial intern and the emotionally guarded Editor-in-Chief at a prestigious NYC fashion media empire. Medium spice. HEA guaranteed."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define emotional, structural, sensual, and psychological characteristics required for maximum reader obsession, binge-read behavior, and conversion on Amazon KDP, Kindle Unlimited, and BookTok."
+
+[series]
+name = "The Blackwell Interns"
+author = "Avery Sinclair"
+book_number = 1
+total_books = 7
+book_title = "Corner Office Crush"
+company = "Blackwell Media Group — a prestigious NYC fashion and media conglomerate housed in a glass tower in Midtown Manhattan"
+shared_locations = ["Blackwell Tower (glass skyscraper, Midtown Manhattan)", "The Thirty-Six (rooftop bar, 36th floor)", "The marble-and-glass lobby", "Central Park (lunch breaks, emotional conversations)"]
+recurring_character = "Marcus Blackwell — founder/CEO, 60s, mentor figure, brief appearance"
+timeline = "One summer internship, June through August"
+intern_cohort = "Seven female interns across seven departments who know each other, have a group chat, and support each other throughout the summer"
+
+[book_specific]
+department = "Editorial"
+heroine_role = "Magazine editorial intern — ambitious journalism graduate, warm and disarming, naturally curious"
+hero_role = "Editor-in-Chief — sharp, exacting, emotionally guarded after a very public breakup that was covered in the tabloids"
+primary_trope = "grumpy boss / sunshine intern"
+secondary_tropes = ["forbidden romance", "workplace proximity", "slow burn"]
+central_conflict = "He cannot date an intern — company policy and his reputation are at stake. She cannot stop impressing him with her writing and her warmth. A late-night deadline locks them in his corner office and the walls start crumbling."
+spice_beats = "First kiss at approximately chapter 12. Two steamy scenes around chapters 16 and 19. Medium spice — sensual and vivid but not explicit anatomical description."
+cameos = "Brief mentions of other interns in the cohort (styling intern, social media intern, PR intern, photography intern, events intern, executive intern) — establishing the friend group for future books."
+
+[target_audience]
+primary_gender = "female"
+age_range = "18-30"
+psychographic_profile = [
+    "seeks emotionally intense romantic experiences",
+    "fantasizes about being uniquely chosen and desired",
+    "values emotional validation and exclusivity",
+    "responds strongly to power dynamics balanced with emotional safety",
+    "prefers strong emotional payoff and satisfying romantic resolution",
+    "engages deeply with character psychology and romantic tension",
+    "actively consumes BookTok-recommended romance",
+    "prefers immersive escapist emotional narratives"
+]
+reader_fantasy_drivers = [
+    "being seen and recognized as uniquely special",
+    "melting the emotional defenses of an emotionally unavailable partner",
+    "being desired by a high-status, competent, and attractive partner",
+    "emotional exclusivity",
+    "emotional security earned through vulnerability",
+    "romantic partner prioritizing protagonist above everything else"
+]
+
+[genre]
+primary = "contemporary romance"
+secondary = ["workplace romance", "boss-intern romance", "grumpy-sunshine romance", "forbidden romance", "emotional slow-burn romance"]
+genre_requirements = [
+    "romance must be primary narrative driver",
+    "external plot elements must exist only to intensify romantic tension",
+    "emotional and romantic progression must drive pacing",
+    "story must prioritize emotional immersion over external action"
+]
+
+[romantic_dynamic]
+core_dynamic = "grumpy_sunshine"
+dynamic_definition = [
+    "male counterpart emotionally guarded, controlled, and restrained",
+    "female protagonist emotionally open, warm, and authentic",
+    "male counterpart gradually becomes emotionally vulnerable only with protagonist",
+    "protagonist uniquely able to affect male counterpart emotionally",
+    "male counterpart demonstrates emotional softening progressively"
+]
+power_dynamic_calibration = [
+    "male counterpart initially holds structural authority",
+    "male counterpart must never emotionally exploit protagonist",
+    "male counterpart must demonstrate increasing emotional respect and equality",
+    "relationship must evolve into emotional and relational equality"
+]
+
+[romantic_partner_design]
+male_counterpart_required_traits = [
+    "highly competent",
+    "emotionally controlled",
+    "psychologically complex",
+    "protective without being possessive",
+    "restrained emotional expression except with protagonist",
+    "demonstrates emotional vulnerability only after prolonged tension"
+]
+attraction_model = [
+    "initial emotional resistance",
+    "involuntary attraction emergence",
+    "attempted emotional suppression",
+    "gradual emotional dependence",
+    "emotional surrender"
+]
+exclusivity_requirement = "male counterpart must demonstrate emotional exclusivity toward protagonist"
+
+[protagonist_design]
+protagonist_gender = "female"
+required_psychological_traits = [
+    "emotionally intelligent",
+    "optimistic but realistic",
+    "capable of emotional vulnerability",
+    "capable of emotional growth",
+    "authentic and relatable"
+]
+reader_identification_requirement = "reader must easily psychologically project into protagonist"
+
+[emotional_design]
+primary_emotional_drivers = [
+    "romantic tension",
+    "longing",
+    "anticipation",
+    "emotional vulnerability",
+    "emotional validation",
+    "emotional exclusivity",
+    "emotional safety after uncertainty"
+]
+emotional_progression_model = [
+    "curiosity",
+    "attraction",
+    "tension",
+    "emotional connection",
+    "fear of loss",
+    "emotional crisis",
+    "emotional resolution",
+    "emotional security"
+]
+attachment_mechanisms = [
+    "private emotionally vulnerable conversations",
+    "moments of emotional honesty",
+    "protective behaviors",
+    "demonstrations of emotional restraint",
+    "increasing emotional openness"
+]
+
+[sensuality_calibration]
+intensity = "medium spice — sensual and vivid, 2-3 steamy scenes per book, tasteful but present, not explicit anatomical description"
+sensual_expression_methods = [
+    "charged proximity",
+    "lingering eye contact",
+    "deliberate physical contact",
+    "heightened sensory awareness",
+    "emotional responses to physical closeness",
+    "psychological anticipation",
+    "tactile detail during intimate scenes",
+    "breath and heartbeat awareness"
+]
+sensuality_function = "amplify emotional intimacy and romantic tension"
+
+[pacing]
+structure_priority = "emotional progression"
+chapter_count = 20
+chapter_length_words = 2500
+tension_maintenance_protocol = [
+    "romantic tension must remain unresolved for majority of narrative",
+    "emotional payoff must be delayed strategically",
+    "each chapter must increase romantic or emotional stakes",
+    "avoid emotional neutrality"
+]
+reader_retention_mechanisms = [
+    "unresolved romantic tension",
+    "emotional uncertainty",
+    "anticipation of emotional payoff",
+    "deepening emotional intimacy"
+]
+
+[immersion_protocol]
+narrative_perspective = "first person"
+perspective_priority = "maximize emotional intimacy"
+description_priority_order = [
+    "emotional internal experience",
+    "sensory awareness",
+    "interpretation of romantic partner behavior",
+    "external environment"
+]
+immersion_methods = [
+    "internal emotional monologue",
+    "detailed emotional reactions",
+    "sensory amplification during romantic moments",
+    "continuous emotional continuity"
+]
+
+[conflict_design]
+conflict_types = [
+    "internal emotional resistance",
+    "fear of emotional vulnerability",
+    "fear of rejection",
+    "professional boundary tension — company policy forbids boss-intern relationships",
+    "his public breakup trauma making him avoid emotional attachment",
+    "temporary emotional separation when the stakes get too high"
+]
+conflict_resolution_requirement = "conflicts must resolve in favor of emotional union"
+
+[ending_requirements]
+ending_type = "HEA"
+hea_definition = [
+    "clear emotional commitment",
+    "long-term romantic stability",
+    "emotional openness between partners",
+    "elimination of emotional barriers",
+    "reader certainty of permanent romantic union"
+]
+emotional_resolution_requirements = [
+    "male counterpart must fully emotionally open",
+    "male counterpart must actively choose protagonist over career safety",
+    "protagonist must feel emotionally secure",
+    "emotional payoff must exceed emotional tension experienced",
+    "epilogue hints at Book 2 couple (styling intern + creative director)"
+]
+
+[reader_conversion_optimization]
+booktok_alignment = [
+    "emotionally intense dialogue moments",
+    "memorable romantic tension scenes",
+    "emotionally vulnerable confessions",
+    "moments demonstrating emotional exclusivity",
+    "high emotional payoff scenes",
+    "quotable lines for social media sharing"
+]
+kindle_unlimited_optimization = [
+    "fast emotional engagement from chapter 1",
+    "consistent romantic progression",
+    "avoid prolonged exposition",
+    "maximize immersive readability",
+    "20 chapters at ~2500 words for fast page-turn pace"
+]
+
+[prohibited_elements]
+emotionally_unavailable_ending = true
+ambiguous_romantic_resolution = true
+emotionally_passive_male_counterpart = true
+emotionally_passive_protagonist = true
+abuse_framed_as_romance = true
+stalking_framed_as_devotion = true
+
+[required_reader_effect]
+psychological_outcomes = [
+    "strong emotional attachment to romantic partner",
+    "emotional immersion",
+    "emotional catharsis",
+    "reader satisfaction with romantic resolution",
+    "desire to immediately read Book 2",
+    "desire to reread and recommend"
+]
+
+[setting]
+city = "New York City"
+neighborhood = "Midtown Manhattan"
+building = "Blackwell Tower — a glass-and-steel skyscraper housing Blackwell Media Group"
+key_locations = [
+    "the corner office (his domain — floor-to-ceiling windows overlooking Manhattan)",
+    "the editorial bullpen (open floor, buzzing with writers and editors)",
+    "The Thirty-Six rooftop bar (after-work drinks, city views, tension)",
+    "Central Park (stolen lunch breaks, emotional conversations under the trees)",
+    "a late-night diner in Hell's Kitchen (their secret spot)",
+    "her tiny shared apartment in Brooklyn (grounding her outside the glamour)"
+]
+season = "summer — June through August, hot NYC days, rooftop evenings, thunderstorms"
