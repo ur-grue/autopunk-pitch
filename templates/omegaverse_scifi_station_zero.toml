@@ -1,0 +1,286 @@
+[metadata]
+name = "Omegaverse Sci-Fi Romance"
+description = "Series 16: Omega Station Zero -- an omegaverse romance series set on a deep-space research station at the edge of known space, where alpha/omega dynamics collide with alien biology, political intrigue, and the raw physics of survival."
+tone = "intense, atmospheric, sensual, claustrophobic"
+themes = ["biological destiny vs. free will", "found family in isolation", "trust under pressure", "redefining power dynamics", "intimacy as survival"]
+n_chapters = 20
+chapter_length = 3750
+target_audience = "omegaverse romance readers, sci-fi romance crossover, monster romance adjacent"
+author_style = "Rowan Ashfire"
+tropes = ["alpha/omega dynamics in space", "heat cycles", "fated mates", "alien omegaverse", "nesting on a space station", "forced proximity", "protective alpha", "omega in heat", "pack bonding", "touch starvation"]
+
+[meta]
+purpose = "Instruction specification for Series 16, 'Omega Station Zero' by Rowan Ashfire. A commercially optimized omegaverse sci-fi romance series combining alpha/omega dynamics with deep-space isolation. Six interconnected books, each featuring a different couple aboard Station Zero. High spice. HEA guaranteed per book, series-arc HEA in Book 6."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define omegaverse mechanics, emotional architecture, sensual calibration, and sci-fi world-building required for maximum reader obsession, binge-read behavior, and KU page-read optimization in the omegaverse + sci-fi crossover niche."
+
+[series]
+name = "Omega Station Zero"
+author = "Rowan Ashfire"
+book_number = 1
+total_books = 6
+book_title = ""
+station = "Station Zero -- a massive ring-shaped deep-space research station orbiting a dying star at the boundary of explored space, population ~2,000, a mix of human and alien designations"
+shared_locations = ["The Spine (central corridor connecting all habitat rings)", "Nesting Commons (communal omega safe-space with adjustable gravity and temperature)", "The Bridge (command center with panoramic star-field views)", "Hydroponics Bay 7 (lush greenhouse sector, the station's lungs)", "Heat Quarters (reinforced private suites for heat cycles)", "The Marrow (black-market level in the station's maintenance tunnels)"]
+recurring_characters = ["Station Commander Voss -- beta, pragmatic, holds the station together", "Dr. Sable Orin -- omega xenobiologist, appears in all books as the resident expert on alien designation biology", "Kael -- alien alpha from the Dravari species, security chief, love interest in Book 3"]
+timeline = "Each book covers 2-4 months station time. Series spans approximately 18 months total."
+series_arc = "A signal from beyond the dying star is altering designation biology on the station -- omegas are presenting new abilities, alphas are losing control of their ruts, and someone on Station Zero knows why. The series-level mystery resolves in Book 6."
+book_hooks = [
+    "Book 1: A newly arrived omega engineer discovers her heat cycle has changed since boarding the station -- and the alpha she's been assigned to work with can smell it",
+    "Book 2: A mated alpha-omega pair whose bond is failing must re-bond or lose each other permanently when the station's designation suppression tech goes offline",
+    "Book 3: A human omega and an alien (Dravari) alpha discover their species' designation systems are compatible in ways no one predicted",
+    "Book 4: An alpha who has never gone into rut suddenly presents during a station lockdown -- trapped in a sealed sector with the omega he's been secretly protecting",
+    "Book 5: Twin omegas, one bonded and one unbonded, must navigate a pack-bonding arrangement with a Dravari alpha triad to secure an alliance that could save the station",
+    "Book 6: The station commander's secret omega status is exposed during the final crisis, and the alpha who discovers the truth is the one person she cannot afford to trust"
+]
+
+[target_audience]
+primary_gender = "female"
+age_range = "22-40"
+psychographic_profile = [
+    "reads omegaverse voraciously and expects tropes executed with precision",
+    "seeks intense biological-drive romance with emotional depth beyond the heat",
+    "values world-building that makes the omegaverse mechanics feel inevitable rather than arbitrary",
+    "responds to power exchange dynamics balanced with genuine emotional care",
+    "craves found-family pack dynamics and nesting comfort scenes",
+    "enjoys sci-fi settings that heighten the isolation and forced-proximity elements",
+    "prefers high spice with emotional justification -- heat scenes must advance the bond",
+    "active in omegaverse Facebook groups, Discord servers, and AO3 crossover communities"
+]
+reader_fantasy_drivers = [
+    "being biologically claimed by someone who cannot resist you",
+    "the safety and comfort of a perfect nest built by a devoted alpha",
+    "surrendering control during heat and being completely cared for",
+    "being the one omega who breaks through an alpha's control",
+    "pack belonging -- being surrounded by people who would kill to protect you",
+    "the primal satisfaction of a fated bond clicking into place"
+]
+
+[genre]
+primary = "omegaverse romance"
+secondary = ["sci-fi romance", "alien romance", "fated mates", "forced proximity", "space station romance"]
+genre_requirements = [
+    "omegaverse dynamics must be the primary world-building engine",
+    "romance must drive the plot -- sci-fi elements serve the romantic tension",
+    "each book must be a complete romance with HEA while advancing the series mystery",
+    "designation biology must feel biological and inevitable, not magical",
+    "alien species must have compatible but distinct designation systems"
+]
+
+[omegaverse_mechanics]
+designation_system = "Alpha / Beta / Omega -- biological, not chosen. Manifests at puberty. Approximately 20% alpha, 60% beta, 20% omega in human populations. Alien species have analogous systems with different ratios."
+heat_cycles = [
+    "Omegas experience heat every 3-4 months, lasting 3-5 days",
+    "Heat involves intense physical need, heightened scent production, nesting instinct, and reduced inhibition",
+    "Suppressants exist but are imperfect -- Station Zero's proximity to the dying star degrades their effectiveness",
+    "An omega in heat near a compatible alpha triggers sympathetic rut",
+    "Heat scenes must be visceral, sensory-rich, and emotionally raw -- not clinical",
+    "Post-heat vulnerability is a key emotional bonding moment"
+]
+bonding = [
+    "Bonding occurs through a bite to the scent gland during mutual heat/rut",
+    "A bond creates a permanent psychic-emotional link -- partners sense each other's emotions and physical state",
+    "Bonds can weaken if neglected (Book 2 premise)",
+    "Rejected bonds cause physical pain -- bond-sickness",
+    "Fated mates experience an overwhelming scent-compatibility that overrides rational thought"
+]
+nesting = [
+    "Omegas build nests from soft materials, clothing with pack-scent, and comfort items",
+    "Nesting behavior intensifies before heat and during emotional distress",
+    "An alpha being invited into an omega's nest is an act of profound trust",
+    "On Station Zero, nesting spaces are scarce and politically contested -- a subplot driver",
+    "Nesting scenes should evoke warmth, safety, and intimacy -- a counterpoint to the cold void of space"
+]
+pack_structure = [
+    "Packs are social units of 3-7 individuals, typically centered around an alpha-omega bonded pair",
+    "Pack bonds are less intense than mate bonds but provide emotional stability and mutual protection",
+    "Station Zero's isolation accelerates pack-formation among unaffiliated individuals",
+    "Pack hierarchy is negotiated, not imposed -- dominance displays are social, not violent",
+    "The series builds toward a station-wide pack alliance in Book 6"
+]
+scent_dynamics = [
+    "Scent is the primary designation communication channel",
+    "Alphas produce territorial and arousal scents; omegas produce bonding and distress scents",
+    "Scent-matching indicates biological compatibility -- the stronger the match, the more intense the attraction",
+    "Scent-blockers are common but imperfect technology on the station",
+    "Alien species' scents interact with human designation biology in unexpected ways (series mystery)"
+]
+
+[romantic_dynamic]
+core_dynamic = "alpha_omega_fated"
+dynamic_definition = [
+    "alpha driven by biological imperative to protect, provide, and claim",
+    "omega possesses biological power to accept, reject, and redirect alpha behavior through scent and bond",
+    "the power balance is reciprocal -- the alpha is as vulnerable to the omega's pull as the reverse",
+    "emotional surrender is mutual, not one-directional",
+    "the bond amplifies existing emotional connection rather than replacing it"
+]
+power_dynamic_calibration = [
+    "alpha must never coerce omega during or outside of heat -- consent is sacred even when biology screams",
+    "omega agency must be preserved throughout -- omegas choose, alphas respond",
+    "heat does not erase consent -- both partners must actively choose each other",
+    "alpha protectiveness must not become possessive control",
+    "the relationship must evolve from biological pull to genuine emotional partnership"
+]
+
+[romantic_partner_design]
+alpha_required_traits = [
+    "physically imposing but emotionally restrained",
+    "competent in their domain (engineering, security, medicine, command)",
+    "protective instinct expressed through action, not words",
+    "struggles with the intensity of the fated bond -- fights it before surrendering",
+    "demonstrates vulnerability only with their omega",
+    "capable of tenderness that contrasts sharply with their public persona"
+]
+attraction_model = [
+    "scent-recognition (immediate, visceral, involuntary)",
+    "denial and resistance (duty, timing, past trauma)",
+    "proximity-driven escalation (forced to work together, share space)",
+    "first heat/rut crisis (biology overwhelms resistance)",
+    "emotional bonding during post-heat vulnerability",
+    "deliberate choice to bond (consent affirming what biology demanded)"
+]
+exclusivity_requirement = "fated bond is biologically exclusive -- once bonded, no other scent registers as compatible"
+
+[protagonist_design]
+protagonist_designation = "varies by book -- 4 omega protagonists, 2 alpha protagonists across the series"
+required_psychological_traits = [
+    "competent and valued for skills beyond designation",
+    "navigates designation expectations while maintaining personal identity",
+    "capable of vulnerability without passivity",
+    "emotionally intelligent -- reads pack dynamics and interpersonal tensions",
+    "resilient under the unique pressures of deep-space isolation"
+]
+reader_identification_requirement = "reader must feel the protagonist's heat, fear, longing, and satisfaction viscerally -- deep POV mandatory"
+
+[emotional_design]
+primary_emotional_drivers = [
+    "biological urgency -- the heat is coming and there is nowhere to hide",
+    "scent-driven longing -- wanting someone your body chose before your mind agreed",
+    "nesting comfort -- the profound safety of being held in a space you built together",
+    "bond-hunger -- the ache of an incomplete or forming bond",
+    "pack belonging -- being claimed not just by a mate but by a family",
+    "fear of rejection -- what if the bond is one-sided"
+]
+emotional_progression_model = [
+    "scent-recognition and denial",
+    "forced proximity and escalating tension",
+    "pre-heat anxiety and nesting instinct",
+    "heat crisis -- surrender and claiming",
+    "post-heat vulnerability and emotional reckoning",
+    "bond stabilization and emotional security",
+    "pack integration and found-family resolution"
+]
+attachment_mechanisms = [
+    "alpha building or improving the omega's nest without being asked",
+    "scent-marking as unconscious claim",
+    "protective behavior during omega's vulnerable moments",
+    "sharing food (primal pack-care behavior)",
+    "alpha losing composure only around their omega",
+    "omega allowing alpha into their nest for the first time"
+]
+
+[sensuality_calibration]
+intensity = "high spice -- 3-5 explicit scenes per book, heat cycles are visceral and detailed, bonding bites are sensual climaxes, knotting is referenced but handled with emotional focus over anatomical clinical detail"
+sensual_expression_methods = [
+    "scent descriptions as foreplay -- what each partner smells like to the other",
+    "heat-driven physical urgency -- trembling, slick, fever, hypersensitivity",
+    "nesting intimacy -- tangled together in soft materials, skin-to-skin",
+    "bonding bite as the emotional and physical peak",
+    "post-heat tenderness -- cleaning, feeding, holding",
+    "rut descriptions from alpha POV -- the loss of control, the singular focus",
+    "knotting as emotional completion rather than purely physical act"
+]
+sensuality_function = "heat and bonding scenes must deepen the emotional connection -- every explicit scene must advance the relationship or reveal character"
+
+[pacing]
+structure_priority = "romantic and biological tension"
+chapter_count = 20
+chapter_length_words = 3750
+tension_maintenance_protocol = [
+    "heat must be anticipated for at least 5 chapters before it arrives",
+    "scent encounters must escalate in intensity across the first half",
+    "the first full heat scene should land between chapters 10-13",
+    "bonding must be delayed until chapters 17-19",
+    "series mystery must advance in 3-4 chapters per book without overshadowing romance",
+    "each chapter must end on an emotional, biological, or mystery hook"
+]
+reader_retention_mechanisms = [
+    "unresolved scent-tension (they can smell each other but cannot act)",
+    "heat countdown -- the reader knows it is coming",
+    "nesting scenes that create emotional safety before the next crisis",
+    "series mystery breadcrumbs that demand the next book",
+    "pack dynamics that invest the reader in multiple relationships"
+]
+
+[conflict_design]
+conflict_types = [
+    "biological vs. rational -- the body demands what the mind resists",
+    "designation prejudice -- omegas underestimated, alphas feared",
+    "station politics -- nesting space allocation, suppressant rationing, designation-based job restrictions",
+    "the dying star's effect on designation biology -- escalating unpredictability",
+    "inter-species designation compatibility -- unknown territory with the Dravari",
+    "past bond trauma -- a previously broken or rejected bond",
+    "series-level conspiracy -- someone is deliberately destabilizing designation biology on the station"
+]
+conflict_resolution_requirement = "all romantic conflicts must resolve in favor of the bond -- the couple must choose each other despite every obstacle"
+
+[ending_requirements]
+ending_type = "HEA per book, series HEA in Book 6"
+hea_definition = [
+    "confirmed, stable mate bond",
+    "pack acceptance and integration",
+    "emotional security and mutual vulnerability",
+    "a nest that is theirs -- a home carved from the void",
+    "the reader must feel the bond as a living, breathing thing"
+]
+emotional_resolution_requirements = [
+    "bonding scene must be emotionally earned, not just biologically inevitable",
+    "both partners must verbally and physically choose each other",
+    "pack integration scene -- the couple welcomed into the larger social unit",
+    "epilogue must hint at the next book's couple and advance the series mystery",
+    "Book 6 epilogue resolves the dying star mystery and shows all couples thriving"
+]
+
+[setting]
+location = "Station Zero -- a ring-shaped deep-space research station orbiting Kaelith's Eye, a dying red giant star"
+environment = [
+    "artificial gravity via centrifugal rotation -- varies by ring section",
+    "harsh fluorescent corridors contrasted with warm, dimly lit nesting spaces",
+    "hydroponics bays that smell of green growth -- the only natural scent on the station",
+    "viewport walls showing the swirling red surface of the dying star",
+    "recycled air that carries designation scents further than planet-side",
+    "the constant low hum of the station's life support -- a mechanical heartbeat"
+]
+key_locations = [
+    "The Spine -- central corridor, always crowded, scent-saturated, the station's main artery",
+    "Nesting Commons -- omega communal space with adjustable gravity, soft lighting, sound dampening",
+    "Heat Quarters -- reinforced private suites with scent-sealed doors, reserved weeks in advance",
+    "Hydroponics Bay 7 -- lush, warm, smells alive, the station's emotional refuge",
+    "The Marrow -- maintenance tunnels repurposed as black market, unsanctioned nesting sites, and clandestine meeting points",
+    "Command Bridge -- panoramic star-field, cold, functional, the alpha-coded space",
+    "Dravari Quarter -- alien habitat section with different atmosphere mix, bioluminescent lighting, and unfamiliar scents"
+]
+atmosphere = "claustrophobic intimacy -- there is nowhere to hide on a space station, every corridor carries scent, every wall is thin, and the dying star outside reminds everyone that biology and survival are the same imperative"
+
+[prohibited_elements]
+non_consensual_bonding = true
+alpha_as_abuser_framed_as_romance = true
+omega_as_passive_victim = true
+heat_removing_consent = true
+ambiguous_romantic_resolution = true
+designation_as_literal_slavery = true
+knotting_played_for_comedy = true
+
+[required_reader_effect]
+psychological_outcomes = [
+    "visceral experience of heat and bonding -- the reader should feel warm",
+    "deep emotional attachment to the alpha-omega pair",
+    "craving for nesting comfort scenes",
+    "investment in the station community and pack dynamics",
+    "urgent need to read the next book to discover what the dying star is doing to them",
+    "desire to reread heat and bonding scenes"
+]

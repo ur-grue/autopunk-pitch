@@ -1,0 +1,261 @@
+[metadata]
+name = "Dark Romance"
+description = "The Marchetti Arrangement -- Five arranged marriages within a powerful Italian-American crime dynasty. Each book follows one Marchetti man and the bride chosen for him by blood alliance. Set in the gilded cage of Chicago's North Shore elite."
+tone = "opulent, suffocating, darkly sensual, psychologically complex"
+themes = ["autonomy within captivity", "desire versus duty", "the performance of marriage", "intimacy as rebellion", "power exchanged in private"]
+n_chapters = 20
+chapter_length = 3500
+target_audience = "women 18-35, dark romance readers, arranged marriage romance fans"
+author_style = "Katarina Voss"
+tropes = ["arranged marriage", "dark mafia romance", "forced proximity", "marriage of convenience", "he falls first", "cold husband thaws", "trapped together", "only soft for her", "possessive hero"]
+
+[meta]
+purpose = "Series-level template for 'The Marchetti Arrangement' -- a 5-book arranged marriage dark romance series by Katarina Voss. Each book features one Marchetti son and his contracted bride. The public marriage is a cage; the private marriage becomes a consuming fire. High spice. HEA per book."
+planning_allowed = true
+plot_generation_allowed = true
+character_generation_allowed = true
+title_generation_allowed = true
+focus = "Exploit the arranged marriage trope's core fantasy: being legally bound to a dangerous stranger who becomes obsessed with you against his own will. Optimize for KDP binge-read behavior and the 'cold husband who melts' BookTok aesthetic."
+
+[series]
+name = "The Marchetti Arrangement"
+author = "Katarina Voss"
+total_books = 5
+book_titles_suggested = ["Signed in Ink", "The Gilded Vow", "Duty and Desire", "His Reluctant Bride", "The Final Contract"]
+shared_locations = ["The Marchetti estate (a sprawling lakefront mansion on Chicago's North Shore, old money Italian architecture)", "La Famiglia -- the family's private dining room at an exclusive Italian restaurant in Gold Coast", "The penthouse offices of Marchetti Holdings in the Loop", "Sacred Heart Cathedral (where all Marchetti weddings take place)", "The wine cellar beneath the estate (where real business happens)"]
+recurring_characters = ["Don Enzo Marchetti -- the patriarch, silver-haired, impeccably dressed, terrifyingly calm, arranges all marriages", "Isabella Marchetti -- the matriarch, former Sicilian beauty, knows everything, says little, protects her daughters-in-law in quiet ways", "Father Ricci -- the family priest who performs the weddings, hears confessions he can never repeat"]
+timeline = "Each book spans 3-6 months from contract signing through the marriage becoming real. Series spans two years."
+series_arc = "Don Enzo is building alliances through marriage to consolidate power before a federal investigation closes in. Each arranged marriage serves a strategic purpose -- but each son falls genuinely in love, complicating the patriarch's plans. By book 5, the sons must choose between their father's empire and the women they married for convenience but now cannot live without."
+
+[target_audience]
+primary_gender = "female"
+age_range = "18-35"
+psychographic_profile = [
+    "fantasizes about being chosen and claimed within a structured power dynamic",
+    "enjoys the tension of forced intimacy becoming genuine connection",
+    "drawn to the aesthetic of wealth, tradition, and hidden passion",
+    "wants emotional intensity delivered through restrained, controlled men",
+    "responds to the slow thaw -- watching ice crack under pressure",
+    "reads arranged marriage romance specifically and searches for the trope on Amazon",
+    "values the safety net of knowing the HEA is coming despite the dark setup",
+    "active in dark romance reader communities and BookTok"
+]
+reader_fantasy_drivers = [
+    "being legally bound to a devastatingly attractive stranger",
+    "watching a cold, controlled man become desperate for you specifically",
+    "having structural security (marriage, wealth) while the emotional stakes remain high",
+    "being underestimated and then becoming indispensable",
+    "the private world of a marriage no one else can see into",
+    "transforming a transaction into a love story through sheer emotional force"
+]
+
+[genre]
+primary = "dark romance"
+secondary = ["arranged marriage romance", "mafia romance", "forced proximity romance", "marriage of convenience romance", "Italian mafia romance"]
+genre_requirements = [
+    "the arranged marriage must feel genuinely constraining -- not a light inconvenience",
+    "romance must grow from within the cage of the arrangement, not despite it",
+    "the crime family context provides stakes but romance drives the narrative",
+    "each marriage contract must have specific terms that create unique tension",
+    "the transition from contractual obligation to genuine feeling must be gradual and earned"
+]
+
+[romantic_dynamic]
+core_dynamic = "cold_contract_to_consuming_passion"
+dynamic_definition = [
+    "the marriage begins as a business transaction -- both parties resistant",
+    "forced proximity in a shared home creates inevitable intimacy",
+    "small moments of humanity crack the professional veneer",
+    "physical attraction precedes emotional connection -- desire complicates the arrangement",
+    "he begins performing possessiveness for appearances, then realizes it is real",
+    "she begins as a pawn and becomes the only person he cannot strategize around",
+    "the moment the arrangement stops being an arrangement is the emotional climax"
+]
+power_dynamic_calibration = [
+    "he holds structural power through the marriage contract and his family name",
+    "she holds emotional power because he needs her more than the contract requires",
+    "the contract itself becomes a battleground -- what is obligation versus what is desire",
+    "power must equalize through emotional honesty and mutual vulnerability",
+    "by the end, the contract is irrelevant because neither would choose to leave"
+]
+
+[romantic_partner_design]
+male_counterpart_required_traits = [
+    "controlled to the point of appearing emotionless -- the Marchetti mask",
+    "devastatingly well-dressed -- three-piece suits, cufflinks, Italian leather",
+    "loyal to family above all else -- until she changes the equation",
+    "physically restrained -- every touch is deliberate, rationed, meaningful",
+    "intelligent and strategic -- treats the marriage like a chess game until feelings disrupt his moves",
+    "privately tender in ways that contradict his public coldness",
+    "possessive -- once he acknowledges the feeling, it consumes him completely"
+]
+attraction_model = [
+    "initial assessment -- clinical, detached evaluation of his contracted bride",
+    "grudging respect -- she is more than he expected",
+    "involuntary awareness -- noticing her habits, her scent, her laugh",
+    "jealousy as catalyst -- another man's attention makes his claim feel urgent",
+    "first loss of control -- a kiss, a touch that was not in the contract",
+    "denial and withdrawal -- attempting to re-establish professional distance",
+    "surrender -- admitting the marriage stopped being an arrangement weeks ago"
+]
+exclusivity_requirement = "absolute fidelity from the moment of the contract -- even before he loves her, he honors the arrangement"
+
+[protagonist_design]
+protagonist_gender = "female"
+required_psychological_traits = [
+    "dignified under pressure -- refuses to be pitied or diminished",
+    "strategically intelligent -- learns the family's power dynamics quickly",
+    "emotionally perceptive -- reads his micro-expressions when no one else can",
+    "privately fierce -- her resistance is quiet but unbreakable",
+    "capable of tenderness toward a man who does not know how to ask for it",
+    "has her own ambitions and identity beyond the marriage"
+]
+reader_identification_requirement = "reader must feel the claustrophobia of the arrangement and the growing desire to stay, mirroring the heroine's internal conflict"
+archetype_variations = [
+    "Book 1: rival family's daughter -- the peace offering bride (enemies-to-lovers)",
+    "Book 2: a civilian outsider -- wrong place, wrong time, married to silence her (captive bride)",
+    "Book 3: his childhood acquaintance -- they knew each other before, which makes it worse (second chance)",
+    "Book 4: a woman with her own dangerous secrets -- the arrangement gives her cover (mutual deception)",
+    "Book 5: the one he chose himself -- but she does not know the arrangement was his idea (secret manipulation)"
+]
+
+[emotional_design]
+primary_emotional_drivers = [
+    "the ache of proximity without permission",
+    "the eroticism of restraint and control",
+    "longing for authenticity within a performed relationship",
+    "the terror of catching feelings in a transaction",
+    "possessiveness that surprises the possessor",
+    "intimacy as the most dangerous form of rebellion against the arrangement"
+]
+emotional_progression_model = [
+    "resistance and resentment",
+    "grudging coexistence",
+    "curiosity about the stranger in the next room",
+    "first moment of genuine laughter or shared vulnerability",
+    "physical desire that neither can deny",
+    "emotional dependence they both try to hide",
+    "crisis that reveals how much they need each other",
+    "declaration and dissolution of the contract into genuine marriage"
+]
+attachment_mechanisms = [
+    "him adjusting small things in their home for her comfort without being asked",
+    "her learning his coffee order, his insomnia patterns, his tells",
+    "the first time he sleeps through the night because she is beside him",
+    "him attending something that matters to her -- silently, in the back row",
+    "private jokes that exist nowhere outside their shared bedroom",
+    "the moment she stops flinching when he reaches for her and he notices"
+]
+
+[sensuality_calibration]
+intensity = "high spice -- 4-5 explicit scenes per book, tension between contractual obligation and genuine desire, power dynamics in the bedroom"
+sensual_expression_methods = [
+    "the wedding night -- navigating intimacy with a stranger",
+    "tension between duty and desire -- what the contract requires versus what they want",
+    "clothing as armor -- the eroticism of him loosening his tie, her unzipping her dress",
+    "possessive touches in public that mean something different in private",
+    "the first time it stops being performance and becomes real",
+    "morning-after vulnerability -- the contract cannot explain why he is still holding her",
+    "escalating intensity as emotional walls fall -- the sex gets more intimate, not just more explicit"
+]
+sensuality_function = "intimate scenes must chart the transition from obligation to obsession -- each encounter should be emotionally distinct from the last"
+
+[pacing]
+structure_priority = "slow burn within forced proximity"
+chapter_count = 20
+chapter_length_words = 3500
+tension_maintenance_protocol = [
+    "chapters 1-3: the contract, the wedding, the first night in the same house",
+    "chapters 4-7: establishing routines, cracks in the armor, first charged moments",
+    "chapters 8-11: first physical escalation, emotional complications, external threats",
+    "chapters 12-15: deepening intimacy, major revelation or betrayal, the arrangement feels real",
+    "chapters 16-18: crisis -- the arrangement is threatened, forcing them to confront what it has become",
+    "chapters 19-20: resolution, declaration, HEA, series hook",
+    "every chapter must end on unresolved tension -- sexual, emotional, or plot-driven"
+]
+reader_retention_mechanisms = [
+    "the question driving every page: when does the arrangement become real?",
+    "escalating intimacy -- each shared moment more genuine than the last",
+    "external threats that test whether the marriage is real enough to survive",
+    "drip-feed reveals about the Marchetti family's darker operations",
+    "the patriarch's machinations creating complications across the series"
+]
+
+[conflict_design]
+conflict_types = [
+    "the contract itself -- its terms constrain authentic emotional expression",
+    "family loyalty versus personal desire -- his father's expectations",
+    "her resentment at being traded -- even as she falls for her husband",
+    "external threats from rival families or federal investigators",
+    "the question of whether his feelings are real or another manipulation",
+    "her secrets or past that the arrangement was supposed to bury",
+    "the impossibility of trusting someone you were forced to marry"
+]
+conflict_resolution_requirement = "he must destroy or rewrite the contract -- symbolically choosing her over the arrangement. She must stay when she finally has the power to leave."
+
+[ending_requirements]
+ending_type = "HEA"
+hea_definition = [
+    "the contract is rendered meaningless because both choose to stay",
+    "he publicly acknowledges the marriage as real, not strategic",
+    "she has full agency to leave and chooses not to",
+    "emotional transparency between them -- no more masks",
+    "a moment of domestic intimacy that proves the marriage has become a home"
+]
+emotional_resolution_requirements = [
+    "he must say the words -- not just show, but tell her what she means to him",
+    "she must forgive the arrangement's origins and choose the man it gave her",
+    "the final scene must contrast with the cold contract of chapter 1",
+    "epilogue must tease the next Marchetti brother's arrangement",
+    "reader must feel the full arc from transaction to love story"
+]
+
+[setting]
+city = "Chicago, Illinois"
+neighborhoods = ["Gold Coast", "The Loop", "North Shore lakefront estates", "Little Italy"]
+era = "present day"
+world_details = [
+    "the Marchetti family is old-guard Italian-American aristocracy -- fifth generation in Chicago",
+    "their wealth is layered: legitimate holdings (real estate, restaurants, import/export) over criminal operations",
+    "the North Shore estate is a fortress disguised as old money elegance -- stone walls, manicured gardens, security everywhere",
+    "Chicago's lakefront setting provides atmospheric contrast: glittering skyline over dark water",
+    "Italian Catholic tradition permeates everything -- Sunday dinners, cathedral weddings, confession as power play",
+    "the weight of family legacy is physical -- portraits on walls, heirlooms on fingers, names that open doors and close throats"
+]
+season = "varies per book -- each anchored to a different season for atmospheric range"
+atmosphere = "gilded suffocation -- crystal chandeliers, silk sheets, and the constant awareness that the beautiful cage is still a cage"
+
+[prohibited_elements]
+marital_rape_or_coercion = true
+abuse_framed_as_romance = true
+heroine_as_passive_object = true
+love_triangle_within_the_marriage = true
+ambiguous_romantic_resolution = true
+romanticized_trafficking = true
+
+[reader_conversion_optimization]
+booktok_alignment = [
+    "the wedding night scene -- tension between strangers who are legally intimate",
+    "the first 'this is not the arrangement anymore' confession",
+    "the cold husband's first crack -- a moment of unexpected tenderness",
+    "possessive declarations at public events -- 'my wife' said with genuine heat",
+    "the contract burning scene -- literal or metaphorical",
+    "domestic moments that contrast with the dark setup -- him cooking for her, her falling asleep on his shoulder"
+]
+kindle_unlimited_optimization = [
+    "open with the contract signing or wedding -- immediately establish the arrangement",
+    "20 chapters at ~3500 words = 70,000 words, 315+ KENP pages",
+    "the 'when does it become real' question sustains page-turning urgency",
+    "each book's arrangement is distinct enough to feel fresh within the series",
+    "series-ending hooks that make the next brother's story irresistible"
+]
+
+[required_reader_effect]
+psychological_outcomes = [
+    "obsessive attachment to the cold husband character",
+    "emotional investment in the moment the arrangement becomes love",
+    "physical tension during the slow-burn proximity scenes",
+    "cathartic satisfaction at the HEA",
+    "immediate need to read the next Marchetti brother's book",
+    "desire to reread the contract-to-love transition scenes"
+]

@@ -1,0 +1,215 @@
+[metadata]
+name = "Paranormal Romance"
+description = "Series 13: Howl of the Highland Pack — Scottish highland wolf shifters find their fated mates. Each book follows a different member of the Clan MacTavish pack as they battle territorial threats and surrender to the mate bond. Steamy, atmospheric, and fiercely protective heroes."
+tone = "intense, atmospheric, fiercely romantic, primal"
+themes = ["fate vs. choice", "belonging", "the beast within", "trust", "sacrifice for pack and mate"]
+n_chapters = 20
+chapter_length = 3500
+target_audience = "women 22-45, paranormal romance readers, shifter romance fans, Scottish romance fans"
+author_style = "Rowan Ashfire"
+tropes = ["fated mates", "wolf shifter", "Scottish highlands", "alpha hero", "territorial protector", "pack hierarchy", "the mate bond"]
+
+[meta]
+purpose = "Series specification for 'Howl of the Highland Pack' by Rowan Ashfire. A commercially optimized paranormal romance series featuring Scottish highland wolf shifters and the fated mates who bring them to their knees. 7 books planned — one per key pack member. High spice. HEA guaranteed. Designed for the shifter romance audience on Kindle Unlimited."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define shifter worldbuilding, mate bond mechanics, pack dynamics, romantic escalation, and Scottish atmosphere required for maximum reader obsession and series read-through."
+
+[series]
+name = "Howl of the Highland Pack"
+author = "Rowan Ashfire"
+book_number = 1
+total_books = 7
+series_format = "interconnected series — each book follows a different MacTavish pack member finding their fated mate. Overarching threat escalates across the series. HEA per book."
+shared_locations = ["Glen Morroch (fictional highland glen)", "Castle Dunvane (ancestral MacTavish stronghold)", "the Black Loch", "the standing stones on Carn Dubh", "the village of Achmore", "the pack's hunting grounds in the Cairngorms"]
+recurring_characters = [
+    "Clan MacTavish pack — 7 core wolves, each the hero of their own book",
+    "Ewan MacTavish — Pack Alpha (Book 1 hero)",
+    "Grandmother Morag — pack elder, seer, keeper of old ways",
+    "the pack as a whole — brothers, cousins, warriors who appear across all books"
+]
+overarching_threat = "a rival pack (the Blackmoor wolves) and an ancient curse on the MacTavish bloodline that can only be broken when all seven pack bonds are complete"
+timeline = "each book covers weeks to months as the mate bond develops and the external threat escalates"
+
+[romantic_dynamic]
+core_dynamic = "fated mates — primal, undeniable, overwhelming"
+dynamic_definition = [
+    "the mate bond is physical, emotional, and supernatural — the wolf recognizes its mate before the man does",
+    "the hero experiences the bond as a primal compulsion — protective instinct, possessiveness, an ache in his chest when she's near",
+    "the heroine is initially unaware of or resistant to the bond",
+    "the bond intensifies with physical proximity and emotional vulnerability",
+    "the hero must earn the heroine's trust and choice — the bond is fate, but love is a decision",
+    "once accepted, the bond is permanent, exclusive, and all-consuming"
+]
+power_dynamic_calibration = [
+    "the hero is physically dominant (larger, stronger, supernatural abilities) but emotionally at the mercy of the mate bond",
+    "the heroine holds the real power — she can accept or reject the bond",
+    "the hero's possessiveness must be protective, never controlling",
+    "the relationship must reach emotional equality — he is her protector, she is his anchor",
+    "consent is paramount — the mate bond compels attraction but never overrides free will"
+]
+mate_bond_mechanics = [
+    "recognition — the wolf senses the mate through scent, proximity, or a supernatural pull",
+    "compulsion — the hero becomes hyperaware of the heroine, protective to the point of irrationality",
+    "resistance — one or both fight the bond due to fear, duty, or past wounds",
+    "escalation — the bond intensifies with each touch, each moment of vulnerability",
+    "completion — a claiming scene (consensual, passionate, supernatural) that seals the bond permanently",
+    "the completed bond grants shared emotional awareness and enhanced healing"
+]
+
+[romantic_partner_design]
+hero_type = "highland wolf shifter — massive, battle-scarred, fiercely protective, emotionally guarded until the mate bond cracks him open"
+hero_required_traits = [
+    "physically imposing — tall, powerfully built, carries himself with predatory grace",
+    "competent and commanding within the pack hierarchy",
+    "protective to the point of ferocity — will kill without hesitation to defend his mate",
+    "emotionally restrained — years of duty and loss have made him guarded",
+    "tender only with his mate — the contrast between his public hardness and private gentleness is the core appeal",
+    "Scottish — the accent, the dry humor, the stubborn highland pride"
+]
+attraction_model = [
+    "instant recognition — the wolf knows before the man does",
+    "involuntary physical response — heightened senses, the need to be near her",
+    "emotional resistance — duty, past wounds, or fear of vulnerability",
+    "protective escalation — increasingly reckless in defending her",
+    "emotional surrender — the moment he stops fighting the bond and lets himself need her"
+]
+exclusivity_requirement = "absolute — fated mates are exclusive and permanent. There is no one else, before or after."
+
+[protagonist_design]
+protagonist_gender = "female"
+heroine_type = "varies per book — but always strong, capable, and initially outside the pack world"
+required_psychological_traits = [
+    "emotionally resilient — has her own life, goals, and problems before the hero appears",
+    "brave — confronts danger even when terrified",
+    "capable of challenging the hero — does not simply submit to his authority",
+    "emotionally authentic — her vulnerability is her strength",
+    "adaptable — can accept the supernatural reality of the pack without becoming passive"
+]
+reader_identification_requirement = "the reader must feel the mate bond through the heroine's POV — the confusion, the pull, the heat, the eventual surrender"
+heroine_arc = "from outsider to belonging — each heroine finds her place in the pack as well as in her mate's heart"
+
+[emotional_design]
+primary_emotional_drivers = [
+    "the overwhelming pull of the mate bond",
+    "the hero's desperate restraint — he wants her with every fiber but won't push",
+    "the heroine's confusion and growing desire",
+    "protective ferocity — he would burn the world for her",
+    "emotional vulnerability — the moment the walls come down",
+    "belonging — the heroine finding her place in the pack and in his arms"
+]
+emotional_progression_model = [
+    "encounter — the bond ignites, raw and confusing",
+    "resistance — one or both fight it (fear, duty, distrust)",
+    "proximity — forced closeness intensifies the pull",
+    "connection — emotional honesty beneath the physical attraction",
+    "crisis — the external threat forces them apart or into danger",
+    "surrender — they stop fighting the bond and each other",
+    "claiming — the bond is completed, passionate and permanent",
+    "security — the HEA, the peace of belonging"
+]
+attachment_mechanisms = [
+    "the hero calling her 'mo chridhe' (my heart) or 'a ghràidh' (my love) in Gaelic",
+    "the wolf's protective behaviors — standing guard, growling at threats, curling around her in sleep",
+    "moments where the hero's control breaks — his voice rough, his hands shaking, his wolf surging to the surface",
+    "the heroine seeing his scars (physical and emotional) and touching them with gentleness",
+    "pack acceptance scenes — the heroine being welcomed by the pack family"
+]
+
+[sensuality_calibration]
+intensity = "high spice — 3-4 steamy scenes per book, explicit but emotionally grounded, the mate bond adds a supernatural edge to intimacy"
+sensual_expression_methods = [
+    "heightened senses — he can smell her arousal, hear her heartbeat, feel the bond humming between them",
+    "the shift between human tenderness and primal urgency",
+    "Gaelic endearments whispered during intimate moments",
+    "the claiming scene — a supernatural and sexual union that seals the bond",
+    "possessive touch — his hand on her hip, her back, the nape of her neck",
+    "the contrast between his size and his gentleness"
+]
+sensuality_function = "the physical intimacy IS the mate bond deepening — every touch strengthens the connection. Sex is not separate from the emotional arc; it IS the emotional arc made physical."
+
+[pacing]
+structure_priority = "romantic and threat escalation intertwined"
+chapter_count = 20
+chapter_length_words = 3500
+total_target_words = 70000
+tension_maintenance_protocol = [
+    "the mate bond ignites in chapter 1-2 — instant hook",
+    "the heroine enters the pack world by chapter 3-4",
+    "romantic tension and external threat escalate in tandem through the middle third",
+    "a dark moment (separation, betrayal, or near-death) around chapter 14-16",
+    "climax — the external threat is defeated and the bond is completed in chapters 17-19",
+    "HEA epilogue in chapter 20 — the couple secure, the pack stronger, a tease for the next book"
+]
+reader_retention_mechanisms = [
+    "the mate bond creates immediate, visceral romantic tension",
+    "the pack dynamics and highland setting provide rich atmosphere between romantic beats",
+    "the overarching curse/threat creates series-level stakes",
+    "each chapter deepens either the romance or the danger (ideally both)",
+    "Gaelic culture and supernatural worldbuilding reward attentive readers"
+]
+
+[conflict_design]
+conflict_types = [
+    "the mate bond itself — overwhelming, terrifying, and irresistible",
+    "the heroine's adjustment to the supernatural world",
+    "pack politics and hierarchy challenges",
+    "the Blackmoor wolves — rival pack threatening MacTavish territory",
+    "the ancient curse on the MacTavish bloodline",
+    "the hero's internal conflict — duty to the pack vs. the vulnerability of the bond",
+    "past wounds that make trust difficult for hero or heroine"
+]
+conflict_resolution_requirement = "the romantic conflict must resolve in full HEA — the bond completed, the couple committed. The external threat must be partially resolved per book with the overarching curse advancing toward resolution across the series."
+
+[ending_requirements]
+ending_type = "HEA"
+hea_definition = [
+    "the mate bond is completed and sealed",
+    "the hero has fully surrendered emotionally",
+    "the heroine has chosen the bond and the pack freely",
+    "the immediate external threat is defeated",
+    "the couple is secure in their bond and their place in the pack",
+    "an epilogue showing their life together — tender, passionate, permanent"
+]
+series_hook = "each book ends with a hint of the next pack member's mate — a scent on the wind, a new arrival in the glen, a vision from Grandmother Morag"
+
+[setting]
+region = "Scottish Highlands"
+glen = "Glen Morroch (fictional) — a remote highland glen surrounded by mountains, ancient forests, and mist"
+key_locations = [
+    "Castle Dunvane — the MacTavish ancestral stronghold, a medieval castle modernized just enough, stone walls and roaring fires",
+    "the Black Loch — a dark, still loch at the center of the glen, site of supernatural events and romantic tension",
+    "the standing stones on Carn Dubh — ancient stone circle where pack rituals and claiming ceremonies take place",
+    "the village of Achmore — a tiny highland village where the pack interacts with the human world",
+    "the Cairngorms — wild mountain territory, the pack's hunting grounds, site of territorial conflicts",
+    "the great hall of Castle Dunvane — where the pack gathers, argues, feasts, and makes decisions"
+]
+atmosphere = "mist-shrouded mountains, ancient forests of Scots pine, the howl of wolves echoing across the glen, peat fires and whisky, standing stones older than memory — wild, romantic, primal Scotland"
+
+[prohibited_elements]
+mate_bond_overriding_consent = true
+abusive_hero_framed_as_romantic = true
+heroine_with_no_agency = true
+ambiguous_romantic_resolution = true
+mate_rejection_without_redemption = true
+gratuitous_sexual_violence = true
+dead_mate_trope = true
+
+[reader_conversion_optimization]
+kindle_unlimited_optimization = [
+    "immediate mate bond hook in chapter 1-2",
+    "high spice content drives page reads",
+    "20 chapters at ~3,500 words for immersive pacing",
+    "each book's HEA is satisfying but the overarching curse drives series read-through",
+    "the Scottish highland setting is inherently atmospheric and escapist"
+]
+series_binge_drivers = [
+    "7 pack members = 7 books of fated mate stories",
+    "the overarching curse creates series-level stakes",
+    "readers fall in love with the pack as a family",
+    "each book teases the next couple",
+    "Grandmother Morag's prophecies and visions create anticipation",
+    "the highland setting and Gaelic culture deepen across the series"
+]

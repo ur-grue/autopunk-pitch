@@ -1,0 +1,267 @@
+[metadata]
+name = "Dark Romance"
+description = "Claimed by the Cartel -- Five cartel lieutenants in the Salazar organization along the Texas-Mexico border. Each book follows one enforcer and the woman who becomes his obsession. Brutal, sun-scorched, and relentlessly possessive."
+tone = "visceral, scorching, obsessive, morally dark, sun-bleached noir"
+themes = ["obsession as devotion", "survival in a lawless world", "desire that defies self-preservation", "the line between protection and possession", "choosing the devil you want"]
+n_chapters = 20
+chapter_length = 3500
+target_audience = "women 18-35, dark romance readers, cartel romance fans, possessive/obsessive hero fans"
+author_style = "Katarina Voss"
+tropes = ["possessive obsessive hero", "captive romance", "dark cartel romance", "touch her and die", "morally black hero", "stalker romance", "who did this to you", "mine to protect", "enemies-to-lovers", "forced proximity"]
+
+[meta]
+purpose = "Series-level template for 'Claimed by the Cartel' -- a 5-book possessive/obsessive dark cartel romance series by Katarina Voss. Each book features one Salazar lieutenant and his all-consuming fixation on one woman. Darkest of the three Katarina Voss series -- pushes boundaries. Very high spice. HEA per book."
+planning_allowed = true
+plot_generation_allowed = true
+character_generation_allowed = true
+title_generation_allowed = true
+focus = "Maximize the possessive/obsessive hero fantasy. These heroes do not ask permission to want -- they take, claim, and guard with terrifying devotion. The heroine is never a victim; she is the eye of the storm, the one thing that makes a monster gentle. Optimized for the 'dark dark romance' BookTok niche."
+
+[series]
+name = "Claimed by the Cartel"
+author = "Katarina Voss"
+total_books = 5
+book_titles_suggested = ["Stolen Breath", "Branded", "Devil's Keep", "Blood Bride", "Kingmaker"]
+shared_locations = ["The Salazar compound (a fortified hacienda in the desert outside Laredo, Texas)", "The border -- the Rio Grande crossing points, tunnels, no-man's-land", "El Rey -- the Salazar-owned cantina in Nuevo Laredo, all business conducted in the back room", "A sprawling ranch property used as a safe house in the Texas hill country", "San Antonio -- neutral territory, the city where normal life exists just out of reach"]
+recurring_characters = ["Mateo Salazar -- the jefe, patriarch of the cartel, silver-tongued and savage, controls through loyalty and fear", "Abuela Rosa -- Mateo's mother, 80 years old, runs the household, the only person every lieutenant fears", "Ghost -- the Salazar hacker and intelligence operative, never seen in person, communicates through encrypted channels"]
+timeline = "Each book spans 1-3 months of intense proximity. Series spans eighteen months of a cartel power consolidation."
+series_arc = "A rival cartel, Los Demonios, is waging war for control of the border corridor. Mateo Salazar tasks each of his five most trusted lieutenants with securing a different piece of the operation. Each lieutenant's mission intersects with a woman who changes everything. By book 5, the war reaches its climax, and the men who were weapons must decide if they can also be men who love."
+
+[target_audience]
+primary_gender = "female"
+age_range = "18-35"
+psychographic_profile = [
+    "seeks the darkest end of the dark romance spectrum",
+    "drawn to heroes who are genuinely dangerous -- not sanitized bad boys",
+    "craves the fantasy of being the sole exception to a ruthless man's cruelty",
+    "enjoys possessive and obsessive hero dynamics when paired with genuine emotional depth",
+    "comfortable with explicit content, violence, and moral ambiguity",
+    "reads 'dark dark romance' as a distinct sub-genre and searches for it specifically",
+    "active in dark romance Facebook groups, Bookstagram, and #DarkRomance BookTok",
+    "values the emotional payoff precisely because the journey is so intense"
+]
+reader_fantasy_drivers = [
+    "being obsessed over by someone terrifyingly powerful who would burn the world for you",
+    "being the only soft thing in a hard man's life",
+    "being stalked, watched, guarded with an intensity that feels like worship",
+    "the monster kneeling -- the most dangerous man alive choosing to be gentle only for you",
+    "being claimed so completely that safety becomes absolute",
+    "turning a weapon into a lover without dulling his edge"
+]
+
+[genre]
+primary = "dark romance"
+secondary = ["cartel romance", "possessive hero romance", "obsessive hero romance", "captive romance", "stalker romance", "enemies-to-lovers romance"]
+genre_requirements = [
+    "these are the darkest books in the Katarina Voss catalog -- lean into it",
+    "heroes are not redeemed in the traditional sense -- they are humanized through love but remain dangerous",
+    "violence is present and real but never directed at the heroine",
+    "consent must be maintained even within dark dynamics -- desire is mutual, always",
+    "the possessive/obsessive dynamic must feel like devotion, not pathology",
+    "content warnings mandatory: violence, captivity, stalking elements, explicit sexual content, cartel activity"
+]
+
+[romantic_dynamic]
+core_dynamic = "obsessive_predator_to_devoted_protector"
+dynamic_definition = [
+    "hero fixates on heroine before she is aware of him -- he watches, learns, decides she is his",
+    "their first interaction is charged with his knowledge and her ignorance of his obsession",
+    "she discovers his fixation and it terrifies her -- then it does not",
+    "his possessiveness is total: he tracks her location, eliminates threats, controls access to her",
+    "she challenges his control and he discovers he cannot deny her anything",
+    "the dynamic shifts from predator-prey to mutual addiction",
+    "the relationship stabilizes into fierce partnership where his obsession becomes her security"
+]
+power_dynamic_calibration = [
+    "he holds absolute physical power and situational control",
+    "she holds psychological power -- his obsession gives her leverage he cannot counter",
+    "he must never use violence against her or coerce sexual contact",
+    "her agency is demonstrated through her ability to affect his decisions and behavior",
+    "by the end, his obsession has evolved into genuine partnership -- he defers to her in emotional matters",
+    "the power exchange is the fantasy: he is a monster, but she holds his leash and he put it there himself"
+]
+
+[romantic_partner_design]
+male_counterpart_required_traits = [
+    "physically dangerous -- scarred, tattooed, built for violence, radiates threat",
+    "obsessive by nature -- once fixated, nothing can redirect his attention",
+    "possessive without apology -- he does not pretend to be civilized about his claim",
+    "violent to everyone except her -- the contrast is the entire point",
+    "emotionally inarticulate -- shows devotion through actions, not words, until the breaking point",
+    "strategic and patient in his work -- impulsive only when she is threatened",
+    "capable of shocking gentleness -- calloused hands that can be impossibly soft"
+]
+attraction_model = [
+    "fixation -- he sees her and something locks into place",
+    "surveillance -- he learns everything about her before she knows his name",
+    "first contact -- charged, intense, she feels hunted",
+    "escalating proximity -- he inserts himself into her life, removes threats, closes distance",
+    "first possession -- a kiss, a touch, a declaration that she is his",
+    "resistance from her that he respects even as it tortures him",
+    "mutual surrender -- she stops running, he stops pretending he could ever let her go"
+]
+exclusivity_requirement = "absolute and immediate -- from the moment he fixates, no other woman exists. He is single-target obsessive."
+
+[protagonist_design]
+protagonist_gender = "female"
+required_psychological_traits = [
+    "brave to the point of recklessness -- she does not freeze when confronted with danger",
+    "sharp and perceptive -- she reads situations accurately even in unfamiliar territory",
+    "defiant -- his possessiveness provokes her resistance before it provokes her desire",
+    "emotionally honest -- she names what she feels even when it is inconvenient",
+    "compassionate without being naive -- she sees his humanity without ignoring his violence",
+    "self-sufficient -- she survived before him and could survive without him, which is why her choice to stay matters"
+]
+reader_identification_requirement = "reader must feel the intoxication of being the focus of someone's total obsession while maintaining respect for the heroine's autonomy and intelligence"
+archetype_variations = [
+    "Book 1: wrong place, wrong time -- a civilian who witnesses something she should not have (captive/protectee)",
+    "Book 2: a rival cartel's daughter sent as a peace offering who refuses to be a gift (arranged/enemies)",
+    "Book 3: a federal agent who goes undercover and gets made -- he should kill her but cannot (forbidden)",
+    "Book 4: a woman from his past he was ordered to forget -- she reappears and his obsession reignites (second chance)",
+    "Book 5: the woman who was supposed to be leverage against the jefe but the lieutenant steals her for himself (betrayal)"
+]
+
+[emotional_design]
+primary_emotional_drivers = [
+    "the thrill of being hunted by someone who intends to worship, not harm",
+    "the intoxication of being someone's singular obsession",
+    "fear that transmutes into desire",
+    "the ache of wanting someone your survival instincts say to flee",
+    "tenderness from brutal hands -- the contrast that shatters defenses",
+    "the security of absolute possession -- nothing can reach her through him"
+]
+emotional_progression_model = [
+    "fear and awareness -- she knows she is being watched",
+    "confrontation -- she meets the source of the danger",
+    "resistance and fascination -- she fights the pull",
+    "first vulnerability -- he shows her something no one else has seen",
+    "capitulation to desire -- the body surrenders before the mind agrees",
+    "emotional entanglement -- she realizes she does not want to escape",
+    "crisis -- his world threatens to consume her",
+    "his grand sacrifice -- he dismantles something essential to keep her safe",
+    "mutual claim -- she chooses him as fiercely as he chose her"
+]
+attachment_mechanisms = [
+    "him killing someone who threatened her -- violence as love language",
+    "the first time she sees him sleep and realizes he is exhausted from guarding her all night",
+    "him learning her preferences with obsessive precision -- her coffee, her temperature, her comfort",
+    "her touching his scars and him flinching not from pain but from tenderness he has never received",
+    "him calling her 'mi vida' or 'mi reina' -- possessive endearments in Spanish",
+    "the moment she reaches for him first and his entire body goes still with reverence"
+]
+
+[sensuality_calibration]
+intensity = "very high spice -- 5-6 explicit scenes per book, dominant and possessive energy, intense physicality, emotionally raw"
+sensual_expression_methods = [
+    "possessive claiming -- these scenes are about ownership expressed through desire",
+    "size difference and physical dominance -- his body surrounding hers",
+    "praise and degradation in tension -- 'good girl' and 'you are mine' as dual modes",
+    "marking -- bites, bruises, visible evidence of possession (consensual)",
+    "denied orgasm and edging as power play",
+    "aftermath worship -- the violence of the act contrasted with impossibly tender aftercare",
+    "outdoor and dangerous locations -- the hacienda, the desert at night, against a truck in the dust"
+]
+sensuality_function = "intimate scenes must express the obsessive dynamic physically -- each encounter escalates the emotional stakes of his possession and her surrender"
+
+[pacing]
+structure_priority = "relentless escalation"
+chapter_count = 20
+chapter_length_words = 3500
+tension_maintenance_protocol = [
+    "chapter 1: his fixation established -- he sees her, decides, begins",
+    "chapters 2-5: escalating proximity and her growing awareness of being watched/claimed",
+    "chapters 6-9: first physical encounters, explosive tension, she fights the pull",
+    "chapters 10-13: surrender begins -- intimate scenes intensify, emotional walls crack",
+    "chapters 14-17: external crisis from the cartel war threatens to tear them apart",
+    "chapters 18-19: grand gesture, his sacrifice, her choice",
+    "chapter 20: HEA, series arc advancement, next book hook",
+    "pacing must feel like pursuit -- relentless forward motion with no safe harbor"
+]
+reader_retention_mechanisms = [
+    "the obsessive hero's internal monologue -- readers inside his fixation",
+    "escalating danger from Los Demonios that puts her at risk",
+    "the tension between his cartel duties and his need to protect her",
+    "physical chemistry that builds across chapters like pressure in a pipe",
+    "dual POV to show his obsession from both inside and outside"
+]
+
+[conflict_design]
+conflict_types = [
+    "she is not from his world and his world will destroy her",
+    "the cartel war demands his attention when she needs his protection",
+    "her moral objections to what he does for a living",
+    "his inability to express emotion except through possession and violence",
+    "rivals who would use her to get to him",
+    "her desire for freedom versus his need to contain and protect",
+    "the jefe's orders conflicting with his obsession"
+]
+conflict_resolution_requirement = "he must choose her over the cartel's demands -- and she must choose to stay in his world with open eyes, not because she is trapped but because she wants the man behind the monster"
+
+[ending_requirements]
+ending_type = "HEA"
+hea_definition = [
+    "he has secured her safety within or outside his world -- the threat is neutralized",
+    "she has chosen him freely and he knows it",
+    "his obsession has matured into devoted partnership",
+    "she has standing and agency in their shared life",
+    "the possessive dynamic is maintained but balanced by mutual respect",
+    "reader certainty that he would still burn the world for her -- and she likes it that way"
+]
+emotional_resolution_requirements = [
+    "he must say the words in a moment of raw vulnerability -- not performance, not possession, genuine emotional exposure",
+    "she must demonstrate her claim on him is equally fierce -- she is not a passive recipient of his obsession",
+    "the final chapter must include a moment of quiet domesticity that contrasts with the violence of the journey",
+    "epilogue must advance the cartel war arc and tease the next lieutenant's story",
+    "the last line should make the reader one-click the next book immediately"
+]
+
+[setting]
+city = "Laredo, Texas and the Texas-Mexico border region"
+locations = ["the Texas-Mexico border corridor", "Nuevo Laredo, Mexico", "San Antonio, Texas", "rural Texas hill country"]
+era = "present day"
+world_details = [
+    "the Salazar cartel controls the Laredo-Nuevo Laredo border corridor -- smuggling, protection, territory",
+    "the hacienda compound is a fortress in the desert -- terracotta walls, courtyards, armed guards, a chapel",
+    "the Texas heat is a character -- dust, sweat, blinding sun, cool tile floors as refuge",
+    "the border is a liminal space -- neither fully one country nor the other, its own lawless territory",
+    "El Rey cantina has a public face of cold beer and norteño music; the back room has a different atmosphere entirely",
+    "the safe house ranch in the hill country is where they send women and children when things get dangerous -- rolling grass, live oaks, a deceptive peace"
+]
+season = "primarily summer and early fall -- the heat is oppressive, the nights offer no relief, the desert is beautiful and merciless"
+atmosphere = "sun-scorched brutality overlaid with fierce, consuming passion -- dust on boots, blood on knuckles, her name tattooed on his chest"
+
+[prohibited_elements]
+sexual_assault_or_coercion = true
+heroine_as_helpless_victim = true
+romanticized_drug_use = true
+on_page_harm_to_children = true
+love_triangles = true
+ambiguous_romantic_resolution = true
+hero_violence_directed_at_heroine = true
+
+[reader_conversion_optimization]
+booktok_alignment = [
+    "the stalker reveal -- when she realizes how long he has been watching her",
+    "the 'touch her and die' scene -- someone threatens her and he ends it violently",
+    "the first 'mi vida' -- possessive endearment delivered with devastating tenderness",
+    "the marking scene -- consensual possessive physicality",
+    "the soft moment -- him braiding her hair, feeding her, carrying her to bed after she falls asleep",
+    "his internal monologue quotes about her -- 'she breathes and I am undone' energy"
+]
+kindle_unlimited_optimization = [
+    "open inside his head -- establish the obsession in the first 300 words",
+    "20 chapters at ~3500 words = 70,000 words, 315+ KENP pages",
+    "dual POV to maintain tension and show both sides of the obsessive dynamic",
+    "chapter hooks must be visceral -- physical danger, sexual tension, emotional revelation",
+    "the series must feel like one continuous escalation across all five books"
+]
+
+[required_reader_effect]
+psychological_outcomes = [
+    "visceral, consuming attachment to the obsessive hero",
+    "elevated heart rate during pursuit and intimate scenes",
+    "emotional devastation at the soft moments within the darkness",
+    "cathartic satisfaction at the HEA",
+    "immediate compulsion to read the next lieutenant's story",
+    "desire to create BookTok edits with quotes from the text"
+]

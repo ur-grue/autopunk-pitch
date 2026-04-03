@@ -1,0 +1,275 @@
+[metadata]
+name = "Romantasy"
+description = "The Thornbound Throne -- A five-book epic romantasy series set in a continent of warring fae courts. A mortal woman bound by ancient magic to the High King of the Thorn Court must navigate political treachery, forbidden power, and a bond neither of them wanted -- but neither can break."
+tone = "lush, epic, darkly romantic, politically treacherous, mythic"
+themes = ["power and sacrifice", "forbidden bonds", "the cost of immortality", "political intrigue in magical courts", "choosing love in a world built on war"]
+n_chapters = 25
+chapter_length = 3600
+target_audience = "women 18-35, romantasy readers, BookTok fantasy romance fans, Fourth Wing and ACOTAR readers"
+author_style = "Elara Nighthollow"
+tropes = ["fated mates", "enemies-to-lovers", "morally grey fae hero", "mate bond", "forbidden love across warring factions", "there is only one bed", "forced proximity", "chosen one heroine", "political marriage", "he fell first"]
+
+[meta]
+purpose = "Series-level template for 'The Thornbound Throne' -- a 5-book fae court romantasy series by Elara Nighthollow. Epic scope: political intrigue, world-ending stakes, slow-burn romance across a continent of fae courts. The primary couple spans the full series. High spice in later books. HEA by series end."
+planning_allowed = true
+plot_generation_allowed = true
+character_generation_allowed = true
+title_generation_allowed = true
+focus = "Deliver the ACOTAR/Fourth Wing reader experience: expansive world-building, a morally complex fae love interest, political stakes that feel real, a heroine who grows into her power across the series, and a romance that earns every moment of its payoff. Optimized for KDP, KU binge behavior, and BookTok fandom creation."
+
+[series]
+name = "The Thornbound Throne"
+author = "Elara Nighthollow"
+total_books = 5
+book_titles_suggested = ["A Court of Thorns and Iron", "The Hollow Crown", "Blood and Briar", "Queen of the Shattered Court", "Throne of Eternal Thorn"]
+shared_locations = ["The Thorn Court (Thornhaven) -- a fortress-palace grown from living black briars on a cliff above a silver sea", "The Ember Court -- a volcanic kingdom of fire fae in the southern mountains", "The Veil Court -- a mist-shrouded kingdom of illusion fae in the eastern forests", "The Bone Court -- a desolate northern kingdom of death fae in frozen tundra", "The Mortal Lands -- the human territories south of the Thornwall, protected by ancient wards", "The Thornwall itself -- the living barrier of magical briars separating fae and mortal lands"]
+recurring_characters = ["Caelum -- the hero's spymaster, sardonic and lethal, potential love interest for a secondary character across the series", "Elowen -- a Veil Court ambassador, dangerously charming, plays all sides", "The Weaver -- an ancient fae oracle who speaks in riddles and deals in terrible truths", "Maren -- the heroine's mortal best friend who crosses the Thornwall to find her"]
+timeline = "Book 1 spans one season in the fae lands. Each subsequent book covers longer periods as the political war escalates. Full series spans approximately three years."
+series_arc = "The Thornwall is failing. An ancient enemy -- the Hollow, a void-magic corruption -- is seeping through, turning fae into monstrous husks. The four courts blame each other. The heroine, a mortal woman accidentally bound to the Thorn King through a broken ward, is the key to restoring the wall -- or tearing it down forever. Across five books, she grows from captive mortal to the most powerful being on the continent, and her relationship with the Thorn King evolves from mutual resentment to world-altering love."
+
+[target_audience]
+primary_gender = "female"
+age_range = "18-35"
+psychographic_profile = [
+    "obsessed with ACOTAR, Fourth Wing, and From Blood and Ash -- wants more of that experience",
+    "values expansive world-building with political depth",
+    "wants a slow-burn romance that pays off with devastating intensity",
+    "drawn to morally grey fae heroes who are terrifying and tender",
+    "enjoys heroine power-progression narratives -- watching her grow into something extraordinary",
+    "reads for emotional immersion and aesthetic atmosphere",
+    "creates fan art, playlists, and BookTok edits for series they love",
+    "will read 90,000+ word books and wants that length for full immersion"
+]
+reader_fantasy_drivers = [
+    "being magically bound to a devastatingly powerful fae king who resents the bond as much as you do -- until he does not",
+    "discovering you have power in a world that dismissed you as mortal and weak",
+    "political intrigue where your choices matter to the fate of kingdoms",
+    "a slow-burn mate bond that neither party can escape and both eventually crave",
+    "being the key to saving or destroying a world, and choosing which",
+    "earning the respect of a court that wanted you dead"
+]
+
+[genre]
+primary = "romantasy"
+secondary = ["fae romance", "epic fantasy romance", "enemies-to-lovers fantasy", "mate bond romance", "political fantasy romance", "dark fantasy romance"]
+genre_requirements = [
+    "romance and fantasy plot must be equally weighted -- neither is subordinate",
+    "world-building must be specific and internally consistent across all five books",
+    "magic system must have clear rules, costs, and limitations",
+    "political intrigue must be genuinely complex -- multiple factions with competing interests",
+    "the romance must be a slow burn across the series, with escalating physical intimacy",
+    "book 1 ends with an HFN (happy for now); the full HEA arrives in book 5",
+    "each book must have a complete story arc while advancing the series-level plot"
+]
+
+[romantic_dynamic]
+core_dynamic = "reluctant_mate_bond_to_devastating_love"
+dynamic_definition = [
+    "the mate bond is imposed by magic -- neither chose it, both resent it",
+    "the bond creates physical awareness: they feel each other's pain, sense each other's location, are drawn together",
+    "he masks his growing feelings behind cruelty and political necessity",
+    "she refuses to be defined by the bond and fights for autonomy within it",
+    "proximity forced by the bond creates genuine emotional intimacy despite their resistance",
+    "the mate bond is the excuse; the real love is built through shared battles, political alliance, and vulnerability",
+    "by series end, they would choose each other even without the bond"
+]
+power_dynamic_calibration = [
+    "he holds all structural power initially -- king, fae, ancient, powerful",
+    "she gains magical power progressively across the series, equalizing the dynamic",
+    "the mate bond gives her leverage over him that no one else has -- his vulnerability to her is political weakness",
+    "by book 3, they are genuine partners; by book 5, she may be more powerful than he is",
+    "the relationship must model equality earned through growth, not granted through generosity"
+]
+
+[romantic_partner_design]
+male_counterpart_required_traits = [
+    "ancient and powerful -- centuries old, carries the weight of every war the Thorn Court has fought",
+    "physically striking in an inhuman way -- sharp features, silver or dark hair, eyes that shift color with emotion, pointed ears, too-perfect fae beauty with something predatory underneath",
+    "politically brilliant -- plays the long game, sacrifices pawns, thinks in decades",
+    "morally grey -- has done terrible things for his court and would do them again",
+    "the mask: cold, cutting, imperious in public -- the court sees the king",
+    "beneath the mask: bone-deep exhaustion, loneliness, a dry humor that surprises her",
+    "the bond terrifies him because vulnerability is a death sentence for a king",
+    "his tenderness, when it finally emerges, is devastating precisely because of how long he withheld it"
+]
+attraction_model = [
+    "mutual hostility -- she is an unwanted complication, he is her captor",
+    "grudging respect -- she survives something that should have killed a mortal",
+    "involuntary awareness through the bond -- her heartbeat in his chest, his emotions bleeding into hers",
+    "first crack -- a moment of genuine humor or shared danger that bypasses their defenses",
+    "denial phase -- both retreat into hostility after getting too close",
+    "escalating physical tension -- almost-touches, loaded eye contact, the bond pulling like a tide",
+    "first kiss at a moment of crisis -- desperate, angry, necessary",
+    "slow surrender across the remaining books -- each physical encounter more emotionally raw than the last"
+]
+exclusivity_requirement = "the mate bond enforces exclusivity but it must be demonstrated that he would choose it regardless -- no ex-lover drama, no jealousy plots with real rivals"
+
+[protagonist_design]
+protagonist_gender = "female"
+required_psychological_traits = [
+    "fiercely independent -- being bound to someone against her will is her worst nightmare",
+    "adaptable and quick-thinking -- she survives the fae courts through intelligence, not raw power (initially)",
+    "emotionally honest to a fault -- she says what fae courtiers would never dare, which both endangers and protects her",
+    "carries mortal empathy into an immortal world -- she sees individuals where fae see pawns",
+    "grows into power progressively -- book 1 she is vulnerable; book 5 she is formidable",
+    "stubborn to the point of self-destruction -- she will not bend, even when it would be easier"
+]
+reader_identification_requirement = "reader must experience the fae world through her mortal eyes -- the wonder, the terror, the gradual belonging. Her growth IS the reader's fantasy."
+power_progression = [
+    "Book 1: mortal, no magic, survives through wit and defiance",
+    "Book 2: the bond begins unlocking dormant magical abilities",
+    "Book 3: her power grows unpredictably -- she is both weapon and liability",
+    "Book 4: she masters her abilities and becomes a genuine political player",
+    "Book 5: fully realized power -- she stands beside the Thorn King as an equal or surpasses him"
+]
+
+[emotional_design]
+primary_emotional_drivers = [
+    "the ache of a bond that forces proximity with someone who resents you",
+    "the slow realization that resentment has become something else entirely",
+    "wonder at a magical world contrasted with the danger of being powerless within it",
+    "the tension between independence and the mate bond's pull",
+    "political stakes where the wrong romantic choice could doom a kingdom",
+    "earned tenderness after prolonged emotional warfare"
+]
+emotional_progression_model = [
+    "Book 1: hostility -> grudging respect -> first vulnerability -> denial",
+    "Book 2: reluctant alliance -> physical tension breaks -> emotional retreat -> forced to work together",
+    "Book 3: genuine partnership -> first 'I need you' -> devastating betrayal or sacrifice -> reconciliation",
+    "Book 4: full emotional commitment -> external forces trying to tear them apart -> choosing each other publicly",
+    "Book 5: united front -> ultimate sacrifice -> victory -> HEA with full emotional resolution"
+]
+attachment_mechanisms = [
+    "the bond transmitting his pain to her -- she feels him hurt and cannot ignore it",
+    "him teaching her fae customs and catching himself caring that she learns",
+    "a scene where he tends her wounds and his hands tremble",
+    "her defending him in court when no one else will -- a mortal standing against fae lords for him",
+    "private moments in the thorn garden where the masks come off",
+    "him saying her name in the old language and it meaning something he did not intend to reveal"
+]
+
+[sensuality_calibration]
+intensity = "escalating across the series -- Book 1: slow burn, charged moments, one kiss. Book 2: first intimate scene. Books 3-5: high spice, 3-4 explicit scenes per book, emotionally devastating"
+sensual_expression_methods = [
+    "the mate bond adding a supernatural dimension to physical intimacy -- shared sensation, heightened awareness",
+    "fae physicality -- he is not human, and the differences are intriguing, not frightening",
+    "power dynamics expressed through intimacy -- who surrenders control, who demands it",
+    "magic intertwining with physical sensation during intimate moments",
+    "slow escalation: almost-touches in book 1, first kiss in book 1-2, full intimacy in book 2-3",
+    "the emotional weight of each physical encounter -- these scenes must mean something for the arc",
+    "the contrast between his public coldness and his private intensity"
+]
+sensuality_function = "intimate scenes must chart the dissolution of barriers between them -- each encounter reveals something new about the bond, their feelings, or their power dynamic"
+
+[pacing]
+structure_priority = "epic fantasy pacing with romantic milestones"
+chapter_count = 25
+chapter_length_words = 3600
+tension_maintenance_protocol = [
+    "each book follows a three-act structure with the romance and political plot intertwined",
+    "romantic milestones serve as act breaks -- first vulnerability, first kiss, first intimacy, first declaration",
+    "action sequences (battles, court intrigue, magical confrontations) alternate with intimate character moments",
+    "the Hollow threat escalates across the series, raising stakes each book",
+    "each book must have a satisfying conclusion while leaving the series arc unresolved until book 5",
+    "chapter endings alternate between romantic hooks and plot hooks"
+]
+reader_retention_mechanisms = [
+    "the central mystery: what is the heroine's true nature and why does the bond work on a mortal?",
+    "escalating political complexity -- alliances shift, betrayals compound",
+    "the slow-burn romance providing consistent emotional momentum",
+    "the heroine's power progression creating anticipation for her full potential",
+    "world-building revelations that recontextualize earlier events"
+]
+
+[conflict_design]
+conflict_types = [
+    "the mate bond versus free will -- both question whether their feelings are real or magical compulsion",
+    "the four courts' political maneuvering -- every alliance has a cost",
+    "the Hollow corruption spreading and threatening all fae lands",
+    "her mortality in an immortal world -- the mate bond does not make her deathless (until it does)",
+    "his court demanding he reject a mortal mate for political advantage",
+    "the revelation that her power comes from a source that threatens the very world she is trying to save",
+    "the choice: destroy the Thornwall to stop the Hollow, or sacrifice something personal to save it"
+]
+conflict_resolution_requirement = "the series must resolve both the political/magical conflict and the romance simultaneously -- saving the world and choosing each other must be the same act"
+
+[ending_requirements]
+ending_type = "HEA at series end; HFN for books 1-4"
+hea_definition = [
+    "the Hollow is defeated, the courts are at peace or restructured",
+    "the mate bond is acknowledged and embraced -- they choose each other freely",
+    "her mortality question is resolved -- she lives in his world as his equal",
+    "they rule together or choose a life together on their own terms",
+    "the bond is no longer a cage but a home"
+]
+emotional_resolution_requirements = [
+    "he must make a public declaration that costs him politically -- choosing her in front of the courts",
+    "she must demonstrate she stays for him, not for power or the bond",
+    "the final chapter must include a moment of peace after the storm of five books",
+    "secondary couples must receive satisfying resolutions",
+    "an epilogue showing their life together, grounded and intimate, after the epic scope of the series"
+]
+
+[setting]
+continent = "Thornmere -- a continent divided between four fae courts and the mortal lands"
+courts = [
+    "The Thorn Court (west coast) -- court of earth and blood magic, thorns grow from stone, silver sea, the oldest court",
+    "The Ember Court (southern mountains) -- court of fire and forge magic, volcanic landscape, warrior culture",
+    "The Veil Court (eastern forests) -- court of illusion and mind magic, mist-shrouded, deceptive beauty",
+    "The Bone Court (northern tundra) -- court of death and memory magic, frozen wastes, grim and ancient"
+]
+era = "secondary world -- no specific Earth analog, pre-industrial with magical technology"
+world_details = [
+    "the Thornwall is a continent-spanning barrier of magical briars, a hundred feet tall, separating fae from mortals",
+    "magic is tied to bloodlines and court affiliation -- each court has a distinct magical tradition",
+    "the fae are beautiful and alien -- long-lived, sharp-featured, emotionally different from mortals",
+    "Thornhaven palace is grown from living briar -- walls that shift, doors that appear and vanish, a throne of black thorns",
+    "political power is maintained through alliances, marriages, magical pacts, and controlled violence",
+    "the Hollow is a void corruption that drains magic and life -- fae it touches become hollow husks, violent and empty"
+]
+atmosphere = "lush and dangerous beauty -- silver moonlight on black thorns, courts draped in magic and deception, a world that could kill you and look beautiful doing it"
+
+[magic_system]
+type = "court-based elemental with blood costs"
+rules = [
+    "each court's magic is elemental: thorn (earth/blood), ember (fire/forge), veil (illusion/mind), bone (death/memory)",
+    "magic costs something -- blood, years of life, memories, or emotional capacity",
+    "the mate bond is ancient magic predating the courts -- it cannot be broken, only endured",
+    "mortal blood should not hold fae magic -- the heroine's power is an anomaly with plot-significant origins",
+    "the Hollow drains magic and can corrupt even the strongest fae if exposed long enough"
+]
+
+[prohibited_elements]
+chosen_one_without_cost = true
+love_triangle_with_real_rival = true
+heroine_as_passive_prize = true
+deus_ex_machina_resolutions = true
+world_building_inconsistency = true
+power_without_sacrifice = true
+
+[reader_conversion_optimization]
+booktok_alignment = [
+    "the mate bond reveal scene -- the moment both realize what the bond means",
+    "the 'who are you to me' confrontation -- emotional climax of the enemies-to-lovers arc",
+    "the first time he calls her by a fae endearment and she understands what it means",
+    "court scenes dripping with political intrigue and romantic tension simultaneously",
+    "her power awakening -- the moment she stops being prey",
+    "fan art-worthy aesthetic moments: thorn crowns, silver seas, fae courts in moonlight"
+]
+kindle_unlimited_optimization = [
+    "25 chapters at ~3600 words = 90,000 words, 405+ KENP pages -- maximizes page-read revenue",
+    "open with worldbuilding-through-action -- drop into the story, no prologues explaining history",
+    "each book must function as a complete arc while demanding the next",
+    "romantic milestones spaced to sustain page-turning urgency across longer books",
+    "the heroine's power progression creates built-in anticipation across the series"
+]
+
+[required_reader_effect]
+psychological_outcomes = [
+    "deep emotional investment in the central couple",
+    "desire to live in the world of Thornmere",
+    "creation of fan content -- playlists, mood boards, edits, fan art",
+    "emotional devastation at key angst moments, catharsis at resolutions",
+    "obsessive need to read the next book immediately",
+    "placing the series in personal 'top 5' and recommending everywhere"
+]

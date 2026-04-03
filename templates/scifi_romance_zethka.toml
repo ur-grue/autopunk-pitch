@@ -1,0 +1,252 @@
+[metadata]
+name = "Sci-Fi Romance (Alien Warrior)"
+description = "Series 17: Warriors of Zeth'ka -- each book pairs a human woman with an alien warrior from the Zeth'ka species. Abduction-to-love, interspecies culture clash, fated mates, and a galactic war that forces two species to depend on each other."
+tone = "adventurous, sensual, funny, fierce"
+themes = ["finding home in the unknown", "love across species", "strength in vulnerability", "cultural bridge-building", "choosing each other over everything familiar"]
+n_chapters = 18
+chapter_length = 3333
+target_audience = "sci-fi romance readers, alien romance fans, Ice Planet Barbarians audience, BookTok alien romance community"
+author_style = "Rowan Ashfire"
+tropes = ["alien warrior mate", "abduction-to-love", "interspecies culture clash", "fated mates", "size difference", "protective alien", "fish-out-of-water", "touch her and die", "one bed (one sleeping pod)", "learning human customs"]
+
+[meta]
+purpose = "Instruction specification for Series 17, 'Warriors of Zeth'ka' by Rowan Ashfire. A commercially optimized alien warrior romance series following the Ice Planet Barbarians model -- one alien warrior + one human woman per book, interconnected through a shared world and overarching conflict. Medium-high spice. HEA guaranteed."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define alien species design, cultural dynamics, romantic architecture, and adventure pacing required for maximum reader obsession and binge-read behavior in the alien warrior romance niche on KU."
+
+[series]
+name = "Warriors of Zeth'ka"
+author = "Rowan Ashfire"
+book_number = 1
+total_books = 7
+book_title = ""
+species = "Zeth'ka -- a warrior species from the planet Zeth'aran. Tall (7-8 feet), scaled skin in jewel tones (sapphire, emerald, obsidian, amber, ruby, silver, bronze -- one color per book's hero), four-fingered hands with retractable claws, bioluminescent markings that glow with emotion, rumbling purr when content, dual hearts."
+shared_locations = ["The Kha'vari (Zeth'ka warship -- city-sized, contains habitat sectors for both species)", "The Human Quarter (retrofitted cargo bay turned into a human living space)", "The War Council chamber (where both species negotiate)", "The bonding caves on Zeth'aran (natural crystal formations that amplify the mate-bond)", "Earth Remnant Station (human refugee station, Books 1-2 starting point)"]
+recurring_characters = ["Warlord Rheth'van -- supreme commander of the Zeth'ka fleet, love interest in Book 7", "Dr. Maren Cole -- human xenobiologist and cultural liaison, appears in all books", "Kri'sava -- elderly Zeth'ka female, the Rememberer (historian/storyteller), provides cultural context and comic relief"]
+timeline = "Each book covers 4-8 weeks. Series spans approximately 2 years. Books 1-3 take place primarily on the warship. Books 4-6 on Zeth'aran. Book 7 returns to space for the final battle."
+series_arc = "Humanity's colony ships were destroyed by the Vrekkan Dominion. The Zeth'ka offer sanctuary aboard their warship in exchange for a reproductive alliance -- human women are biologically compatible with Zeth'ka warriors. What begins as a desperate bargain becomes genuine cultural integration and love. The Vrekkan threat escalates across the series, culminating in a joint human-Zeth'ka battle in Book 7."
+book_hooks = [
+    "Book 1: The first human woman to volunteer for the mate-match program is paired with a scarred Zeth'ka warrior who has sworn never to bond again",
+    "Book 2: A human mechanic accidentally triggers the mate-bond with a Zeth'ka pilot during an engine repair -- she has grease on her face and murder in her eyes",
+    "Book 3: A human doctor must treat a wounded Zeth'ka berserker who imprinted on her scent while delirious -- he wakes up believing they are already mated",
+    "Book 4: A human linguist on Zeth'aran discovers her Zeth'ka language tutor has been courting her for months using idioms she translated as friendly",
+    "Book 5: A human soldier and a Zeth'ka strategist are forced into a fake-mate arrangement to infiltrate a Vrekkan outpost -- feelings become very real",
+    "Book 6: A Zeth'ka healer bonds with a human woman who is terrified of alien touch after a Vrekkan capture -- the slowest burn in the series",
+    "Book 7: Warlord Rheth'van and Dr. Maren Cole finally confront the tension that has been building since Book 1 -- during the battle that will decide both species' futures"
+]
+
+[target_audience]
+primary_gender = "female"
+age_range = "20-45"
+psychographic_profile = [
+    "loves alien romance and reads the niche voraciously",
+    "responds to size difference and the fantasy of being physically cherished by a powerful non-human",
+    "values humor in culture-clash scenarios -- the alien misunderstanding human customs is essential",
+    "wants emotional depth beneath the adventure and spice",
+    "craves the 'touch her and die' protective trope executed with genuine threat",
+    "enjoys world-building that makes the alien culture feel real and internally consistent",
+    "active in alien romance Facebook groups, Reddit r/RomanceBooks, and BookTok",
+    "will binge an entire series in a weekend if the first book hooks them"
+]
+reader_fantasy_drivers = [
+    "being chosen and fiercely protected by a powerful alien warrior",
+    "the size difference -- being held by someone who could crush enemies but holds you like glass",
+    "teaching an alien about human culture (and learning theirs)",
+    "being the most important person in your mate's world, biologically and emotionally",
+    "adventure and danger with a guaranteed safe landing in your warrior's arms",
+    "the purr -- a literal, physical manifestation of your partner's contentment"
+]
+
+[genre]
+primary = "sci-fi romance"
+secondary = ["alien romance", "alien warrior mate", "space opera romance", "fated mates", "interspecies romance"]
+genre_requirements = [
+    "romance must be the primary narrative driver -- the galactic war serves the romance, not the reverse",
+    "each book must be a complete romance with HEA while advancing the series conflict",
+    "alien culture must be detailed enough to generate genuine culture-clash comedy and tension",
+    "the Zeth'ka must feel alien -- not humans with face paint",
+    "adventure and action scenes must involve both partners contributing"
+]
+
+[romantic_dynamic]
+core_dynamic = "alien_warrior_fated"
+dynamic_definition = [
+    "Zeth'ka warrior driven by a biological mate-recognition -- his bioluminescent markings flare in the presence of his fated mate",
+    "human woman initially resistant, confused, or skeptical of the bond",
+    "culture clash generates both humor and genuine conflict",
+    "warrior's devotion is absolute once the bond is recognized -- but he must earn her trust",
+    "the human teaches the warrior emotional vulnerability; the warrior teaches the human to accept being protected"
+]
+power_dynamic_calibration = [
+    "physical power imbalance acknowledged and navigated -- he is bigger and stronger, she is never made to feel lesser",
+    "human woman must have agency and skills that the warrior values and needs",
+    "warrior's protectiveness must not become control -- she pushes back and he respects it",
+    "mutual rescue scenes -- she saves him at least once per book",
+    "relationship must be a partnership of equals despite biological and physical differences"
+]
+
+[romantic_partner_design]
+warrior_required_traits = [
+    "physically imposing -- 7+ feet, scaled, clawed, fanged, visually inhuman",
+    "lethal in combat but gentle with his mate -- the contrast is the point",
+    "emotionally direct in Zeth'ka culture but struggles to express feelings in human terms",
+    "possesses a specific skill or role that makes him essential (pilot, healer, strategist, berserker, warlord)",
+    "has a flaw or wound (physical or emotional) that the heroine helps him confront",
+    "produces a chest-rumbling purr when content -- a reader-favorite sensory detail"
+]
+attraction_model = [
+    "mate-recognition (his markings flare, involuntary, immediate)",
+    "her confusion/denial (she does not know what the glowing means)",
+    "forced proximity (mission, living quarters, cultural exchange assignment)",
+    "culture-clash bonding (funny and genuine moments of learning each other)",
+    "first physical contact (electric, overwhelming for both)",
+    "crisis that forces emotional honesty",
+    "mutual claiming and bonding ceremony"
+]
+exclusivity_requirement = "Zeth'ka mate-bonds are permanent and exclusive -- once his markings recognize her, no other being registers"
+
+[protagonist_design]
+protagonist_gender = "female (human)"
+required_psychological_traits = [
+    "competent in a specific domain -- each heroine has a professional skill (mechanic, doctor, linguist, soldier, scientist)",
+    "resilient and adaptable -- she is literally living among aliens",
+    "possesses humor -- she copes with absurdity through wit",
+    "capable of vulnerability -- she misses Earth, she is scared, she admits it",
+    "brave without being reckless -- courage rooted in caring, not carelessness",
+    "curious about Zeth'ka culture rather than dismissive"
+]
+reader_identification_requirement = "reader must experience the alienness of the Zeth'ka world through the heroine's eyes -- wonder, fear, attraction, and humor all filtered through her POV"
+
+[emotional_design]
+primary_emotional_drivers = [
+    "wonder -- discovering an alien culture, planet, and species for the first time",
+    "desire -- wanting someone who looks nothing like you but makes your heart race",
+    "safety -- being fiercely protected in a dangerous galaxy",
+    "humor -- the comedy of cross-species miscommunication",
+    "belonging -- finding a home among people who are not your species",
+    "grief -- missing Earth, missing human normalcy, choosing to stay anyway"
+]
+emotional_progression_model = [
+    "displacement and fear (arriving among aliens)",
+    "curiosity and cautious interaction",
+    "culture-clash comedy and growing attraction",
+    "first genuine emotional connection",
+    "external threat that forces reliance on each other",
+    "emotional crisis -- she must choose between human world and Zeth'ka mate",
+    "commitment and bonding",
+    "integration into Zeth'ka culture with her humanity intact"
+]
+attachment_mechanisms = [
+    "warrior bringing her human comfort items he does not understand but acquired anyway",
+    "warrior learning human phrases to say in her language",
+    "purring against her back while she sleeps",
+    "the first time he lets her touch his markings (intimate in Zeth'ka culture)",
+    "defending her to his own people",
+    "her cooking human food for him and watching him try to like it"
+]
+
+[sensuality_calibration]
+intensity = "medium-high spice -- 2-4 explicit scenes per book, emphasis on the alienness of the experience (texture of scales, warmth of bioluminescent markings, the purr vibrating through both bodies), emotional connection during intimacy"
+sensual_expression_methods = [
+    "the visual of bioluminescent markings glowing brighter with arousal",
+    "scale texture against skin -- warm, smooth, ridged",
+    "the size difference explored with tenderness and care",
+    "the purr as a full-body vibration during intimate moments",
+    "alien scent -- warm, spiced, unlike anything human",
+    "his claws retracting carefully before touching her",
+    "dual heartbeats felt through his chest"
+]
+sensuality_function = "intimate scenes must emphasize the interspecies wonder and emotional bonding -- the alienness is the draw, not an obstacle"
+
+[pacing]
+structure_priority = "adventure-romance interleave"
+chapter_count = 18
+chapter_length_words = 3333
+tension_maintenance_protocol = [
+    "chapters alternate between romance-forward and adventure-forward, with bleed between both",
+    "first physical contact by chapter 5",
+    "culture-clash comedy peaks in chapters 4-8",
+    "first kiss or intimate moment by chapter 9-10",
+    "major action setpiece at chapter 12-13",
+    "emotional crisis at chapter 15",
+    "bonding and resolution chapters 17-18",
+    "each chapter ends on a romantic hook, action hook, or both"
+]
+reader_retention_mechanisms = [
+    "the alien mystery -- learning new Zeth'ka customs and biology each chapter",
+    "escalating romantic tension with genuine obstacles",
+    "Vrekkan threat creating external danger",
+    "humor that makes the reader laugh out loud and keep reading",
+    "cliffhanger chapter endings alternating between romantic and adventure stakes"
+]
+
+[conflict_design]
+conflict_types = [
+    "interspecies communication failures -- genuine misunderstandings with emotional consequences",
+    "cultural incompatibility -- Zeth'ka customs that horrify or confuse the heroine",
+    "human prejudice against alien bonding -- pressure from other humans",
+    "Zeth'ka who do not accept human mates -- internal species politics",
+    "the Vrekkan Dominion as external military threat",
+    "the heroine's grief for Earth and human life",
+    "the warrior's past trauma (varies per book -- lost mate, battle shame, exile)"
+]
+conflict_resolution_requirement = "all romantic conflicts must resolve through mutual understanding and cultural bridge-building -- both partners grow and adapt"
+
+[ending_requirements]
+ending_type = "HEA per book, series HEA in Book 7"
+hea_definition = [
+    "completed mate-bond (bonding ceremony witnessed by both species)",
+    "heroine accepted into Zeth'ka culture while retaining her humanity",
+    "warrior emotionally open and verbally committed",
+    "shared living space that blends human and Zeth'ka elements",
+    "reader certainty that these two will face everything together"
+]
+emotional_resolution_requirements = [
+    "warrior must make a grand declaration or sacrifice that proves the bond",
+    "heroine must actively choose him -- not default into the bond",
+    "cross-cultural bonding ceremony scene (emotional climax of the book)",
+    "epilogue showing domestic life -- the mundane made extraordinary by the alien context",
+    "epilogue introduces next book's couple (the next warrior notices the next human woman)",
+    "Book 7 epilogue shows all seven couples at a joint celebration, Vrekkan threat ended"
+]
+
+[setting]
+primary_location = "The Kha'vari -- Zeth'ka warship, city-sized, carrying both species through hostile space toward Zeth'aran"
+secondary_location = "Zeth'aran -- the Zeth'ka homeworld, a planet of crystal forests, thermal seas, and towering stone cities"
+environment = [
+    "warship interiors are organic-looking -- curved walls, bioluminescent lighting in jewel tones, living metal that responds to touch",
+    "the Human Quarter is a retrofitted cargo bay with improvised human comforts -- string lights, a communal kitchen, mismatched furniture salvaged from wreckage",
+    "Zeth'aran's surface is dramatic -- crystal trees that sing in wind, thermal geysers, a sky with three moons",
+    "temperature runs warmer than human preference -- the Zeth'ka are warm-blooded with higher baseline temp"
+]
+key_locations = [
+    "The Kha'vari bridge -- massive, organic architecture, holographic star maps, the Warlord's command seat",
+    "Human Quarter -- the cargo bay turned home, communal meals, group therapy sessions, the only place with coffee",
+    "Training arena -- where Zeth'ka warriors spar, where human soldiers learn alien combat, where attraction sparks during practice",
+    "The bonding caves on Zeth'aran -- natural crystal formations that amplify emotional bonds, used for mate ceremonies",
+    "The Rememberer's archive -- where Kri'sava keeps Zeth'ka history in oral and holographic form",
+    "The thermal pools on Zeth'aran -- natural hot springs, a place of vulnerability and intimacy"
+]
+atmosphere = "wonder-driven -- the reader should constantly discover new alien details that make the world feel vast, beautiful, and real, while the human elements ground everything in relatable emotion"
+
+[prohibited_elements]
+non_consensual_mating = true
+alien_as_savage_stereotype = true
+human_supremacy_framed_positively = true
+heroine_as_passive_prize = true
+ambiguous_romantic_resolution = true
+interspecies_intimacy_played_for_disgust = true
+warrior_violence_toward_mate = true
+
+[required_reader_effect]
+psychological_outcomes = [
+    "deep attachment to the specific warrior-heroine pair",
+    "desire to learn more about Zeth'ka culture",
+    "laughter from culture-clash comedy",
+    "emotional satisfaction from the bonding ceremony",
+    "immediate need to start the next book",
+    "fantasizing about having a purring alien warrior of one's own"
+]
