@@ -65,6 +65,25 @@ def test_missing_artifact_halts_stage():
         assert ko.load(d)["stage"] == "generate"
 
 
+def test_publish_cadence_cap():
+    now = 1_000_000.0
+    assert ko.can_publish([], now)[0] is True                       # empty -> ok
+    led = ko.record_publish([], "A", now - 3600)                    # 1h ago
+    assert ko.can_publish(led, now)[0] is True                      # 1 in 24h -> ok
+    led = ko.record_publish(led, "B", now - 7200)                   # 2h ago
+    ok, reason = ko.can_publish(led, now)                           # 2 in 24h -> blocked
+    assert ok is False and "cap" in reason
+    old = [{"title": "X", "ts": now - 30 * 3600}, {"title": "Y", "ts": now - 26 * 3600}]
+    assert ko.can_publish(old, now)[0] is True                      # >24h ago doesn't count
+
+
+def test_publish_min_gap():
+    now = 1_000_000.0
+    led = [{"title": "A", "ts": now - 1800}]                        # 0.5h ago
+    assert ko.can_publish(led, now, max_per_day=2, min_gap_hours=4)[0] is False
+    assert ko.can_publish(led, now, max_per_day=2, min_gap_hours=0)[0] is True
+
+
 def _run_all():
     fns = [v for k, v in sorted(globals().items()) if k.startswith("test_") and callable(v)]
     for fn in fns:

@@ -62,6 +62,12 @@ death anywhere resumes at the finest available granularity.
 6. **kdp-prepare** → `kdp_upload/` package + (series) staggered release schedule.
 7. **kdp-upload** (`/kdp-upload <novel_dir> --cover …`) → fills KDP, **GATE 3** greenlight. Default
    action = **save-as-draft**; publishes only on typed `"publish"`.
+   **P0 survival guard (mandatory — see `docs/account-safety.md`):** before clicking Publish at GATE 3,
+   run `python3 scripts/kdp_orchestrate.py publish-check`. If it exits non-zero (BLOCKED — ≤2/24h cap),
+   **refuse to publish** and tell the user to wait. After a successful publish, run
+   `python3 scripts/kdp_orchestrate.py record-publish "<title>"`. Always set **AI disclosure = Yes**
+   (text + cover). One flagged title can terminate the whole account + withhold accrued royalties, so
+   cadence + disclosure are non-negotiable survival controls, not preferences.
 
 ## Single vs. series
 

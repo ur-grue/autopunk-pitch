@@ -25,6 +25,7 @@ import glob
 import json
 import subprocess
 import sys
+import time
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -123,6 +124,43 @@ RUNNERS = {"research": run_research, "generate": run_generate, "quality": run_qu
            "cover": run_cover, "prepare": run_prepare, "upload": run_upload, "done": run_done}
 
 
+# --- publish cadence guard (Roadmap P0 — see docs/account-safety.md) ----------
+# One AI-flagged title can nuke the whole account, so velocity is a survival
+# control: <=2 publishes / 24h, optional stagger gap. GATE 3 must pass a
+# publish-check before ANY publish, and record-publish after one.
+DEFAULT_LEDGER = ".publish-ledger.json"
+MAX_PER_DAY = 2
+MIN_GAP_HOURS = 0.0  # extra stagger; 0 = only the 24h cap applies
+
+
+def load_ledger(path: Path) -> list:
+    return json.loads(path.read_text()) if path.exists() else []
+
+
+def publishes_in_window(ledger: list, now: float, hours: float) -> list:
+    cutoff = now - hours * 3600
+    return [e for e in ledger if e.get("ts", 0) >= cutoff]
+
+
+def can_publish(ledger: list, now: float, max_per_day: int = MAX_PER_DAY,
+                min_gap_hours: float = MIN_GAP_HOURS):
+    """(allowed, reason). Survival control, never auto-publishes — it only gates."""
+    recent = publishes_in_window(ledger, now, 24)
+    if len(recent) >= max_per_day:
+        return False, f"cadence cap: {len(recent)} publishes in last 24h (max {max_per_day}/day)"
+    if min_gap_hours and ledger:
+        gap = (now - max(e.get("ts", 0) for e in ledger)) / 3600
+        if gap < min_gap_hours:
+            return False, f"stagger: {gap:.1f}h since last publish (min {min_gap_hours}h)"
+    return True, "ok"
+
+
+def record_publish(ledger: list, title: str, now: float) -> list:
+    ledger.append({"title": title, "ts": now,
+                   "at": time.strftime("%Y-%m-%dT%H:%M:%S", time.localtime(now))})
+    return ledger
+
+
 def advance(novel_dir: Path) -> int:
     st = load(novel_dir)
     pos = st.get("pos", 0)
@@ -170,7 +208,26 @@ def main(argv: list[str]) -> int:
     pa = sub.add_parser("approve")
     pa.add_argument("novel_dir")
     pa.add_argument("gate")
+    pc = sub.add_parser("publish-check")
+    pc.add_argument("--ledger", default=DEFAULT_LEDGER)
+    pc.add_argument("--max-per-day", type=int, default=MAX_PER_DAY)
+    pc.add_argument("--min-gap-hours", type=float, default=MIN_GAP_HOURS)
+    rp = sub.add_parser("record-publish")
+    rp.add_argument("title")
+    rp.add_argument("--ledger", default=DEFAULT_LEDGER)
     args = ap.parse_args(argv)
+
+    if args.cmd == "publish-check":
+        ok, reason = can_publish(load_ledger(Path(args.ledger)), time.time(),
+                                 args.max_per_day, args.min_gap_hours)
+        print(("PUBLISH OK — " if ok else "BLOCKED — ") + reason)
+        return 0 if ok else 3
+    if args.cmd == "record-publish":
+        lp = Path(args.ledger)
+        ledger = record_publish(load_ledger(lp), args.title, time.time())
+        lp.write_text(json.dumps(ledger, indent=2))
+        print(f"recorded publish: {args.title} ({len(ledger)} in ledger)")
+        return 0
     d = Path(args.novel_dir)
 
     if args.cmd == "init":

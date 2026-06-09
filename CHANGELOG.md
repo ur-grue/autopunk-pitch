@@ -5,8 +5,15 @@ All notable changes to ccwriter are recorded here. Format follows
 roadmap context lives in `ROADMAP.md`.
 
 ## [Unreleased]
+### Added (Roadmap P0 — Survive & isolate)
+- `docs/account-safety.md` — blast-radius model (the account, not the book, is the risk unit;
+  one account / few pen names / low volume / high quality + disclosure), AI-disclosure posture,
+  clean-read-profile rules, termination-pattern "never do" list, per-title pre-publish checklist.
+- **Cadence enforcement** in `scripts/kdp_orchestrate.py`: a publish ledger + `publish-check`
+  (refuses the 3rd publish in any 24h; optional stagger gap) and `record-publish`. Wired into the
+  orchestrator's GATE 3 (publish-check must pass; AI disclosure = Yes). 2 unit tests.
+
 ### Planned (next, per ROADMAP.md M1)
-- P0 account-isolation architecture + cadence enforcement in `kdp-orchestrator`.
 - P1 mailing-list capture (back-matter CTA) + wide-distribution path (Draft2Digital/Kobo/Apple/Google).
 - P2 AI-detection de-patterning gate; read-through reframe (length + chapter-end hook scoring).
 

@@ -4,3 +4,4 @@ novels/
 .gstack/
 .openai_key
 __pycache__/
+.publish-ledger.json
