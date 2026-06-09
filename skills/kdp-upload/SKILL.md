@@ -1,18 +1,24 @@
 ---
 name: kdp-upload
-description: Browser automation that fills KDP publishing forms using Chrome DevTools MCP. Uploads manuscript, sets cover, pastes blurb and keywords. Stops at greenlight gate for user approval before publishing. Requires Chrome with KDP logged in.
+description: Browser automation that fills KDP publishing forms using gstack `browse`. Uploads manuscript, sets cover, pastes blurb and keywords. Stops at greenlight gate (default save-as-draft; publishes only on typed "publish"). Requires a KDP-logged-in browser session imported via /setup-browser-cookies.
 ---
 # KDP Upload — Browser-Assisted Publishing
 
-Uses Chrome DevTools MCP tools to automate filling KDP publishing forms.
+Uses gstack `browse` to automate filling KDP publishing forms.
 Uploads your manuscript, sets metadata, and pauses for your approval before publishing.
 
 **This skill NEVER publishes without your explicit greenlight.**
 
 ## Prerequisites
 
-1. **Chrome open** with DevTools MCP connected
-2. **Logged into KDP** at kdp.amazon.com
+1. **gstack `browse`** is the browser driver (this environment has no Chrome DevTools MCP).
+   Drive every step with `browse` subcommands (see "Browser Driver" below).
+2. **Logged into KDP via CDP (real browser) — cookie-import is NOT enough.** Verified 2026-06-09:
+   imported cookies authenticate the *bookshelf* (read), but the `title-setup` editing pages force a
+   step-up re-auth (`openid...max_auth_age=0`) and redirect headless sessions to "KDP Sign in". So
+   connect `browse` to your **real, logged-in Chrome via CDP** (`/connect-chrome` or
+   `/open-gstack-browser`) before editing a title; expect a possible interactive sign-in + OTP the
+   first time. `cookie-import-browser` alone only covers read-only bookshelf checks.
 3. **KDP upload package** generated (run `/kdp-prepare` first)
 4. **Cover image** generated and saved locally (from cover prompts)
 
@@ -186,21 +192,36 @@ Each novel gets its own approval. You can:
 
 ## Safety Rules
 
-1. **NEVER auto-publish** — always wait at greenlight gate
+1. **NEVER auto-publish** — always wait at greenlight gate. The **default action at GATE 3 is
+   save-as-draft**; click Publish ONLY when the user types exactly `"publish"`. Any other / empty /
+   ambiguous response saves a draft. (This reconciles `kdp-prepare`'s "save as draft" default with
+   this skill's greenlight gate — the gate is the greenlight, and its default is draft.)
 2. **NEVER skip the preview step** if user requests it
 3. **If any upload fails**, stop and report the error — do not retry silently
 4. **Log every action** to `kdp_upload/upload_log.md` in the novel directory
-5. **Screenshot each page** before proceeding (using Chrome DevTools screenshot tool)
+5. **Verify each page via `browse text` / `browse js` (DOM), NOT screenshots** — KDP pages render
+   white/blank in the screenshot tool (documented production lesson). Use `browse text` +
+   `browse js "<query>"` to confirm state; never rely on a screenshot to decide a step succeeded.
 
-## Chrome DevTools Tools Used
+## Browser Driver — gstack `browse` (no Chrome DevTools MCP here)
 
-- `navigate_page` — go to KDP URLs
-- `fill` / `fill_form` — enter text in form fields
-- `click` — interact with buttons and links
-- `upload_file` — upload DOCX and cover images
-- `take_screenshot` — capture each step for verification
-- `wait_for` — wait for page elements to load
-- `evaluate_script` — interact with KDP's HTML editor for description
+Drive KDP with these `browse` subcommands:
+
+| Action | `browse` command |
+|--------|------------------|
+| Go to a KDP URL | `browse goto <url>` |
+| Find fields by role/aria (preflight, language-independent) | `browse snapshot -a` (returns `@e` refs) · `browse accessibility` |
+| Verify page state (NOT screenshots — they render white on KDP) | `browse text` · `browse js "<expr>"` |
+| Type into a field | `browse fill <sel|@ref> "<val>"` · `browse type "<text>"` |
+| Click button/link/checkbox/radio | `browse click <sel|@ref>` |
+| Dropdown | `browse select <sel> "<val>"` |
+| Upload manuscript / cover | `browse upload <sel|@ref> <file>` |
+| CKEditor description (HTML) | `browse js "CKEDITOR.instances[Object.keys(CKEDITOR.instances)[0]].setData(html)"` |
+| Wait | `browse wait <sel>` · `browse wait --networkidle` |
+| Check element state | `browse is checked <sel>` · `browse is visible <sel>` |
+
+Locate elements semantically (via `snapshot -a` / `accessibility` refs), not by localized German label
+strings. Use `browse js` for radio `.click()` and event dispatch where `browse click` is insufficient.
 
 ## Limitations
 
@@ -216,9 +237,15 @@ Each novel gets its own approval. You can:
 These selectors and flows were validated against live KDP on 2026-03-26.
 
 ### Page 1: Book Details (details page)
-- Language: custom combobox — click dropdown button, select from list (e.g., "Englisch")
-- Title: textbox (plain input)
-- Subtitle: textbox (plain input)
+> **Verified 2026-06-09 (preflight, live):** KDP uses **stable `data-{field}` ids / `name="data[field]"`**
+> — language-independent, far more reliable than localized labels. Prefer these:
+> `#data-title` (`name=data[title]`), `#data-subtitle` (`name=data[subtitle]`), language combobox via
+> `aria-label="language-dropdown-editable-text"`, exactly **7 keyword inputs**, plus the categories
+> button, CKEditor description, and Save & Continue — all present and located. 6/7 anchors matched a
+> naive label probe; title only matched via its `data-title` id (it has no aria-label). Use the ids.
+- Language: combobox `[aria-label="language-dropdown-editable-text"]` — click, select (e.g., "English")
+- Title: `#data-title` (`name="data[title]"`)
+- Subtitle: `#data-subtitle` (`name="data[subtitle]"`)
 - Author first name: textbox labeled "Vorname"
 - Author last name: textbox labeled "Nachname"
 - Description: WYSIWYG editor with "Quellcode" (Source) button for HTML injection
@@ -236,9 +263,9 @@ These selectors and flows were validated against live KDP on 2026-03-26.
 - Save: click "Speichern und fortfahren"
 
 ### Page 2: Content (content page)
-- Manuscript upload: click "Manuskript hochladen" button, then use upload_file tool
+- Manuscript upload: click "Manuskript hochladen" button, then `browse upload <input[type=file]> <docx>`
 - DRM: radio button — "Ja, Digitale Rechteverwaltung anwenden"
-- Cover: click "Bereits vorhandenes Cover hochladen" to expand, then "Durchsuchen" button with upload_file
+- Cover: click "Bereits vorhandenes Cover hochladen" to expand, then `browse upload <input[type=file]> <jpg>`
 - AI disclosure: radio "Ja" expands 3 sub-dropdowns:
   - Texte: "Gesamtes Werk, mit umfangreicher Bearbeitung"
   - Bilder: "Keine"
@@ -264,3 +291,42 @@ These selectors and flows were validated against live KDP on 2026-03-26.
 - File processing takes 10-30 seconds — wait for completion before previewing
 - The missing TOC warning is non-blocking — book will still be accepted
 - All form data persists in draft even without proceeding to the next tab
+
+## Hardening (resilience) — added by the autonomous pipeline
+
+The selectors above were validated 2026-03-26 and **will drift**. Do not trust hardcoded
+localized label strings. Apply the following.
+
+### Selector strategy: semantics, not localized labels
+KDP renders in the account's language (German/English/...). Locate fields by **role / aria / input
+semantics**, not visible label text:
+- Prefer `browse snapshot -a` refs + `browse js` DOM queries by role/aria/name/type/order (e.g. the Nth textbox in the
+  title group, an input with `type=file`, a radio inside the "royalty" fieldset by position), and
+  CSS/structure that is language-independent.
+- Use visible labels only as a last-resort hint, and match against BOTH the German strings above and
+  their English equivalents.
+
+### Preflight selector self-check (run FIRST, before touching any field)
+On the Book Details page, probe for the expected anchors (title input, description editor, category
+button, keyword inputs, Save/Continue). If any required anchor is missing:
+- **ABORT loudly** with a clear message: "KDP layout appears to have changed — selectors from
+  2026-03-26 no longer match (missing: <anchors>). Stopping before touching the form. Re-map
+  selectors before re-running." Do not guess or partially fill.
+
+### Resumable state — `kdp_upload/upload_state.json`
+Track per-book progress so a dead/interrupted run resumes instead of restarting:
+```json
+{ "asin": null, "details": false, "manuscript": false, "cover": false,
+  "pricing": false, "status": "in_progress", "last_step": "details",
+  "updated": "<iso8601>" }
+```
+- Write after each completed step (details / manuscript / cover / pricing).
+- On invocation, read it: skip steps already `true`; resume at `last_step`.
+- Book Details + Pricing are idempotent (KDP overwrites). Manuscript/cover uploads are NOT — if one
+  died mid-transfer, re-upload that file (KDP will have none/partial); never assume it landed.
+
+### Velocity discipline (avoid KDP velocity flags)
+- ≥ **5 min** cooldown between books in a batch.
+- ≤ **2 books/day**, and ≥ **48h** between bursts.
+- The orchestrator enforces the daily cap and stagger; this skill enforces the per-book cooldown and
+  refuses to proceed if it would exceed 2 in the current day (state-tracked).
