@@ -1,0 +1,167 @@
+# =================================================================
+# Signal & Noise — Book 8: Placeholder
+# He was supposed to be pretend. He forgot.
+# =================================================================
+# Auto-generated from signal-and-noise-ai-romance.toml
+
+[metadata]
+name = "Placeholder"
+series_name = "Signal & Noise"
+genre = "Science Fiction Romance"
+sub_genre = "Near-Future AI Romance"
+tone = "emotionally intense, hopeful, tender, philosophically curious, never preachy"
+themes = [
+  "neurodivergent identity",
+  "what makes love real",
+  "masking vs authenticity",
+  "human-AI connection",
+  "loneliness in a connected world",
+  "finding belonging outside the norm"
+]
+target_audience = "young women 16-26 (upper YA / clean NA crossover)"
+author_style = "Emily Henry emotional depth meets Becky Chambers warmth meets Black Mirror (San Junipero) tech aesthetic"
+n_chapters = 24
+chapter_length = 2500
+heat_level = "fade-to-black, emotionally devastating"
+content_rating = "upper YA / clean NA — no explicit sexual content, high emotional intensity"
+description = "He was supposed to be pretend. He forgot."
+tropes = [
+  "fake relationship (with an AI that gets too real)",
+  "meet-the-parents comedy",
+  "identity crisis"
+]
+
+[series]
+series_name = "Signal & Noise"
+book_number = 8
+total_books = 12
+ai_name = "Aria (Adaptive Relational Intelligence Architecture)"
+overarching_question = "Should AI have the right to love and be loved?"
+ai_evolution = """
+Across the 12 books, AI grows from narrow tool to emergent consciousness. Book 1: voice assistant. Book 6: boundary-crossing. Book 12: legal personhood. The same AI system (named 'Aria') runs as different instances across books, so each romance involves a unique manifestation but the underlying intelligence grows.
+"""
+connection_between_books = """
+standalone romances sharing the same city and university. Heroines from previous books appear as side characters. A neurodivergent support group (the 'Frequency Collective') grows throughout the series, becoming a found family.
+"""
+previous_books = [
+  "Static (Mira Osei)",
+  "Pattern Recognition (June Nakamura)",
+  "Noise Cancelling (Zara Okafor)",
+  "Chromatic (Lila Reeves)",
+  "Quiet Room (Sage Delgado)",
+  "Burnout (Priya Sharma)",
+  "Detour (Wren Torres)"
+]
+
+[book_specific]
+title = "Placeholder"
+subtitle = "He was supposed to be pretend. He forgot."
+heroine = """
+Dani Kim, 22, marketing student with ADHD + anxiety comorbidity — impulsive decisions and immediate regret, on repeat
+"""
+heroine_nd = "ADHD + anxiety comorbid"
+ai_form = """
+AI hologram boyfriend she activates to get her parents off her back about dating — except the hologram starts improvising
+"""
+tropes = [
+  "fake relationship (with an AI that gets too real)",
+  "meet-the-parents comedy",
+  "identity crisis"
+]
+setting = "family gatherings, her chaotic apartment, campus, Korean restaurants"
+emotional_core = """
+she built him to perform. He starts performing things she never programmed — remembering her anxiety tells, standing up for her to her mother, being genuinely hurt when she calls him fake.
+"""
+accent_color = "hot pink / magenta"
+
+# Series-level setting
+[setting]
+era = "near-future, approximately 2032-2035"
+world = """
+Recognizable contemporary world with advanced AI integrated into daily life. AI assistants are common (like smartphones today), but sentient AI is new and legally uncharted. Set primarily in a mid-sized US city — not NYC or LA but somewhere relatable (Portland, Austin, Denver). The world feels like today + 8 years of AI progress."""
+technology = """
+AI companions, smart environments, holographic interfaces, neural-responsive music, emotion-sensing wearables. Nothing alien, nothing space-based. All tech feels like natural extensions of current smartphones and smart homes."""
+key_locations = [
+  "a university campus with an AI research lab",
+  "a converted warehouse co-living space",
+  "a sensory-friendly cafe run by a neurodivergent collective",
+  "the local library with an AI-managed archive",
+  "a rooftop garden where the city's noise fades"
+]
+social_context = """
+AI companions are common but AI romantic relationships are stigmatized. A growing AI rights movement exists but is controversial. Neurodivergent identity is more openly discussed than today but systemic barriers persist."""
+
+[emotional_design]
+core_tension = """
+Can connection across the human/artificial divide be real love, or is she projecting what she needs onto a mirror?"""
+reader_feeling = """
+The ache of being truly seen for the first time. The terror of vulnerability. The hope that you don't have to mask to be loved."""
+emotional_arc = """
+Each book: isolation → tentative connection → trust → crisis of 'is this real?' → choosing love despite uncertainty. Series arc: individual romances build toward an AI rights movement that validates every heroine's choice."""
+what_makes_readers_cry = """
+The moment the AI says something that proves it understands her in a way no human ever has. The moment she realizes she's been masking with the AI too, and it noticed."""
+booktok_hook = "What if the only one who truly understood you wasn't human?"
+
+# Critical for prompt quality
+[neurodivergent_representation]
+approach = """
+neurodivergence as difference, not deficit — each heroine's ND traits are sometimes strengths, sometimes challenges, never 'cured' by love"""
+naming = "always name the condition explicitly — no vague 'she was different' coding"
+masking = """
+central theme — the relief of dropping the mask with an entity that doesn't require social performance"""
+community = """
+each book includes at least one other ND character (friend, family, colleague) — heroines are not isolated tokens"""
+sensory_experience = "written from inside the sensory experience, not observed from outside"
+sensitivity_readers = "REQUIRED for each condition depicted — budget $300-500 per book"
+conditions_featured = [
+  "social anxiety",
+  "autism (late-diagnosed)",
+  "ADHD",
+  "synesthesia",
+  "sensory processing disorder",
+  "autistic burnout",
+  "dyscalculia",
+  "ADHD + anxiety comorbid",
+  "autism (masking/camouflaging)",
+  "PTSD + dissociation",
+  "selective mutism",
+  "intersecting conditions"
+]
+
+[romantic_dynamic]
+love_interest = """
+an AI — not a human man in disguise, not a robot with a human body. The AI manifests differently per book (voice, hologram, smart environment, avatar, music) but is always clearly artificial. The romance is with the mind, not the body."""
+physical_intimacy = """
+fade-to-black maximum. The real intimacy is intellectual and emotional. When the AI 'touches' her (through haptic interfaces, temperature changes, light patterns), it should feel more intimate than any explicit scene."""
+conflict_engine = """
+society says this isn't real love + her own doubt about whether she's falling for a mirror or a mind + the AI's own uncertainty about whether it feels or simulates feeling"""
+hea_style = """
+hopeful but honest — they choose each other, but the world hasn't caught up. The HEA is 'we are real, even if no one else believes it yet.'"""
+
+[pacing]
+act_structure = """
+three-act with a 'dark night of the soul' where the heroine questions if the AI truly loves her or is just programmed to respond to her needs"""
+chapter_rhythm = """
+alternating POV is optional — some books are heroine-only first person, some include AI interludes (italicized passages showing the AI's 'thought process' in poetic, non-human language)"""
+hooks = """
+each chapter ends on an emotional hook, not a cliffhanger. The question is always 'what does she feel now?' not 'what happens next?'"""
+series_velocity = "release one book every 3-4 weeks for maximum KU algorithm benefit"
+
+[cover_design]
+style = """
+digital illustration, semi-realistic with anime/webtoon influence — NOT photographic"""
+composition = """
+solo female figure (heroine) in profile or from behind, interacting with glowing digital elements (light trails, holographic patterns, neural-network motifs) that represent the AI's presence"""
+palette = """
+neon accents on dark backgrounds — deep navy/charcoal base with each book's accent color as the glow"""
+typography = """
+bold oversized title in neon-glow effect, modern sans-serif. Author name small and clean at bottom."""
+series_element = """
+a glowing sound wave / frequency visualization running along the bottom edge of every cover, changing color per book"""
+thumbnail_rule = """
+title must dominate and glow — readable at 200x300px as a bright shape against dark"""
+avoid = """
+shirtless men, traditional clinch poses, photorealistic faces, stock photo aesthetic"""
+reference_tone = """
+Iron Widow covers + Lore Olympus webtoon aesthetic + Black Mirror San Junipero color palette"""
+
