@@ -1,0 +1,262 @@
+[metadata]
+name = "Dark Romance"
+description = "Sovereign Sons -- Five ruthless mafia heirs in the Volkov bratva. Each book follows one brother as he claims his throne and the woman who makes him burn. Set in the frozen power corridors of Saint Petersburg transplanted to Boston's underworld."
+tone = "brutal, atmospheric, sexually charged, psychologically intense"
+themes = ["power and submission", "loyalty versus desire", "violence as inheritance", "redemption through obsession", "trust after betrayal"]
+n_chapters = 20
+chapter_length = 3500
+target_audience = "women 18-35, dark romance readers, BookTok mafia romance fans"
+author_style = "Katarina Voss"
+tropes = ["mafia heir", "enemies-to-lovers", "forced proximity", "morally grey hero", "possessive alpha", "she belongs to him", "touch her and die", "who did this to you", "captive romance"]
+
+[meta]
+purpose = "Series-level template for 'Sovereign Sons' -- a 5-book dark mafia romance series by Katarina Voss. Each book features one Volkov brother and a standalone love story within an overarching bratva power-struggle arc. High spice. Dark themes with content warnings. HEA guaranteed per book."
+planning_allowed = true
+plot_generation_allowed = true
+character_generation_allowed = true
+title_generation_allowed = true
+focus = "Maximize reader obsession through psychological intensity, slow-burn dominance dynamics, and visceral sensory prose. Optimized for Amazon KDP, Kindle Unlimited binge-read behavior, and BookTok virality."
+
+[series]
+name = "Sovereign Sons"
+author = "Katarina Voss"
+total_books = 5
+book_titles_suggested = ["Crowned in Blood", "Empire of Scars", "Iron Vow", "Broken Throne", "Kingdom Fall"]
+shared_locations = ["The Volkov compound (a converted Orthodox monastery on a private estate outside Boston)", "Tsarina -- the family's underground nightclub in the Seaport District", "The armory (basement war room beneath the compound)", "The harbor warehouse district (neutral ground for rival meetings)", "Beacon Hill brownstone (the public-facing Volkov residence)"]
+recurring_characters = ["Nikolai Volkov Sr. -- the Pakhan, patriarch, dying of cancer, orchestrating succession", "Katya Volkov -- the mother, former ballerina, more dangerous than any of her sons", "Sergei -- the family's enforcer and fixer, answers only to the Pakhan"]
+timeline = "Each book spans 2-4 months. Series overall covers one year of succession crisis."
+series_arc = "The Pakhan is dying. Five sons must prove themselves worthy of the crown -- but an old rival family, the Zakharovs, is moving to destroy the Volkov empire from within. Each book resolves one brother's love story while advancing the power war. Book 5 resolves the succession and the Zakharov threat."
+
+[target_audience]
+primary_gender = "female"
+age_range = "18-35"
+psychographic_profile = [
+    "craves emotionally intense, high-stakes romantic experiences",
+    "drawn to dangerous, powerful men who show vulnerability only to one woman",
+    "enjoys morally complex narratives where love exists alongside violence",
+    "wants to feel claimed, protected, and desired with overwhelming intensity",
+    "responds to power imbalance that resolves into emotional equality",
+    "consumes dark romance rapidly -- 3-5 books per week in the sub-genre",
+    "active on BookTok, Bookstagram, and dark romance Facebook groups",
+    "comfortable with explicit content and dark themes when paired with emotional depth"
+]
+reader_fantasy_drivers = [
+    "being the one person who can reach an unreachable man",
+    "being protected by someone terrifyingly powerful",
+    "taming darkness with love without erasing it",
+    "being desired with obsessive, consuming intensity",
+    "emotional exclusivity from someone who trusts no one",
+    "discovering vulnerability beneath ruthlessness"
+]
+
+[genre]
+primary = "dark romance"
+secondary = ["mafia romance", "enemies-to-lovers romance", "possessive hero romance", "organized crime romance", "forced proximity romance"]
+genre_requirements = [
+    "romance must be the primary narrative driver",
+    "mafia/crime plot exists to create stakes and obstacles for the romance",
+    "darkness must be earned -- violence serves character and tension, never gratuitous shock",
+    "content warnings required: violence, captivity themes, explicit sexual content, morally grey behavior",
+    "each book must function as a standalone romance with HEA while advancing the series arc"
+]
+
+[romantic_dynamic]
+core_dynamic = "captor_captive evolving into equals"
+dynamic_definition = [
+    "hero begins with structural power over heroine -- she is in his world, under his control",
+    "heroine disrupts his control through intelligence, defiance, or emotional honesty",
+    "hero's obsession shifts from possession to genuine emotional need",
+    "heroine discovers she has power over him he cannot resist",
+    "relationship evolves from antagonism through reluctant attraction to devastating emotional surrender",
+    "the moment he kneels -- metaphorically or literally -- is the emotional climax"
+]
+power_dynamic_calibration = [
+    "hero holds physical and structural power initially",
+    "heroine holds emotional and psychological power throughout",
+    "hero must never assault heroine -- dark themes must maintain consent boundaries",
+    "power must equalize by the final act -- he chooses to give her equal standing",
+    "possessiveness must be framed as devotion, never control for its own sake"
+]
+
+[romantic_partner_design]
+male_counterpart_required_traits = [
+    "lethally competent -- feared by everyone in his world",
+    "emotionally walled off -- childhood in the bratva destroyed his ability to trust",
+    "physically imposing -- tall, scarred, commanding presence",
+    "strategic and patient -- never acts without calculation except when she is threatened",
+    "possessive -- once he decides she is his, the intensity is absolute",
+    "capable of tenderness that shocks even himself",
+    "morally grey -- has killed, will kill again, but has a code he will not break"
+]
+attraction_model = [
+    "initial antagonism or forced proximity",
+    "involuntary fascination -- she is not afraid of him and it destabilizes him",
+    "obsessive observation -- he watches her, learns her, cannot stop",
+    "first breach of his walls -- a moment of unguarded vulnerability",
+    "escalating physical tension -- proximity becomes unbearable",
+    "possessive claim -- he declares her his before she has agreed",
+    "emotional surrender -- he admits she has broken him open"
+]
+exclusivity_requirement = "hero must demonstrate absolute emotional and physical exclusivity -- no love triangles, no ex drama after the claim"
+
+[protagonist_design]
+protagonist_gender = "female"
+required_psychological_traits = [
+    "resilient -- has survived hardship before entering his world",
+    "sharp-tongued -- meets his dominance with wit and defiance",
+    "emotionally intelligent -- reads people accurately, including him",
+    "capable of moral complexity -- can exist in his world without being naive",
+    "vulnerable in private -- her walls come down when she trusts",
+    "competent in her own right -- has skills or knowledge he needs"
+]
+reader_identification_requirement = "reader must admire her strength while feeling her vulnerability -- she is aspirational but not untouchable"
+archetype_variations = [
+    "Book 1: outsider pulled into the bratva world (journalist, witness, rival family daughter)",
+    "Book 2: someone already embedded who challenges the hierarchy (doctor, lawyer, undercover agent)",
+    "Book 3: his arranged match who refuses to be a pawn",
+    "Book 4: the one who got away -- his past returning",
+    "Book 5: the final wild card -- someone who threatens everything he built"
+]
+
+[emotional_design]
+primary_emotional_drivers = [
+    "fear layered with desire",
+    "the ache of wanting someone you should not want",
+    "possessive intensity that feels like safety",
+    "vulnerability as the most dangerous act",
+    "the slow dissolution of emotional armor",
+    "rage and tenderness coexisting in the same man"
+]
+emotional_progression_model = [
+    "fear or hostility",
+    "reluctant curiosity",
+    "denied attraction",
+    "first vulnerability exchanged",
+    "escalating obsession on both sides",
+    "crisis that threatens to separate them permanently",
+    "grand gesture proving he will burn his world for her",
+    "emotional and physical union -- HEA"
+]
+attachment_mechanisms = [
+    "the 'who did this to you' moment -- his rage on her behalf",
+    "soft moments after violence -- tenderness as contrast",
+    "him watching her sleep, unable to leave",
+    "her seeing behind the mask when no one else can",
+    "him choosing her over the bratva's demands",
+    "private language or rituals that belong only to them"
+]
+
+[sensuality_calibration]
+intensity = "high spice -- 4-5 explicit scenes per book, psychologically intense, dominant energy, emotionally charged"
+sensual_expression_methods = [
+    "power play -- dominance and surrender as emotional expression",
+    "delayed gratification -- prolonged tension before first physical contact",
+    "possessive language during intimate scenes",
+    "vulnerability exposed through physicality",
+    "rough tenderness -- intensity paired with unexpected gentleness",
+    "sensory overload -- texture, temperature, breath, heartbeat",
+    "aftermath intimacy -- the moments after that reveal emotional truth"
+]
+sensuality_function = "intimate scenes must advance emotional arc -- each encounter should reveal something new about the characters' psychological states"
+
+[pacing]
+structure_priority = "escalating tension with strategic release"
+chapter_count = 20
+chapter_length_words = 3500
+tension_maintenance_protocol = [
+    "open with an inciting incident that traps heroine in hero's orbit by chapter 2",
+    "first kiss or charged physical encounter by chapter 8",
+    "first full intimate scene by chapter 10-12",
+    "major betrayal or crisis at chapter 15-16 (dark moment)",
+    "grand gesture and reunion chapters 18-19",
+    "HEA with series-arc hook in chapter 20",
+    "every chapter must end on a hook -- emotional, physical, or plot-driven"
+]
+reader_retention_mechanisms = [
+    "unresolved sexual tension that builds across multiple chapters",
+    "drip-feed reveals about hero's backstory and emotional wounds",
+    "escalating external threat from the Zakharov rivals",
+    "moments of tenderness that shock in context of violence",
+    "cliffhanger chapter endings that demand the next page"
+]
+
+[conflict_design]
+conflict_types = [
+    "she is forbidden -- wrong family, wrong world, wrong timing",
+    "the bratva demands loyalty above love -- she is a liability",
+    "his enemies will use her against him",
+    "her moral compass versus his amoral world",
+    "his inability to be vulnerable threatens to destroy what they are building",
+    "external betrayal from within the family that puts her in danger",
+    "the succession war requiring him to choose power or her"
+]
+conflict_resolution_requirement = "he must choose her over everything -- power, family expectations, safety -- and she must choose him knowing exactly what he is"
+
+[ending_requirements]
+ending_type = "HEA"
+hea_definition = [
+    "clear romantic commitment -- they are together, no ambiguity",
+    "he has made structural changes to protect their relationship within the bratva",
+    "she has agency and standing in his world -- not a prisoner, a partner",
+    "emotional walls fully dissolved between them",
+    "physical and emotional intimacy established as permanent",
+    "reader certainty that this love will endure"
+]
+emotional_resolution_requirements = [
+    "hero must make an irrevocable sacrifice proving she matters more than power",
+    "heroine must actively choose him -- not be passively swept along",
+    "final chapter must include a moment of quiet intimacy after the storm",
+    "epilogue must advance the series arc -- tease the next brother's story",
+    "the last line must leave the reader reaching for the next book"
+]
+
+[setting]
+city = "Boston, Massachusetts"
+neighborhoods = ["Seaport District", "Beacon Hill", "South Boston waterfront", "a private estate compound 30 minutes north of the city"]
+era = "present day"
+world_details = [
+    "the Volkov bratva controls Boston's eastern seaboard smuggling operations",
+    "their power is old-world Russian transplanted to new-world American ambition",
+    "the compound is a converted stone monastery -- cold, imposing, beautiful",
+    "Tsarina nightclub is the public face -- velvet, crystal, bass-heavy music, VIP rooms with no cameras",
+    "Boston's winter is a character -- ice, fog, breath visible in cold air, fur coats over weapons",
+    "contrast between the brutality of their world and the elegance of their presentation"
+]
+season = "spans all seasons across the series -- each book anchored to a different season for atmospheric variety"
+atmosphere = "cold elegance over simmering violence -- marble floors, expensive vodka, bloodstains cleaned before dawn"
+
+[prohibited_elements]
+sexual_assault_as_romance = true
+abuse_framed_as_love = true
+heroine_without_agency = true
+gratuitous_violence_without_narrative_purpose = true
+love_triangle_drama = true
+ambiguous_romantic_resolution = true
+on_page_harm_to_children = true
+
+[reader_conversion_optimization]
+booktok_alignment = [
+    "the 'who did this to you' scene -- hero's controlled rage on her behalf",
+    "the first 'good girl' moment -- praise kink undertones",
+    "the vulnerability crack -- when he breaks in front of her for the first time",
+    "possessive declarations -- 'you are mine' delivered with devastating sincerity",
+    "the soft epilogue moment -- domestic intimacy after a book of intensity",
+    "quotable one-liners that work as BookTok text overlays"
+]
+kindle_unlimited_optimization = [
+    "hook readers in the first 500 words -- open with tension, not backstory",
+    "20 chapters at ~3500 words = 70,000 words, 315+ KENP pages",
+    "chapter-ending hooks to prevent read-session abandonment",
+    "series-ending hooks to drive immediate next-book purchase",
+    "consistent pacing -- no saggy middle, no filler chapters"
+]
+
+[required_reader_effect]
+psychological_outcomes = [
+    "visceral emotional attachment to the hero",
+    "desperate need to read the next brother's book",
+    "physical response to tension and intimate scenes",
+    "emotional catharsis at the HEA",
+    "desire to reread favorite scenes",
+    "urge to recommend on BookTok and social media"
+]

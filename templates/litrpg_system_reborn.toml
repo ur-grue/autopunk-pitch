@@ -1,0 +1,193 @@
+[metadata]
+name = "LitRPG / Progression Fantasy"
+description = "Book in the System Reborn: Earth Apocalypse series -- the day a game-like System descends on Earth, granting humanity levels, skills, and stats while simultaneously unleashing monsters. Survival LitRPG meets apocalypse fiction. One man leverages knowledge from a failed first timeline to build humanity's last defense."
+tone = "desperate, strategic, brutal, darkly funny, escalating from survival horror to civilization-building triumph"
+themes = ["survival through adaptation", "rebuilding from collapse", "the weight of foreknowledge", "leading when no one else will", "humanity's capacity for both savagery and cooperation"]
+n_chapters = 25
+chapter_length = 3600
+target_audience = "men 18-45, system apocalypse readers, survival LitRPG fans, regression/restart fantasy readers"
+author_style = "Marcus Vane"
+tropes = ["system apocalypse", "regression/second chance", "survival", "guild warfare", "base building", "Earth gets a game system"]
+
+[meta]
+purpose = "Series template for System Reborn: Earth Apocalypse -- a 10-book system apocalypse LitRPG series by Marcus Vane. Earth receives a game System. Monsters spawn. Dungeons appear. Humanity must level up or die. The MC has been sent back to Day One with memories of a timeline where humanity lost. Optimized for Kindle Unlimited maximum page reads and extreme series binge-through rates."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define system mechanics, apocalypse progression, base-building elements, and narrative structure for a system apocalypse series that differentiates from Ascendant through its Earth-based setting, regression mechanic, and civilization-building scope."
+
+[series]
+name = "System Reborn: Earth Apocalypse"
+author = "Marcus Vane"
+total_books = 10
+format = "continuous series -- each book covers a phase of the apocalypse and humanity's response"
+series_arc = "Books 1-3: Survival phase. MC uses regression knowledge to survive the initial monster waves, form a core group, and establish the first safe zone. Books 4-6: Expansion phase. Dungeon clearing, guild formation, territorial conflict with other survivor groups and monster factions. Books 7-9: War phase. Inter-dimensional invaders revealed, global-scale battles, MC's settlement becomes humanity's capital. Book 10: The Reckoning. Confront the System's creators and determine Earth's fate."
+book_format = "Each book covers a defined phase of the apocalypse timeline. Stakes and scope expand each book. The MC's personal power grows alongside his settlement and faction."
+cliffhanger_policy = "each book must resolve its primary threat but reveal a larger one. The reader should feel triumphant and terrified simultaneously."
+
+[target_audience]
+primary_gender = "male"
+age_range = "18-45"
+psychographic_profile = [
+    "devours system apocalypse and regression fantasy on KU and Royal Road",
+    "loves the fantasy of being the most prepared person when everything collapses",
+    "craves base-building and settlement management alongside personal combat",
+    "wants strategic depth -- the MC should outthink threats, not just outfight them",
+    "appreciates the regression hook -- watching the MC exploit foreknowledge is deeply satisfying",
+    "enjoys large-scale faction politics and guild warfare",
+    "wants to see civilization rebuilt through competence and leadership",
+    "reads 10+ books per series and abandons only if progression stalls"
+]
+reader_fantasy_drivers = [
+    "being the one person who knows what is coming and can prepare",
+    "building a fortress of safety in a world of chaos",
+    "the satisfaction of optimizing a build with knowledge others do not have",
+    "earning the loyalty of competent people through demonstrated excellence",
+    "watching the world burn and being the one who rebuilds it",
+    "becoming the leader humanity needs because no one else stepped up"
+]
+
+[genre]
+primary = "LitRPG"
+secondary = ["system apocalypse", "regression fantasy", "post-apocalyptic", "base building", "survival fantasy"]
+genre_requirements = [
+    "a clearly defined System with stats, levels, skills, classes, and dungeons",
+    "the apocalypse must feel genuinely threatening -- people die, cities fall, civilization collapses",
+    "regression foreknowledge must be a meaningful advantage without making the MC omniscient",
+    "base building must have tangible mechanics -- the reader should track the settlement's growth",
+    "guild warfare and faction politics must be driven by resource scarcity and ideological conflict",
+    "stat screens must appear regularly, formatted as in-text blocks"
+]
+
+[progression_system]
+system_name = "The Integration System"
+system_origin = "a cosmic System that arrives on Earth, announced via a global notification visible to all humans simultaneously. Grants everyone a status screen and the ability to gain levels by killing monsters."
+stat_categories = ["Vitality", "Strength", "Agility", "Mind", "Spirit", "Luck"]
+stat_display_format = "formatted text blocks appearing after level-ups, skill acquisitions, and significant events. Must show current value and change."
+level_cap_per_book = "approximately 10-15 levels per book. MC starts at Level 1 in Book 1."
+skill_system = "skills granted by the System based on actions, class, and hidden achievements. Skills evolve through use. Rare skills can be obtained by completing secret objectives the MC remembers from the first timeline."
+class_system = "initial class selection at Level 10. Class evolution at 25, 50, and 100. The MC's regression knowledge lets him unlock a hidden class path unavailable to anyone in the first timeline."
+loot_system = "monsters drop System-generated loot. Dungeons have boss chests. Loot tiers: Crude, Common, Uncommon, Rare, Epic, Legendary. Crafting system available at higher levels."
+currency = "System Points -- earned from kills, quests, and dungeon completion. Spent at System Shops that appear at safe zones."
+regression_mechanic = "MC remembers the first timeline where humanity fell. His knowledge is imperfect -- he knows major events and system mechanics but not every detail. Some foreknowledge becomes useless as his actions change the timeline. The butterfly effect creates new threats he did not foresee."
+progression_pacing = [
+    "Book 1: Levels 1-12. Day One chaos. MC uses regression knowledge to survive, gather supplies, choose an optimal class, and form a core survival group.",
+    "Books 2-3: Levels 12-30. Dungeon clearing, safe zone establishment, first contact with hostile survivor factions.",
+    "Books 4-6: Levels 30-55. Settlement building, guild warfare, class evolution, regional-scale threats.",
+    "Books 7-9: Levels 55-85. Continental-scale conflict, inter-dimensional incursions, the System's hidden agenda.",
+    "Book 10: Levels 85-100. Global-scale reckoning. Confront the System's creators."
+]
+base_building = [
+    "the MC's settlement grows from a fortified building to a walled compound to a city across the series",
+    "base building must have concrete mechanics: walls, defenses, crafting stations, farms, population management",
+    "the settlement's growth should be as satisfying to track as the MC's personal level-ups",
+    "NPCs within the settlement should feel like real characters, not just resource nodes",
+    "raids on the settlement create high-stakes defense scenarios"
+]
+
+[world_building]
+setting = "modern Earth post-Integration. Familiar cities and landmarks transformed by the System. Monsters roam highways. Dungeons appear in subway stations and office buildings."
+apocalypse_phases = [
+    "Day 1-7: Global chaos. Monsters spawn in every populated area. Billions die. No infrastructure.",
+    "Week 2-4: Survivors cluster. First levels gained. Primitive safe zones form.",
+    "Month 2-6: Dungeons stabilize. Guilds form. Territory wars begin.",
+    "Month 6-12: Factions solidify. Trade routes between settlements. Regional powers emerge.",
+    "Year 1+: Civilization rebuilds around System mechanics. The world is permanently changed."
+]
+factions = [
+    "The MC's settlement -- built on knowledge, fairness, and strategic excellence",
+    "The Warlords -- survivor groups led by strongmen who rule through personal power and intimidation",
+    "The Merchants' Coalition -- traders who control System Shop access and information",
+    "The Church of the System -- zealots who worship the System as divine and oppose anyone who questions it",
+    "The Remnants -- fragments of pre-System governments trying to reassert authority",
+    "The Invaders -- interdimensional forces revealed in later books, the true reason the System was deployed"
+]
+monster_ecology = "monsters are System-generated, spawning from mana nodes that appeared with the Integration. Monster types escalate from basic beasts to intelligent, organized threats. Boss monsters guard dungeon cores."
+dungeon_mechanics = "dungeons are pocket dimensions accessible through portals. Each dungeon has a theme, a boss, and a dungeon core. Clearing a dungeon claims it for the clearer's faction and provides recurring resource generation."
+
+[power_fantasy]
+wish_fulfillment_design = [
+    "MC's regression knowledge creates a satisfying information advantage without omniscience",
+    "watching the MC make optimal decisions while others fumble creates vicarious competence",
+    "the settlement's growth is a physical manifestation of the MC's strategic mind",
+    "the MC earns loyalty through competence, not charisma -- people follow him because he is right",
+    "by mid-series, the MC should be making decisions that affect millions of people",
+    "the gap between Day One chaos and the MC's eventual power should feel like an earned transformation"
+]
+competence_porn_requirements = [
+    "MC must explain his strategic thinking to the reader (internal monologue during planning)",
+    "regression knowledge must be used cleverly -- not just 'I know the future' but 'I know this monster's weakness because I fought it before'",
+    "base-building decisions should feel strategic and consequential",
+    "the reader should be able to follow the MC's logic and feel like they would make similar choices",
+    "failures and setbacks must come from timeline changes, not MC stupidity"
+]
+power_scaling = "MC starts as one strong survivor among many. By mid-series, he is one of the strongest humans. By end-series, he is a global power. The scale shifts from personal survival to civilizational leadership."
+
+[pacing]
+structure_priority = "apocalypse timeline phases and escalating scope"
+chapter_count = 25
+chapter_length_words = 3600
+tension_maintenance_protocol = [
+    "the apocalypse provides inherent urgency -- survival is never guaranteed",
+    "regression foreknowledge creates dramatic irony when the reader knows what the MC is preparing for",
+    "timeline divergence generates new threats the MC did not predict, maintaining suspense",
+    "base-building chapters must alternate with combat and exploration to maintain variety",
+    "each book should escalate in scope: personal -> group -> settlement -> regional -> global"
+]
+reader_retention_mechanisms = [
+    "the regression mystery -- what exactly happened in the first timeline, and how much has changed?",
+    "stat screens and level-ups distributed every 2-3 chapters for regular dopamine hits",
+    "settlement growth milestones that parallel personal power milestones",
+    "faction politics and betrayals creating interpersonal tension",
+    "end-of-book revelations about the System's true purpose"
+]
+
+[conflict_design]
+conflict_types = [
+    "survival -- monsters, starvation, exposure, disease in the early apocalypse",
+    "combat -- dungeon bosses, monster waves, PvP against hostile factions",
+    "political -- guild warfare, resource disputes, ideological conflicts between faction leaders",
+    "personal -- the psychological weight of knowing the future and being unable to save everyone",
+    "strategic -- timeline changes creating threats the MC cannot foresee",
+    "existential -- the System's creators have their own agenda for Earth"
+]
+conflict_resolution_requirement = "conflicts must be resolved through preparation, strategy, and earned power. Regression knowledge provides an edge but never a free win."
+
+[ending_requirements]
+ending_type = "triumphant but costly"
+book_ending_requirements = [
+    "each book must end with a phase transition -- the apocalypse enters a new stage",
+    "the MC must be measurably more powerful AND his settlement must be measurably more secure",
+    "a revelation about the first timeline or the System's origin that changes the reader's understanding",
+    "a hook for the next book that raises stakes and scope",
+    "the reader must feel the weight of what was sacrificed alongside the triumph of what was gained"
+]
+series_ending_requirements = [
+    "Book 10 must answer: who created the System and why was Earth chosen?",
+    "the MC must face a choice between personal power and humanity's survival",
+    "the ending must honor the scope of the series -- 900,000 words of building toward this",
+    "Earth's future must be secured, but the cost must be real and felt"
+]
+
+[setting]
+primary_location = "a major American city (fictionalized) that becomes the MC's base of operations"
+scope_progression = "city block -> neighborhood -> city -> region -> continent -> global"
+key_locations = [
+    "the MC's first safe house -- a hardware store he fortifies on Day One because he remembers its defensibility",
+    "the Settlement -- evolves from a fortified block to a walled compound to a city-state across the series",
+    "the First Dungeon -- a subway station transformed into a goblin-infested labyrinth, the MC's proving ground",
+    "the Warlord's Territory -- a rival faction's brutal stronghold across the river",
+    "the System Spire -- a massive structure that appeared downtown, housing the regional System interface",
+    "the Breach Point (late series) -- where the interdimensional invaders enter Earth"
+]
+atmosphere = "early books: survival horror. Familiar places made alien by monsters and system interfaces floating in the air. Mid-series: post-apocalyptic civilization building. Late series: epic-scale warfare with reality-bending stakes."
+
+[prohibited_elements]
+deus_ex_machina_power_ups = true
+regression_making_mc_omniscient = true
+harem_romance_as_subplot = true
+generic_zombie_apocalypse_tropes = true
+base_building_without_consequences = true
+unlimited_regression_knowledge = true
+edgelord_loner_protagonist = true

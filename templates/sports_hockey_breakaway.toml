@@ -1,0 +1,227 @@
+[metadata]
+name = "Sports Romance (Hockey)"
+description = "Book in the Breakaway Hearts series -- second-chance love, single-dad athletes, and enemies-to-lovers tension within a professional hockey franchise. Each book features a different player on the Redline Wreckers navigating love after loss, betrayal, or trade chaos."
+tone = "emotionally raw, banter-heavy, angsty with earned tenderness, gritty authenticity"
+themes = ["second chances", "fatherhood and vulnerability", "forgiveness", "identity beyond the sport", "choosing love over pride"]
+n_chapters = 20
+chapter_length = 3250
+target_audience = "women 20-40, hockey romance readers, angst lovers, single-dad romance fans"
+author_style = "Harper Calloway"
+tropes = ["second chance romance", "single dad athlete", "enemies-to-lovers", "trade/rivalry drama", "he falls first (again)"]
+
+[meta]
+purpose = "Series template for Breakaway Hearts -- a 6-book hockey romance series by Harper Calloway. Each book features a player on the Redline Wreckers dealing with romantic baggage: ex-lovers returning, co-parenting complications, traded-to-rival-team tension. Higher angst than Cold Shot Kings. Medium-high spice. HEA guaranteed. Optimized for Kindle Unlimited, BookTok angst-romance audience, and series binge-through."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define emotional, structural, and romantic characteristics for a hockey romance series differentiated by angst, second chances, and single-dad dynamics. Must feel distinct from Cold Shot Kings while appealing to the same core audience."
+
+[series]
+name = "Breakaway Hearts"
+author = "Harper Calloway"
+total_books = 6
+team_name = "Redline Wreckers"
+league = "Professional hockey (fictionalized NHL-equivalent league)"
+shared_locations = [
+    "Redline Arena (home rink -- older arena with character, loud and hostile to visiting teams)",
+    "Slapshot's Diner (24-hour greasy spoon near the arena where players go after games)",
+    "the Wreckers' training complex (modern facility, film room, rehab center)",
+    "the brownstone neighborhood where several players live within walking distance of each other",
+    "the daycare/school where single-dad players drop off their kids -- accidental run-ins with heroines"
+]
+team_culture = "A team of bruisers and veterans with more scar tissue than the average franchise. These are men who have been traded, benched, divorced, and humbled. They play angry and love hard when they finally let themselves."
+series_arc = "The Wreckers are a gritty franchise that just acquired several big-name players via trades and free agency. New teammates with old grudges. The series follows the team gelling on ice while each player confronts the romantic wreckage of his past."
+book_format = "Each book features one player and a self-contained romance. Books can involve ex-lovers, co-parents, rivals from former teams, or women connected to the organization. Previous couples recur. The team's locker room dynamic deepens across the series."
+
+[target_audience]
+primary_gender = "female"
+age_range = "20-40"
+psychographic_profile = [
+    "craves emotionally devastating angst with guaranteed happy resolution",
+    "loves single-dad heroes who are tough on ice and tender with their children",
+    "responds to second-chance narratives -- the ache of what was lost and the hope of reclaiming it",
+    "wants enemies-to-lovers tension where the hatred masks unresolved desire",
+    "appreciates gritty authenticity -- scarred bodies, messy lives, imperfect people",
+    "seeks emotional catharsis through fiction -- wants to cry before the HEA",
+    "binge-reads hockey romance series back to back",
+    "shares angsty quotes and breakup scenes on BookTok"
+]
+reader_fantasy_drivers = [
+    "the man who let you go realizing he made the worst mistake of his life",
+    "being the woman he never stopped loving, even when he tried",
+    "watching a tough, scarred athlete be impossibly gentle with his child",
+    "the enemies-to-lovers moment where hatred snaps into desperate desire",
+    "being chosen deliberately, not by accident -- he fights for her this time",
+    "redemption love -- proving people can change and earn a second chance"
+]
+
+[genre]
+primary = "sports romance"
+secondary = ["hockey romance", "second chance romance", "single dad romance", "enemies-to-lovers romance", "angsty contemporary romance"]
+genre_requirements = [
+    "romance is the primary narrative driver -- hockey provides structure and stakes",
+    "angst must be earned through specific backstory, not manufactured miscommunication",
+    "single-dad books must show authentic parenting moments -- kids are characters, not props",
+    "enemies-to-lovers books must have legitimate reasons for the animosity",
+    "hockey authenticity required -- trades, rivalries, and locker room culture must ring true",
+    "the past relationship or conflict must be revealed gradually, not info-dumped"
+]
+
+[romantic_dynamic]
+core_dynamic = "second_chance_and_enemies"
+dynamic_definition = [
+    "hero and heroine have history -- either a past relationship, a betrayal, or a rivalry that created deep animosity",
+    "the forced reunion creates unbearable tension because the feelings never fully died",
+    "both characters have grown and changed since the original rupture",
+    "the central question is whether growth is enough to overcome the original wound",
+    "vulnerability is the price of admission -- both must risk being hurt again",
+    "for single-dad books: his child becomes the unexpected bridge to emotional honesty"
+]
+power_dynamic_calibration = [
+    "power shifts based on who is more emotionally exposed at any given moment",
+    "hero's public status (athlete, celebrity) contrasts with his private mess (divorce, co-parenting, regret)",
+    "heroine holds emotional power because she is the one he wronged or the one who moved on",
+    "power must equalize through mutual vulnerability",
+    "neither character should grovel without the other also taking accountability"
+]
+
+[romantic_partner_design]
+hero_required_traits = [
+    "physically formidable -- plays a bruising, physical style of hockey",
+    "emotionally scarred from a specific past event (divorce, betrayal, loss, career crisis)",
+    "capable of deep love but afraid of repeating past mistakes",
+    "for single-dad books: fiercely devoted father who is soft and silly with his kid",
+    "stubborn pride that prevents him from reaching out until it almost costs him everything",
+    "shows love through actions long before he can say the words"
+]
+attraction_model = [
+    "forced reunion -- trading to her city, co-parenting obligation, work overlap",
+    "hostility or avoidance masking unresolved feelings",
+    "cracks in the armor -- a moment where the old connection flares back",
+    "resistance and guilt (should not want this again, cannot stop wanting this)",
+    "a crisis that strips away pretense and forces honesty",
+    "deliberate choice -- pursuing her with full awareness of the risk"
+]
+exclusivity_requirement = "hero must demonstrate that she was always the one -- that the intervening years or relationships were never the same"
+
+[protagonist_design]
+protagonist_gender = "female"
+required_psychological_traits = [
+    "has built a full life in the years since the original rupture -- she is not waiting to be rescued",
+    "carries her own scars from the past but has done the work to heal",
+    "guarded in a way that mirrors the hero -- her walls are just quieter",
+    "strong enough to walk away if he has not truly changed",
+    "capable of forgiveness without being a doormat",
+    "for single-dad books: her relationship with his child develops organically and independently of the romance"
+]
+reader_identification_requirement = "reader must respect the heroine's boundaries and cheer for the moment she decides to let him back in"
+
+[emotional_design]
+primary_emotional_drivers = [
+    "the ache of unfinished love -- what-ifs and regret",
+    "anger that masks longing",
+    "watching him be a good father and feeling the walls crumble",
+    "the terror of being vulnerable with someone who already hurt you",
+    "jealousy and possessiveness when the past threatens the present",
+    "cathartic emotional release when the truth finally comes out"
+]
+emotional_progression_model = [
+    "forced proximity after long separation or established enmity",
+    "hostility, avoidance, or strained politeness",
+    "involuntary moments of connection that terrify both characters",
+    "a turning point where the past is partially revealed or confronted",
+    "tentative reopening -- testing whether this can work",
+    "the black moment -- old wounds rip open, feels like history repeating",
+    "the grand reckoning -- full honesty, accountability, and risk",
+    "earned reunion and emotional security"
+]
+attachment_mechanisms = [
+    "a callback to their shared history that proves he remembers every detail",
+    "him being an incredible father -- patient, silly, fierce",
+    "her seeing who he has become versus who he was",
+    "a private moment of raw honesty that neither intended to share",
+    "the team or mutual friends forcing them together and watching the sparks",
+    "physical chemistry that time and anger could not kill"
+]
+
+[sensuality_calibration]
+intensity = "medium-high spice -- 2-3 steamy scenes per book, explicit with emotional charge, physical reunion carries weight of history"
+sensual_expression_methods = [
+    "the electric shock of touching someone you swore you were over",
+    "angry chemistry -- arguments that end with mouths on each other",
+    "the contrast between how he touches her (reverently) and how he plays (violently)",
+    "post-game adrenaline and unresolved tension combusting in private",
+    "slow, deliberate physicality when they finally stop fighting it",
+    "body memory -- muscle memory of how they used to fit together",
+    "vulnerability during intimacy that cracks both of them open"
+]
+sensuality_function = "physical intimacy must serve as emotional breakthrough -- each scene should change the relationship's trajectory"
+
+[pacing]
+structure_priority = "emotional revelation layered over hockey season structure"
+chapter_count = 20
+chapter_length_words = 3250
+tension_maintenance_protocol = [
+    "the past must be revealed in fragments -- never a single exposition dump",
+    "hockey schedule creates natural forced proximity and separation",
+    "the black moment must connect directly to the original wound, not new manufactured drama",
+    "for single-dad books: the child's arc must intersect with the romantic arc naturally",
+    "angst must escalate steadily -- each revelation raises the emotional stakes"
+]
+reader_retention_mechanisms = [
+    "the slow reveal of what really happened in the past (mystery structure for the backstory)",
+    "explosive arguments that crackle with unresolved desire",
+    "tender single-dad moments that demolish reader defenses",
+    "team dynamics providing humor and relief between emotional gut-punches",
+    "hooks for future books planted through other players' unresolved situations"
+]
+
+[conflict_design]
+conflict_types = [
+    "unresolved past -- a breakup, betrayal, or misunderstanding that was never properly addressed",
+    "co-parenting complications with an ex (for single-dad books)",
+    "trade drama -- being forced onto a team with someone you have history with",
+    "career pressure -- contract year, aging out of the sport, injury risk",
+    "the heroine's legitimate reasons for not trusting him again",
+    "public exposure -- media discovering the past connection and forcing the issue"
+]
+conflict_resolution_requirement = "resolution must require both characters to take accountability and actively choose vulnerability"
+
+[ending_requirements]
+ending_type = "HEA"
+hea_definition = [
+    "full emotional honesty -- both characters have laid bare their fears and chosen each other anyway",
+    "the original wound is healed, not just bandaged -- specific accountability has been given",
+    "for single-dad books: the heroine's bond with the child is established independently",
+    "a public or team-witnessed moment that cements the commitment",
+    "epilogue hooks the next book's couple with an irresistible setup"
+]
+emotional_resolution_requirements = [
+    "hero must specifically name what he did wrong and how he has changed",
+    "heroine must choose to trust again from strength, not desperation",
+    "the reconciliation must feel like a new beginning, not a return to the old relationship",
+    "for single-dad books: the child's happiness must be protected and enhanced by the resolution",
+    "readers must finish the book emotionally wrung out but deeply satisfied"
+]
+
+[setting]
+city = "Redline -- a fictional rust-belt hockey city (Detroit/Pittsburgh energy). Blue-collar fans, brutal winters, loyalty runs deep."
+arena = "Redline Arena -- a loud, old-school barn with terrible sight lines and the most hostile crowd in the league"
+key_locations = [
+    "Redline Arena -- cramped corridors, visiting team tunnel, the roar of 16,000",
+    "Slapshot's Diner -- vinyl booths, bottomless coffee, open 24 hours, the team's unofficial living room",
+    "the training complex -- modern glass-and-steel contrast to the old arena",
+    "the brownstone neighborhood -- players walking to each other's doors, kids playing in shared yards",
+    "the elementary school and daycare -- morning drop-offs, parent-teacher nights, accidental encounters",
+    "the lake house (off-season) -- summer barbecues, dock conversations, stolen moments"
+]
+season = "hockey season -- October through April, with flashbacks to off-season and past timelines as needed. Steel-grey skies, lake-effect snow, frozen breath."
+
+[prohibited_elements]
+abuse_framed_as_romance = true
+stalking_framed_as_devotion = true
+children_used_as_emotional_manipulation_tools = true
+hero_avoids_accountability_for_past = true
+heroine_forgives_without_genuine_change = true
+miscommunication_as_primary_conflict = true

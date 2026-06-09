@@ -1,0 +1,235 @@
+[metadata]
+name = "Military Sci-Fi"
+description = "Series 19: The Last Fleet: Earth's Final War -- military science fiction following humanity's remnant fleet as it fights a losing war against the Keth Hegemony. Command decisions, fleet tactics, first contact with potential allies, and the moral cost of survival."
+tone = "grim, tactical, awe-inspiring, morally complex"
+themes = ["duty vs. survival", "the cost of command", "humanity's worth when measured against the cosmos", "sacrifice and what it earns", "first contact as both salvation and threat"]
+n_chapters = 25
+chapter_length = 3600
+target_audience = "military sci-fi readers, space opera fans, men 30-60, KU binge readers, fans of J.N. Chaney, B.V. Larson, Jack Campbell"
+author_style = "Marcus Vane"
+tropes = ["fleet battles", "alien invasion", "space marines", "command decisions", "humanity's last stand", "first contact", "ship-to-ship combat", "the captain who carries the weight", "outnumbered and outgunned", "desperate gambit"]
+
+[meta]
+purpose = "Instruction specification for Series 19, 'The Last Fleet: Earth's Final War' by Marcus Vane. A commercially optimized military sci-fi series designed for maximum KU page-read revenue. Eight books of escalating fleet warfare, political intrigue, and first-contact revelations. No romance requirement. Male-readership focus. Long books for maximum KENP."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define military structure, fleet tactics, alien species, tech level, and narrative pacing required for maximum binge-read behavior and series commitment in the military sci-fi niche."
+
+[series]
+name = "The Last Fleet: Earth's Final War"
+author = "Marcus Vane"
+book_number = 1
+total_books = 8
+book_title = ""
+fleet = "Remnant Fleet -- 47 warships (at series start), the last organized human military force after the fall of Earth"
+shared_locations = ["CNS Adamant (flagship, Sovereign-class battlecruiser, the protagonist's command)", "The War Room (holographic tactical center aboard the Adamant)", "Bastion Station (mobile fleet anchorage, a converted mining platform)", "The Forge (fleet's makeshift shipyard, where damaged ships are repaired and salvage is rebuilt)"]
+recurring_characters = ["Admiral Kira Tanaka -- fleet commander, protagonist's superior, Books 1-4; killed in Book 4 climax", "Master Chief Brennan Solis -- the enlisted backbone, appears in every book, voice of the common sailor", "Dr. Alara Reeves -- xenolinguist, critical from Book 3 onward when first-contact subplot begins"]
+timeline = "Each book covers 2-6 months of campaign time. Series spans approximately 4 years from the fall of Earth to the war's conclusion."
+series_arc = "Earth fell to the Keth Hegemony eighteen months before Book 1. Humanity's remnant fleet is running -- short on fuel, ammunition, and hope. Across eight books, the fleet transforms from desperate refugees into a fighting force capable of retaking what was lost. The arc pivots on first contact with the Vashanti (Book 3), a species that fought the Keth centuries ago and lost. The alliance with the Vashanti, and the secrets they carry about the Keth's true nature, redefines the war."
+book_hooks = [
+    "Book 1: The fleet finds a derelict Keth destroyer and the protagonist must decide whether to board it for intelligence -- knowing it could be a trap that costs them ships they cannot replace",
+    "Book 2: A signal from a human colony thought destroyed leads the fleet into Keth-contested space for a rescue that could be salvation or slaughter",
+    "Book 3: First contact with the Vashanti -- they offer weapons and intelligence, but their price is a mission into Keth core space that could destroy the fleet",
+    "Book 4: Admiral Tanaka dies in the largest fleet battle yet. The protagonist assumes fleet command with half the ships burning and a Keth armada between them and the Vashanti rendezvous",
+    "Book 5: The Vashanti reveal the Keth are not conquering -- they are fleeing something worse. The enemy of humanity's enemy may not be humanity's friend",
+    "Book 6: A joint human-Vashanti strike on a Keth supply nexus goes wrong. The protagonist must choose between the alliance and his own people",
+    "Book 7: What the Keth are running from arrives. The fleet must decide whether to fight alongside their enemies against an existential threat -- or let the Keth burn",
+    "Book 8: The final campaign. Three species, one battle, the fate of the local arm of the galaxy. The protagonist must make the command decision that defines humanity's future"
+]
+
+[target_audience]
+primary_gender = "male"
+age_range = "30-60"
+psychographic_profile = [
+    "reads military sci-fi series voraciously -- 10+ books per series is a feature, not a barrier",
+    "values tactical authenticity -- fleet maneuvers, logistics, chain of command",
+    "responds to competent leadership under impossible pressure",
+    "appreciates hard choices with real consequences -- no easy answers",
+    "wants scale -- fleet battles, planetary stakes, galactic implications",
+    "prefers action-forward pacing with character depth earned through behavior, not introspection",
+    "discovers books via Amazon algorithms, Facebook reader groups, Reddit r/MilitarySF, and r/PrintSF",
+    "will read everything an author has published if the first book delivers"
+]
+reader_engagement_drivers = [
+    "the satisfaction of a clever tactical maneuver paying off",
+    "the weight of command decisions where people die either way",
+    "the reveal of alien technology, culture, or biology that reframes the conflict",
+    "battle scenes rendered with clarity, scale, and consequence",
+    "the slow-burn transformation of a desperate fleet into a weapon",
+    "loyalty between soldiers expressed through action, not sentiment"
+]
+
+[genre]
+primary = "military sci-fi"
+secondary = ["space opera", "fleet battles", "alien invasion", "first contact", "hard military fiction"]
+genre_requirements = [
+    "military operations must be the primary narrative engine",
+    "fleet battles must be tactically coherent -- the reader should understand the geometry of combat",
+    "chain of command must be realistic -- orders, disobedience, and consequences",
+    "technology must be internally consistent and grounded in extrapolated physics",
+    "alien species must be genuinely alien -- not humans with different skin",
+    "political and moral complexity must arise naturally from military situations"
+]
+
+[world_building]
+fleet_structure = [
+    "Remnant Fleet organized into three battle groups: Vanguard, Mainline, and Rearguard",
+    "Ship classes: Dreadnought (1), Battlecruiser (3), Cruiser (8), Destroyer (15), Frigate (12), Support (8)",
+    "CNS Adamant is a Sovereign-class battlecruiser -- the fleet's most capable warship after the dreadnought",
+    "Fleet manpower: approximately 31,000 naval personnel and 4,000 marines across all ships",
+    "Logistics are a constant constraint -- fuel, ammunition, food, and repair materials are finite and irreplaceable"
+]
+alien_species_keth = [
+    "The Keth Hegemony -- a collectivist insectoid species organized into hive-fleets",
+    "Individual Keth are not unintelligent but operate within a hierarchical consensus -- queens set strategic goals, sub-commanders have tactical autonomy",
+    "Keth ships are organic-metallic hybrids -- grown as much as built, self-repairing over time",
+    "Keth weapons: bio-plasma projectors (short range, devastating), kinetic swarm launchers (long range, area denial)",
+    "Keth motivation (revealed over series): they are not conquerors by nature but refugees -- something destroyed their home space and they are expanding outward to survive"
+]
+alien_species_vashanti = [
+    "The Vashanti -- a nomadic species of tall, thin, silicon-based beings who perceive electromagnetic fields",
+    "Fought the Keth 300 years ago, lost, and retreated to hidden fleet-habitats in deep space",
+    "Vashanti technology is electromagnetic -- shields, weapons, and communication all EM-based",
+    "Culturally value patience, long-term strategy, and information asymmetry",
+    "Their alliance with humanity is genuine but calculated -- they need human aggression and numbers"
+]
+tech_level = [
+    "FTL via jump drives -- discrete jumps between charted points, not continuous faster-than-light travel",
+    "Energy weapons (rail-accelerated plasma) and kinetic weapons (mass-driver slugs) -- both have trade-offs",
+    "Point-defense networks against missiles and fighters",
+    "No artificial gravity -- ships use rotation or thrust gravity",
+    "No shields (human tech) -- armor, evasion, and electronic countermeasures instead",
+    "Communications limited to light-speed between systems -- jump couriers for FTL messaging",
+    "The Vashanti introduce EM-shield technology to the alliance -- a game-changer that is hard to integrate with human ships"
+]
+
+[military_design]
+rank_structure = [
+    "Fleet Admiral (supreme commander) -- Tanaka, then the protagonist after Book 4",
+    "Rear Admiral / Commodore (battle group commanders)",
+    "Captain (ship commanders)",
+    "Commander / Lieutenant Commander (department heads and XOs)",
+    "Lieutenant / Ensign (division officers)",
+    "Chief / Petty Officer (senior enlisted)",
+    "Specialist / Spacer (enlisted crew)",
+    "Marine ranks parallel but separate -- Colonel at the top of the embarked marine force"
+]
+battle_tactics = [
+    "fleet engagements are three-dimensional -- formations matter, firing arcs matter, relative velocity matters",
+    "tactical decisions must account for ammunition expenditure, damage accumulation, and fuel reserves",
+    "the protagonist's tactical brilliance must be shown through specific, comprehensible maneuvers",
+    "Keth tactics emphasize overwhelming numbers and expendable screening units",
+    "human tactics emphasize precision, maneuver warfare, and exploiting Keth consensus delays",
+    "joint human-Vashanti tactics combine EM-shields with human kinetic firepower -- a lethally effective combination when it works"
+]
+chain_of_command = [
+    "orders are given and followed -- disobedience has consequences",
+    "disagreement within the command structure is a primary source of drama",
+    "the protagonist must navigate political factions within the fleet (militarists, diplomats, survivalists)",
+    "enlisted perspectives balance officer-level strategic drama with ground-level stakes",
+    "the moral weight of command -- every order sends people to die -- must be felt, not merely stated"
+]
+
+[protagonist_design]
+protagonist_role = "Captain (Books 1-3) then Fleet Admiral (Books 4-8) of the Remnant Fleet"
+required_traits = [
+    "tactically brilliant but not infallible -- his plans work because they are clever, and they sometimes fail because war is chaos",
+    "carries the emotional weight of command without performative angst -- shows strain through behavior, not monologue",
+    "earns loyalty through competence and fairness, not charisma",
+    "makes hard decisions and lives with the consequences -- does not moralize about them",
+    "has a pre-war life (family, career, regrets) that informs his decisions without dominating the narrative",
+    "grows from a ship captain thinking tactically to a fleet admiral thinking strategically across the series"
+]
+character_arc = "From a captain focused on keeping his ship alive to an admiral responsible for humanity's survival -- the series traces the expansion of responsibility and the erosion of certainty"
+
+[pacing]
+structure_priority = "mission-driven with escalating stakes"
+chapter_count = 25
+chapter_length_words = 3600
+tension_maintenance_protocol = [
+    "each book structured around 2-3 major missions or engagements with tactical planning, execution, and aftermath",
+    "battle scenes must be clear, dynamic, and consequential -- ships are lost, people die, resources are spent",
+    "chapters between battles must advance political intrigue, character development, or strategic planning",
+    "the fleet's resource situation must be tracked -- the reader should feel the scarcity",
+    "revelations about the Keth and Vashanti must be spaced to maintain mystery across 8 books",
+    "each book must end with a strategic situation change that demands the next book",
+    "no chapter should exist that does not advance plot, character, or world-building"
+]
+reader_retention_mechanisms = [
+    "tactical tension -- will the plan work",
+    "command decisions with no good options",
+    "mystery of the Keth's true nature (what are they running from?)",
+    "the growing human-Vashanti alliance and its complications",
+    "investment in recurring characters at all ranks",
+    "escalating stakes -- from ship survival to fleet survival to species survival to galactic survival"
+]
+
+[conflict_design]
+conflict_types = [
+    "military: fleet engagements against superior Keth numbers",
+    "tactical: resource constraints forcing impossible choices (attack or conserve?)",
+    "political: factions within the fleet disagreeing on strategy (fight, flee, negotiate)",
+    "interpersonal: chain of command friction, loyalty vs. disagreement",
+    "strategic: the Vashanti alliance comes with strings -- their goals and humanity's goals do not perfectly align",
+    "philosophical: is humanity worth saving if survival requires becoming something unrecognizable",
+    "revelatory: the Keth's true nature complicates the moral clarity of the war"
+]
+conflict_resolution_requirement = "conflicts must resolve through decisive action with real consequences -- no deus ex machina, no bloodless victories"
+
+[ending_requirements]
+ending_type = "earned victory per book, series resolution in Book 8"
+victory_definition = [
+    "humanity survives and secures a future -- not necessarily a return to Earth in every book",
+    "the cost of victory must be visible -- casualties, lost ships, moral compromises",
+    "the protagonist must have grown as a leader through the decisions he made",
+    "the alliance with the Vashanti must be genuine and tested",
+    "the reader must feel the victory was earned through intelligence, sacrifice, and persistence"
+]
+series_resolution_requirements = [
+    "the Keth conflict must be resolved in a way that acknowledges their refugee status",
+    "the greater threat revealed in Book 5 must be confronted and addressed",
+    "the protagonist's final command decision must be the hardest one in the series",
+    "surviving characters must be accounted for -- the reader must know who lived",
+    "an epilogue showing humanity rebuilding -- not triumphant, but persisting",
+    "the last line must land with emotional weight"
+]
+
+[setting]
+primary_location = "deep space -- the fleet is nomadic, moving between systems"
+secondary_locations = ["contested star systems with strategic resources", "the Vashanti fleet-habitats (hidden in deep space, strange and beautiful)", "Keth-occupied human worlds (reconnaissance missions)", "Bastion Station (the fleet's mobile anchorage)"]
+environment = [
+    "the interior of warships -- cramped corridors, command bridges, engineering bays, marine barracks",
+    "the cold void rendered viscerally -- decompression, radiation, the silence of space broken by weapon impacts",
+    "alien environments that feel genuinely alien -- Keth hive-ships with organic walls, Vashanti habitats lit by EM fields",
+    "planetary surfaces on reconnaissance missions -- ruined human cities, alien landscapes"
+]
+key_locations = [
+    "CNS Adamant bridge -- the command center, holographic tactical displays, the captain's chair",
+    "The War Room -- below decks, where strategy is planned, walls covered in fleet status boards",
+    "The Forge -- the fleet's makeshift shipyard, always running, always behind on repairs",
+    "Marine country -- the embarked marines' section, armory and barracks, a different culture from the naval crew",
+    "The Observation Deck -- the one place on the Adamant with a real window, where crew go to remember what they are fighting for",
+    "Bastion Station -- the fleet's mobile base, a converted mining platform, chaotic and essential"
+]
+atmosphere = "the weight of command in the void -- every decision matters, every resource is finite, the stars are beautiful and indifferent, and the only thing between humanity and extinction is the fleet"
+
+[prohibited_elements]
+bloodless_combat = true
+deus_ex_machina_victories = true
+protagonist_always_right = true
+alien_species_as_one_dimensional_evil = true
+war_glorification_without_cost = true
+technobabble_replacing_tactics = true
+romantic_subplot_as_primary_driver = true
+
+[required_reader_effect]
+psychological_outcomes = [
+    "visceral tension during fleet engagements -- the reader should hold their breath",
+    "respect for the protagonist's decision-making even when they disagree",
+    "investment in the fleet as a community -- caring about named characters at every rank",
+    "genuine curiosity about the Keth and Vashanti -- wanting to understand them",
+    "the satisfying click of a tactical plan coming together",
+    "immediate need to start the next book to see what happens to the fleet"
+]

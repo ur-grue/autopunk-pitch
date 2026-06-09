@@ -1,0 +1,275 @@
+[metadata]
+name = "Romantasy"
+description = "Stormblood Academy -- A five-book academy romantasy series. A scholarship student with forbidden storm magic enters an elite academy for the magically gifted. The headmaster's son wants her expelled. The underground fighting ring wants her recruited. The ancient power waking beneath the school wants her dead."
+tone = "electric, competitive, darkly seductive, fast-paced, atmospheric"
+themes = ["power and belonging", "class warfare in magical spaces", "proving yourself against impossible odds", "desire that complicates survival", "secrets that could destroy everything"]
+n_chapters = 25
+chapter_length = 3600
+target_audience = "women 18-30, academy romantasy readers, BookTok bully romance and fantasy academy fans"
+author_style = "Elara Nighthollow"
+tropes = ["bully romance", "enemies-to-lovers", "magic academy", "forbidden magic", "there is only one bed", "forced proximity", "rivals to lovers", "he is cruel because he wants her", "tournament arc", "secret identity", "touch her and die"]
+
+[meta]
+purpose = "Series-level template for 'Stormblood Academy' -- a 5-book academy romantasy series by Elara Nighthollow. Each book covers one academic year. The central romance is a slow-burn bully-to-lover arc across the series. Ensemble cast with secondary romances. Escalating spice. HEA by series end."
+planning_allowed = true
+plot_generation_allowed = true
+character_generation_allowed = true
+title_generation_allowed = true
+focus = "Deliver the magic academy experience readers crave: competitive trials, forbidden power, a cruel love interest who is undone by wanting someone he should despise, friend groups that feel real, and escalating stakes that build across five years. Optimized for KDP, KU binge behavior, and BookTok academy romance fandom."
+
+[series]
+name = "Stormblood Academy"
+author = "Elara Nighthollow"
+total_books = 5
+book_titles_suggested = ["First Spark", "Trial by Lightning", "Storm Rising", "The Shattered Seal", "Stormblood Ascendant"]
+shared_locations = ["Ashveil Academy -- a floating stone fortress above a volcanic caldera, reached only by dragon-drawn carriages", "The Crucible -- the underground arena where students fight for rank in unsanctioned magical combat", "The Storm Spire -- the highest tower, forbidden to students, where the heroine's power resonates", "The Obsidian Library -- three floors of magical texts, with a restricted fourth floor sealed by blood wards", "The Grounds -- volcanic stone courtyards, magma-heated hot springs, perpetual storm clouds overhead", "The Hollows -- an underground network of tunnels beneath the academy where students break rules"]
+recurring_characters = ["Professor Kael Ashvane -- combat magic instructor, scarred, gruff, suspects the heroine's true power from day one", "Sable -- the heroine's roommate, a fire mage from a poor background, fierce and loyal, gets her own romance arc", "Wren -- a shadow mage, quiet and observant, the friend group's strategist, nonbinary", "Headmaster Theron Voss -- the hero's father, powerful and politically entrenched, opposes the heroine's presence", "The Warden -- a mysterious figure who runs the Crucible, identity unknown until book 3"]
+timeline = "Each book covers one academic year (autumn to summer). Full series spans five years of academy life plus a post-academy climax."
+series_arc = "Ashveil Academy sits atop a sealed rift to the Void -- a dimension of raw, corruptive magic. The seal is weakening. The heroine's storm magic is not a natural affinity; it is Void-touched power, the result of an experiment her parents died concealing. As her power grows, the seal weakens further. The hero -- the headmaster's son, raised to protect the seal -- must decide whether the girl threatening to crack the world open is worth saving. By book 5, the rift tears open and the heroine must master her Void-storm power to close it, at a cost that could mean losing everything."
+
+[target_audience]
+primary_gender = "female"
+age_range = "18-30"
+psychographic_profile = [
+    "loves magic school settings with competitive structures and social hierarchies",
+    "drawn to bully romance where cruelty masks attraction",
+    "wants a heroine who earns her power and her place through grit",
+    "enjoys ensemble casts with strong friendships and secondary romances",
+    "reads for the tournament/trial arc -- competition as narrative engine",
+    "creates BookTok content around character aesthetics and ship dynamics",
+    "wants longer books that allow full immersion in the academy world",
+    "comfortable with escalating spice and dark themes in upper-year books"
+]
+reader_fantasy_drivers = [
+    "being the underdog who proves everyone wrong at an elite institution",
+    "having forbidden power that makes you both dangerous and extraordinary",
+    "the cruel, beautiful rival who cannot stop watching you and hates himself for it",
+    "a found family of misfit friends who become ride-or-die",
+    "tournament arcs where you climb the rankings against people who want you to fail",
+    "discovering that the boy who tormented you would kill for you without hesitation"
+]
+
+[genre]
+primary = "romantasy"
+secondary = ["academy romance", "bully romance", "enemies-to-lovers fantasy", "dark fantasy romance", "new adult fantasy", "magic school romance"]
+genre_requirements = [
+    "the academy setting must feel fully realized -- classes, social hierarchy, traditions, rules",
+    "the magic system must support competitive ranking and tournament mechanics",
+    "the bully romance must evolve across the full series -- cruelty in book 1, conflicted in 2-3, devoted by 4-5",
+    "friend group dynamics must be as compelling as the romance",
+    "each book must have a complete academic-year arc (trial, revelation, climax) while advancing the series plot",
+    "book 1 is HFN (she survives the year); full HEA arrives book 5",
+    "the forbidden power subplot must carry equal weight to the romance"
+]
+
+[romantic_dynamic]
+core_dynamic = "bully_to_obsessive_protector"
+dynamic_definition = [
+    "he targets her from day one -- she is a scholarship student with unregistered magic, everything he was raised to destroy",
+    "his cruelty is specific and personal, which tells her (and the reader) she has gotten under his skin",
+    "she refuses to break -- her defiance infuriates and attracts him in equal measure",
+    "the shift: he discovers the truth about her power and realizes she is not the threat he assumed",
+    "his protective instincts emerge violently -- he goes from trying to expel her to obliterating anyone who threatens her",
+    "the transition from enemies to allies to something more happens across years, not weeks",
+    "by series end, he is her fiercest advocate and she is the only person who sees past his cruelty to his fear"
+]
+power_dynamic_calibration = [
+    "he holds social and institutional power -- his father runs the academy, his bloodline is elite",
+    "she holds raw magical power that terrifies him because it could destroy the seal he is sworn to protect",
+    "the bully dynamic inverts as her power grows -- by book 3, he cannot dominate her if he tried",
+    "emotional power shifts: he falls first, which gives her leverage she does not initially realize",
+    "by book 5, they are equals in power, status, and emotional vulnerability"
+]
+
+[romantic_partner_design]
+male_counterpart_required_traits = [
+    "devastatingly attractive in a sharp, aristocratic way -- dark features, cutting jawline, eyes like a storm",
+    "magically gifted -- top of every class, effortless power that makes his arrogance feel earned",
+    "cruel with precision -- his insults are surgical, which makes his eventual tenderness shocking",
+    "carries the burden of a legacy he did not choose -- sworn to protect the seal since childhood",
+    "competitive -- he cannot stand that she challenges his rank and cannot stop seeking her out",
+    "emotionally repressed by upbringing -- his father taught him that attachment is weakness",
+    "his cruelty is fear-based -- he wants her gone because wanting her close is too dangerous",
+    "when he breaks, he breaks completely -- his devotion is as intense as his former cruelty"
+]
+attraction_model = [
+    "antagonism -- he targets her, she refuses to yield",
+    "obsessive attention disguised as hostility -- he watches her constantly, knows her schedule, her habits",
+    "grudging respect -- she does something in a trial that he cannot dismiss",
+    "the first crack -- a moment where the mask slips and she sees something vulnerable",
+    "physical tension -- training sessions, accidental proximity, a moment in the Crucible",
+    "denial and escalation -- he pushes harder, she pushes back, the tension becomes unbearable",
+    "forced alliance against a common threat -- they must work together and discover they are devastatingly effective as a pair",
+    "first kiss: angry, desperate, in the middle of an argument or a fight, both furious at themselves for wanting it",
+    "slow capitulation across books 3-5 as he stops fighting the pull and starts fighting for her instead"
+]
+exclusivity_requirement = "no real love triangle -- secondary characters may show interest but the central dynamic is singular and obsessive from his side from very early on"
+
+[protagonist_design]
+protagonist_gender = "female"
+required_psychological_traits = [
+    "scrappy and resilient -- she grew up poor, taught herself magic from stolen books, arrived at Ashveil with nothing but talent",
+    "proud -- his cruelty hurts but she will bite her tongue off before showing it",
+    "fiercely loyal to her friends -- the found family she builds is her anchor",
+    "curious to the point of recklessness -- she cannot resist forbidden knowledge or restricted areas",
+    "emotionally guarded -- trust is earned slowly, and his betrayal of it (when it comes) is devastating",
+    "grows from defensive survivor to confident power -- her arc is becoming someone who belongs here"
+]
+reader_identification_requirement = "reader must experience the academy through the underdog's eyes -- the wonder of magic, the sting of elitism, the triumph of proving doubters wrong, the confusion of wanting someone who was cruel to you"
+power_progression = [
+    "Book 1: raw, uncontrolled storm magic -- dangerous but unpredictable, she barely passes trials",
+    "Book 2: growing control, discovers the Void-touch origin, struggles with what that means",
+    "Book 3: power surges during emotional moments, she begins training in secret with an unlikely mentor",
+    "Book 4: full command of storm magic, begins accessing Void abilities deliberately, becomes top-ranked",
+    "Book 5: Void-storm mastery, she can open or close the rift, the most powerful student in academy history"
+]
+
+[emotional_design]
+primary_emotional_drivers = [
+    "the addictive tension of wanting someone who is actively hostile",
+    "the triumph of proving yourself in a space that tried to reject you",
+    "the warmth of found family friendship -- the friend group is as important as the romance",
+    "fear of your own power and what it means about who you are",
+    "the gut-punch of discovering your enemy is also your protector",
+    "competitive fire -- wanting to win, to rank, to be the best"
+]
+emotional_progression_model = [
+    "Book 1: survival mode -- endure his cruelty, pass the trials, make friends, keep secrets",
+    "Book 2: belonging tested -- her power's origin threatens to alienate her from everyone, he discovers the truth first",
+    "Book 3: alliances shift -- he becomes an unlikely ally, the friend group fractures and reforms, first real romantic tension",
+    "Book 4: commitment -- they are openly together (or secretly), external forces attack the academy, loyalty is tested under fire",
+    "Book 5: unity and sacrifice -- the rift opens, everything they built is at risk, love is the anchor that saves them"
+]
+attachment_mechanisms = [
+    "him anonymously helping her and pretending he did not -- she finds out later",
+    "a Crucible fight where he takes a blow meant for her and plays it off as strategy",
+    "studying together under forced circumstances -- academic rivalry becoming intellectual intimacy",
+    "her finding him in the Storm Spire at 3am, both unable to sleep, both pretending they did not come here hoping the other would be here",
+    "the friend group slowly accepting him -- Sable's grudging 'fine, he can sit with us' moment",
+    "him seeing her at her most powerful and being awed, not afraid"
+]
+
+[sensuality_calibration]
+intensity = "escalating across the series -- Book 1: tension only, one near-kiss. Book 2: first kiss, charged scenes. Book 3: first intimate scene. Books 4-5: high spice, 3-4 explicit scenes per book"
+sensual_expression_methods = [
+    "training sessions as foreplay -- physical combat creating charged proximity",
+    "magic as sensory experience -- his shadows touching her lightning, power intertwining",
+    "the academic rivalry as sexual tension -- competing for the same rank, same prize, same space",
+    "stolen moments in forbidden locations -- the restricted library, the Storm Spire, the Hollows",
+    "the transition from angry physicality (shoving, grabbing) to intentional touch (his hand on her waist, her fingers on his jaw)",
+    "post-battle intimacy -- adrenaline channeled into desire",
+    "his loss of composure during intimate moments -- the controlled, cruel exterior dissolving completely"
+]
+sensuality_function = "intimate scenes must reflect the evolution of their dynamic -- early encounters are combative and charged, later ones are vulnerable and consuming"
+
+[pacing]
+structure_priority = "academic year structure with tournament/trial peaks"
+chapter_count = 25
+chapter_length_words = 3600
+tension_maintenance_protocol = [
+    "each book follows the academic year: arrival/sorting -> classes/training -> mid-year trials -> escalation -> year-end crisis",
+    "the Crucible fights provide regular action set-pieces throughout each book",
+    "romantic milestones align with academic milestones -- kiss after a trial, intimacy after a revelation",
+    "friend group dynamics provide emotional texture between the high-stakes scenes",
+    "the Void/seal subplot introduces revelations at act breaks",
+    "every chapter ends on a hook: competitive (trial results), romantic (tension escalation), or mystery (what is beneath the academy)"
+]
+reader_retention_mechanisms = [
+    "the bully-to-lover arc is inherently addictive -- readers need to see when he breaks",
+    "the ranking system creates built-in competitive tension per book",
+    "the mystery of the heroine's power origin unfolds across the series",
+    "the friend group provides comfort-reading warmth between intense scenes",
+    "each book's year-end crisis raises the stakes for the next year"
+]
+
+[conflict_design]
+conflict_types = [
+    "class and social hierarchy -- she is a scholarship student in an elite institution",
+    "his cruelty and her pride -- the bully dynamic that masks attraction",
+    "her forbidden power threatening the academy's seal",
+    "the headmaster (his father) actively working to expel or neutralize her",
+    "the Crucible's underground culture -- dangerous alliances and rivalries",
+    "the Void's growing influence corrupting students and faculty",
+    "the final choice: use her Void-storm power to close the rift, which may kill her or trap her"
+]
+conflict_resolution_requirement = "the series must resolve the Void threat and the romance simultaneously -- her power saves the world and he refuses to let it take her from him"
+
+[ending_requirements]
+ending_type = "HEA at series end; HFN/cliffhangers for books 1-4"
+hea_definition = [
+    "the rift is sealed, the academy is saved, the Void threat is neutralized",
+    "they are together -- openly, fiercely, with no more cruelty between them",
+    "her place at the academy (and in his life) is unquestioned",
+    "the friend group is intact and thriving",
+    "she has mastered her power on her own terms -- she is not defined by its origin",
+    "he has broken free of his father's legacy and chosen his own path"
+]
+emotional_resolution_requirements = [
+    "he must make a public, irrevocable declaration -- choosing her in front of his father and the entire academy",
+    "she must survive the Void encounter -- no bittersweet martyrdom, this is a triumph",
+    "the friend group must have a celebration scene -- joy earned after five years of struggle",
+    "secondary romances (Sable's, Wren's) must receive satisfying conclusions",
+    "an epilogue set some time after graduation showing their lives together, grounded and warm"
+]
+
+[setting]
+location = "Ashveil Academy -- a floating stone fortress above the Caldera of Storms"
+geography = "a volcanic island chain in a secondary fantasy world, perpetual storms overhead, magma-heated architecture"
+era = "secondary world -- no Earth analog, pre-industrial with magical infrastructure"
+world_details = [
+    "Ashveil Academy is the premier institution for magical education -- five years of training, brutal ranking system, graduates enter positions of power",
+    "the academy floats above an active volcanic caldera, held aloft by ancient wards -- the same wards that seal the Void rift",
+    "magic is categorized by element: storm, fire, shadow, stone, water, wind, bone -- rarer types (Void, blood) are forbidden",
+    "social hierarchy is rigid: legacy students (old magical bloodlines) at the top, scholarship students at the bottom",
+    "the Crucible is an open secret -- faculty know it exists, turn a blind eye, use the rankings as unofficial assessment",
+    "the Obsidian Library is the largest magical repository in the world -- the restricted fourth floor contains texts on Void magic"
+]
+atmosphere = "electric and volcanic -- storm-dark skies, lightning reflected in obsidian corridors, the constant low rumble of the caldera below, hot springs steaming in cold air, magic crackling in the atmosphere"
+
+[magic_system]
+type = "elemental affinity with ranked progression"
+rules = [
+    "every mage has a primary elemental affinity discovered at testing -- this determines their academic track",
+    "power is ranked 1-10; students begin at 3-5 and progress through training and trials",
+    "dual affinities are rare and prestigious; Void affinity is forbidden and feared",
+    "magic has physical cost: exhaustion, nosebleeds, temporary sensory loss at high output",
+    "the Crucible ranking is based on combat application -- raw power, strategy, and creativity all matter",
+    "the heroine's storm magic is actually Void-touched storm -- it does not behave like normal elemental magic"
+]
+
+[prohibited_elements]
+bullying_without_consequence_or_growth = true
+heroine_as_perpetual_victim = true
+love_triangle_with_real_stakes = true
+deus_ex_machina_power_ups = true
+friendship_sidelined_for_romance = true
+consequence_free_violence = true
+
+[reader_conversion_optimization]
+booktok_alignment = [
+    "the bully's first crack -- the moment readers see he is falling apart over her",
+    "the Crucible fight where they are forced to partner and are devastatingly good together",
+    "the 'he anonymously helped her' reveal -- gasps and reread moments",
+    "friend group banter scenes -- quotable, warm, shareable",
+    "the first kiss scene -- angry, charged, in a forbidden location",
+    "power awakening moments -- her storm magic manifesting in spectacular fashion",
+    "aesthetic set-pieces: the floating academy in storm light, the obsidian library, the caldera glowing beneath"
+]
+kindle_unlimited_optimization = [
+    "25 chapters at ~3600 words = 90,000 words, 405+ KENP pages -- maximizes page-read revenue",
+    "open with the arrival at the academy -- immediate immersion, no slow preamble",
+    "the ranking system provides built-in progress tracking that sustains engagement",
+    "bully romance is inherently addictive -- readers will power through all five books for the payoff",
+    "each year-end crisis serves as both resolution and cliffhanger for the next book",
+    "the ensemble cast means readers are invested in multiple arcs simultaneously"
+]
+
+[required_reader_effect]
+psychological_outcomes = [
+    "obsessive attachment to the bully-to-lover hero",
+    "deep investment in the friend group as a found family",
+    "competitive thrill during trial and Crucible scenes",
+    "emotional devastation at betrayal moments, catharsis at reconciliation",
+    "desperate need to see the heroine reach her full power",
+    "creation of BookTok edits, playlists, and fan content for the series"
+]

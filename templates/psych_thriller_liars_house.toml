@@ -1,0 +1,235 @@
+[metadata]
+name = "Psychological Thriller"
+description = "Series 12: The Liar's House — connected standalones set in the same affluent suburban neighborhood, each told by a different unreliable narrator hiding something behind their perfect facade. Domestic suspense with devastating twist endings."
+tone = "tense, claustrophobic, paranoid, darkly compelling"
+themes = ["deception", "surveillance", "the rot beneath respectability", "gaslighting", "the price of secrets"]
+n_chapters = 22
+chapter_length = 3182
+target_audience = "women 25-55, thriller readers, Freida McFadden fans, Gone Girl fans"
+author_style = "J.D. Ashmore"
+tropes = ["unreliable narrator", "domestic suspense", "neighborhood secrets", "the perfect marriage", "twist ending", "who can you trust"]
+
+[meta]
+purpose = "Series specification for 'The Liar's House' by J.D. Ashmore. A commercially optimized psychological thriller series of 8 connected standalones set in Briarwood Estates, an affluent suburban neighborhood where every household hides something. Each book features a different unreliable narrator and a devastating final twist. Designed for the Freida McFadden / Gillian Flynn audience on Kindle Unlimited."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define unreliable narrator techniques, twist architecture, tension escalation, and domestic suspense mechanics required for maximum page-turn urgency, twist satisfaction, and series read-through on KU."
+
+[series]
+name = "The Liar's House"
+author = "J.D. Ashmore"
+book_number = 1
+total_books = 8
+series_format = "connected standalones — each book features a different narrator/household in Briarwood Estates. Characters from previous books appear as neighbors, witnesses, or suspects. The neighborhood itself accumulates secrets across the series."
+shared_locations = ["Briarwood Estates (affluent gated community, unnamed East Coast suburb)", "the cul-de-sac (Wren Circle — six houses)", "Briarwood Country Club", "the community pool", "the neighborhood group chat (digital setting)", "the walking trail behind the houses"]
+recurring_elements = [
+    "the Briarwood Estates neighborhood — readers learn more about its dark history with each book",
+    "characters from previous books appear in background roles",
+    "the neighborhood group chat appears in every book as a source of gossip, misdirection, and tension",
+    "a sense that Briarwood Estates itself is a character — beautiful, curated, and deeply wrong"
+]
+timeline = "each book covers days to weeks of escalating domestic crisis"
+
+[protagonist_design]
+protagonist_type = "unreliable narrator — the reader's only window into events is a person who is lying, omitting, or self-deceiving"
+narrator_requirements = [
+    "first person POV — deep interiority, confessional tone",
+    "the narrator must have a secret they are keeping from the reader",
+    "the narrator's version of events must be plausible but incomplete",
+    "the narrator must be sympathetic enough that the reader wants to believe them",
+    "the narrator's unreliability must be revealed through accumulated contradictions, not a single gotcha",
+    "each book's narrator must be a different character — different voice, different type of unreliability"
+]
+unreliability_types = [
+    "the liar — consciously hiding the truth from the reader",
+    "the self-deceiver — genuinely believes their distorted version",
+    "the amnesiac — missing memories that hold the key",
+    "the paranoid — interpreting everything through a lens of suspicion that may or may not be justified",
+    "the gaslighted — someone else is distorting their reality",
+    "the protector — lying to shield someone they love",
+    "the guilty — hiding their own culpability",
+    "the manipulator — the narrator is the villain and the reader doesn't know it"
+]
+
+[mystery_design]
+structure = "domestic suspense with unreliable narrator — the mystery is not just 'what happened' but 'who is telling the truth and what are they hiding'"
+twist_architecture = [
+    "each book must have a major twist in the final 15% of the book",
+    "the twist must recontextualize everything the reader has experienced",
+    "the twist must be fair — clues must be planted throughout that make sense in retrospect",
+    "plant 3-5 micro-twists (smaller reveals) across the middle third to maintain surprise",
+    "the final twist must be emotionally devastating, not just intellectually clever",
+    "avoid twists that rely on withheld information — the clues must exist in the text"
+]
+red_herring_design = [
+    "3-4 red herrings per book, each with genuine emotional weight",
+    "red herrings should be plausible alternative explanations, not cheap misdirection",
+    "at least one red herring should involve a character the reader has grown to trust",
+    "red herrings must serve double duty — they reveal character even when they mislead about plot"
+]
+suspicion_mechanics = [
+    "the reader should suspect at least 3 different characters at different points",
+    "the narrator themselves should be one of the people the reader suspects",
+    "trust should oscillate — characters seem trustworthy, then suspicious, then trustworthy again",
+    "the neighborhood setting means everyone is watching everyone — surveillance is constant"
+]
+
+[tension_design]
+chapter_structure = "short chapters (2,800-3,200 words) — every chapter ends on a hook"
+chapter_hook_types = [
+    "revelation hook — a new piece of information that changes everything",
+    "threat hook — something dangerous is about to happen",
+    "suspicion hook — a character does something inexplicable",
+    "cliffhanger hook — a scene cuts at the moment of maximum tension",
+    "dread hook — the narrator realizes something terrible but the reader doesn't know what yet",
+    "contradiction hook — what the narrator just told us doesn't match what we saw"
+]
+pacing_escalation = [
+    "chapters 1-5: establish the narrator's 'normal' life and introduce the inciting domestic crisis",
+    "chapters 6-10: cracks appear — the narrator's story starts to contradict itself, suspicion grows",
+    "chapters 11-15: paranoia phase — the narrator trusts no one, the reader trusts neither the narrator nor anyone else",
+    "chapters 16-19: acceleration — events spiral, secrets surface, danger becomes physical",
+    "chapters 20-21: the twist — everything the reader thought they knew is wrong",
+    "chapter 22: aftermath — the emotional devastation of the truth, the new status quo"
+]
+tension_tools = [
+    "the neighborhood group chat — messages that seem innocuous but carry threat",
+    "domestic routines that feel increasingly sinister",
+    "things noticed from windows — watching and being watched",
+    "small inconsistencies in the narrator's account that accumulate",
+    "gaslighting scenes where the reader can't tell who is manipulating whom",
+    "the gap between public performance (perfect family) and private reality"
+]
+
+[target_audience]
+primary_gender = "female"
+age_range = "25-55"
+psychographic_profile = [
+    "thriller reader who prioritizes twist satisfaction and page-turn urgency",
+    "enjoys feeling paranoid and suspicious while reading",
+    "wants to be outsmarted by the book — loves a twist that makes them gasp",
+    "interested in domestic dynamics and the psychology of deception",
+    "Freida McFadden reader, Gillian Flynn reader, Lisa Jewell reader",
+    "reads fast — short chapters and cliffhangers keep them reading 'one more chapter'",
+    "shares twist reactions on BookTok and Goodreads",
+    "appreciates psychological complexity over gore or action"
+]
+reader_fantasy_drivers = [
+    "the thrill of figuring out the truth before the reveal",
+    "the satisfaction of a twist that recontextualizes everything",
+    "voyeuristic pleasure — peering behind the curtain of perfect suburban lives",
+    "the intellectual challenge of an unreliable narrator",
+    "the catharsis of secrets being exposed"
+]
+
+[genre]
+primary = "psychological thriller"
+secondary = ["domestic suspense", "unreliable narrator thriller", "neighborhood thriller", "domestic noir", "suburban gothic"]
+genre_requirements = [
+    "psychological tension must be the primary driver — not action or violence",
+    "the unreliable narrator must be central to the reading experience",
+    "the twist must be the book's defining moment — readers should want to immediately tell someone",
+    "domestic setting must feel simultaneously familiar and threatening",
+    "the mystery must be solvable in retrospect — fair play with the reader"
+]
+
+[pacing]
+structure_priority = "escalating paranoia with twist payoff"
+chapter_count = 22
+chapter_length_words = 3182
+total_target_words = 70000
+tension_maintenance_protocol = [
+    "inciting domestic crisis by end of chapter 2",
+    "first crack in the narrator's reliability by chapter 5",
+    "midpoint revelation that reshapes the reader's understanding around chapter 11",
+    "paranoia and danger peak in chapters 16-19",
+    "the major twist lands in chapters 20-21",
+    "aftermath and emotional devastation in chapter 22"
+]
+reader_retention_mechanisms = [
+    "every chapter ends on a hook — no safe stopping points",
+    "short chapters create 'one more chapter' reading behavior",
+    "accumulating contradictions keep the reader mentally engaged",
+    "multiple suspects keep the reader guessing",
+    "the connected-standalones format means readers recognize the neighborhood and want to see what other houses are hiding"
+]
+
+[conflict_design]
+conflict_types = [
+    "the central domestic crisis — the event that shatters the narrator's world",
+    "internal conflict — the narrator's struggle with their own deceptions",
+    "interpersonal conflict — marriage/family tensions that have been festering",
+    "neighborhood conflict — the community as pressure cooker and surveillance system",
+    "the threat of exposure — the narrator's secret could destroy them",
+    "gaslighting dynamics — someone is manipulating reality, but who?"
+]
+conflict_resolution_requirement = "the truth must come out. The twist must resolve the central mystery. The emotional consequences must be real and lasting — no neat happy endings."
+
+[ending_requirements]
+ending_type = "devastating twist with ambiguous aftermath"
+resolution_requirements = [
+    "the major twist must land with maximum emotional impact",
+    "the twist must be fair — re-readable with all clues visible",
+    "the aftermath chapter must show the real cost of the secrets",
+    "endings should be satisfying but not comforting — the truth is harsh",
+    "a subtle thread connecting to the neighborhood's larger web of secrets — reward for series readers",
+    "the final line should linger — haunting, unsettling, or darkly ironic"
+]
+
+[setting]
+region = "unnamed affluent East Coast suburb"
+neighborhood = "Briarwood Estates — a gated community of large homes built in the early 2000s, manicured lawns, HOA-enforced perfection"
+key_locations = [
+    "Wren Circle — the cul-de-sac at the heart of the neighborhood, six houses arranged in a semicircle, everyone can see everyone",
+    "the narrator's home — each book's primary setting, described with claustrophobic intimacy",
+    "Briarwood Country Club — where the social hierarchy is maintained over brunch and tennis",
+    "the community pool — summer gathering place, site of overheard conversations and performed normalcy",
+    "the walking trail behind the houses — where secrets are shared and bodies might be found",
+    "the neighborhood group chat — a digital panopticon of passive aggression and surveillance"
+]
+atmosphere = "manicured perfection hiding rot — everything is beautiful, maintained, and deeply wrong. The suburban setting should feel increasingly suffocating as the book progresses."
+
+[immersion_protocol]
+narrative_perspective = "first person — unreliable narrator"
+perspective_priority = "maximize paranoia and reader doubt"
+description_priority_order = [
+    "the narrator's internal justifications and rationalizations",
+    "observations of other characters' behavior (filtered through narrator's bias)",
+    "domestic environment as psychological landscape",
+    "the gap between what the narrator says and what the reader suspects"
+]
+immersion_methods = [
+    "confessional tone — the narrator addresses the reader directly at times",
+    "selective memory — certain events are glossed over or avoided",
+    "contradictions buried in detail — the narrator says one thing in chapter 3 and a different thing in chapter 12",
+    "physical symptoms of anxiety and guilt woven into the prose",
+    "domestic details that shift from comforting to sinister as the book progresses"
+]
+
+[prohibited_elements]
+gratuitous_gore = true
+sexual_violence = true
+child_victims = true
+twist_that_relies_on_withheld_information = true
+twist_that_is_supernatural = true
+narrator_who_is_purely_evil_with_no_complexity = true
+neat_happy_ending = true
+action_thriller_elements = true
+
+[reader_conversion_optimization]
+kindle_unlimited_optimization = [
+    "immediate hook — the domestic crisis begins in chapter 1",
+    "short chapters (3,200 words) create compulsive reading behavior",
+    "every chapter ends on a hook — designed for 'one more chapter' reading",
+    "the twist must be gasp-worthy — drives BookTok and Goodreads discussion",
+    "22 chapters at ~3,200 words for fast-paced reading"
+]
+series_binge_drivers = [
+    "connected standalones — each book is satisfying alone but the neighborhood deepens",
+    "characters from previous books appear as neighbors — readers recognize them",
+    "the neighborhood's accumulated secrets create a sense of a larger web",
+    "each book features a different type of unreliable narrator — keeps the format fresh",
+    "readers want to see what's behind every door on Wren Circle"
+]

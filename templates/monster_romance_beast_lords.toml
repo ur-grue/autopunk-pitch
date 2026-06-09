@@ -1,0 +1,220 @@
+[metadata]
+name = "Monster Romance"
+description = "Series 14: Bound to the Beast Lords — each book pairs a human heroine with a different monstrous hero (orc, dragon, demon, fae, minotaur, kraken). Fated mates, size difference, ferocious protectiveness, and the 'touch her and die' energy that monster romance readers crave. High spice. HEA guaranteed."
+tone = "intense, primal, darkly romantic, sensual, adventurous"
+themes = ["beauty and the beast", "acceptance of the other", "desire beyond the human", "the monster who worships her", "finding home in the unlikely"]
+n_chapters = 18
+chapter_length = 3333
+target_audience = "women 20-40, monster romance readers, BookTok romantasy fans, size difference enthusiasts"
+author_style = "Rowan Ashfire"
+tropes = ["fated mates", "non-human hero", "size difference", "touch her and die", "beauty and the beast", "gentle giant", "possessive protector", "fish out of water"]
+
+[meta]
+purpose = "Series specification for 'Bound to the Beast Lords' by Rowan Ashfire. A commercially optimized monster romance series where each book features a different species of monstrous hero and his human fated mate. 6 books planned — orc, dragon, demon, fae, minotaur, kraken. High spice with explicit content. HEA guaranteed. Designed for the underserved monster romance niche on Kindle Unlimited."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define monster hero archetypes, size difference dynamics, fated mate mechanics, worldbuilding, and the 'touch her and die' protective energy required for maximum reader obsession in the monster romance niche."
+
+[series]
+name = "Bound to the Beast Lords"
+author = "Rowan Ashfire"
+book_number = 1
+total_books = 6
+series_format = "interconnected standalones — each book features a different monstrous hero species. Set in the same fantasy world where a magical rift has brought humans and monsters into reluctant contact. HEA per book."
+book_sequence = [
+    "Book 1: Orc lord — the conquering warlord who claims a human tribute bride",
+    "Book 2: Dragon shifter — the ancient being who hoards treasure and finds his greatest one",
+    "Book 3: Demon prince — summoned by accident, bound by the mate bond",
+    "Book 4: Dark fae lord — stolen into the fae realm through a bargain gone wrong",
+    "Book 5: Minotaur chieftain — the labyrinth guardian who finds a lost human",
+    "Book 6: Kraken lord — the deep sea ruler who rescues a drowning woman and keeps her"
+]
+shared_worldbuilding = "The Sundering — a magical cataclysm that merged the human world with the Otherworld, creating contested borderlands where humans and monsters must coexist. Each book takes place in a different region of this merged world."
+recurring_elements = [
+    "heroines from previous books are referenced or briefly appear",
+    "the political tension between human kingdoms and monster territories",
+    "the fated mate bond as a universal force that transcends species",
+    "the growing alliance between bonded pairs — building toward cooperation between the races"
+]
+
+[romantic_dynamic]
+core_dynamic = "fated mates across species — the monster recognizes his mate instantly, the human must overcome fear and prejudice to accept the bond"
+dynamic_definition = [
+    "the hero is monstrous in appearance — large, inhuman, terrifying to others",
+    "the hero is devastatingly gentle with his mate — the contrast is the core appeal",
+    "the heroine's initial fear transforms into fascination, then desire, then love",
+    "the size difference is a feature, not a bug — it should be present in every physical interaction",
+    "the hero worships the heroine — she is the most precious thing in his world",
+    "the 'touch her and die' energy — he will annihilate anything that threatens her, without hesitation"
+]
+power_dynamic_calibration = [
+    "the hero is physically overwhelming — larger, stronger, supernaturally powerful",
+    "the heroine holds emotional power — the hero is helpless before her, undone by her kindness or courage",
+    "the hero's monstrous nature is never sanitized — he IS a monster, and that's what makes the romance work",
+    "the heroine's agency is paramount — she chooses him despite having every reason to fear him",
+    "the relationship reaches true partnership — his strength and her humanity make them unstoppable together"
+]
+
+[romantic_partner_design]
+hero_type = "non-human monster — each book features a different species with distinct physiology, culture, and personality"
+hero_required_traits = [
+    "physically monstrous — large, powerful, visibly non-human (horns, tusks, scales, tentacles, wings, etc.)",
+    "terrifying to everyone except his mate — his tenderness with her is in stark contrast to his ferocity with others",
+    "possessive and protective to an extreme degree — 'touch her and die' is not a metaphor",
+    "emotionally starved — he has never been touched gently, never been loved, never been chosen",
+    "competent and powerful within his own world — a lord, a warrior, a ruler",
+    "the monster does not become human for her — he remains fully monstrous and she loves him as he is"
+]
+monster_species_guidelines = [
+    "orc — massive, tusked, green/grey skin, battle-scarred, warlord culture, blunt and honest",
+    "dragon — can shift between dragon and a massive humanoid form, hoards treasure, ancient and possessive",
+    "demon — horned, tailed, fire-touched, summoned from a lower realm, darkly seductive and fiercely loyal",
+    "dark fae — tall, ethereal, antlered, otherworldly beautiful but alien, bound by rules and bargains",
+    "minotaur — bull-headed, enormous, gentle despite his terrifying appearance, labyrinth guardian",
+    "kraken — tentacled sea lord, shifts between aquatic and semi-humanoid form, the deep made flesh"
+]
+attraction_model = [
+    "instant recognition — the monster knows she is his mate on sight, scent, or magical resonance",
+    "obsessive attention — he cannot look away, cannot leave her, must be near her",
+    "confusion — she should be terrified but she isn't, and that confuses both of them",
+    "protective escalation — he destroys a threat to her, and her fear becomes awe",
+    "tenderness — the moment his massive hand cradles her face like she's made of glass",
+    "surrender — she touches him first, and he breaks"
+]
+exclusivity_requirement = "absolute and eternal — the fated mate bond is exclusive across all species in this world"
+
+[protagonist_design]
+protagonist_gender = "female"
+heroine_type = "human woman — each book features a different heroine with her own life, goals, and reason for encountering the monster world"
+required_psychological_traits = [
+    "brave — not fearless, but acts despite fear",
+    "compassionate — sees the person behind the monster",
+    "resilient — has survived hardship in the human world",
+    "curious rather than repulsed — her willingness to look past his appearance is what cracks him open",
+    "physically small relative to the hero — the size difference is visually and emotionally emphasized",
+    "has agency — she is not a passive victim; she makes choices that drive the plot"
+]
+reader_identification_requirement = "the reader must feel the heroine's journey from fear to fascination to desire to love — every stage must be viscerally real"
+
+[emotional_design]
+primary_emotional_drivers = [
+    "the thrill of the forbidden — desiring something monstrous",
+    "the beauty-and-the-beast arc — seeing the tender soul behind the terrifying exterior",
+    "size difference tension — his body dwarfs hers, his hands engulf hers, and yet he touches her like she's sacred",
+    "the 'touch her and die' protectiveness — watching him destroy a threat to her is peak romance",
+    "emotional vulnerability — the monster who has never been loved, weeping at her touch",
+    "belonging — the heroine finding her place in his world, and him finding his heart in her"
+]
+emotional_progression_model = [
+    "fear/awe — the heroine encounters the monster and is overwhelmed",
+    "captivity/proximity — forced closeness in his domain",
+    "curiosity — she begins to see the person behind the monster",
+    "tenderness — small moments of unexpected gentleness crack her defenses",
+    "desire — the attraction becomes undeniable despite species difference",
+    "crisis — the external threat or internal prejudice threatens to separate them",
+    "choice — she chooses him, fully and freely, monstrous as he is",
+    "completion — the fated bond sealed, the HEA secured, the monster finally home"
+]
+attachment_mechanisms = [
+    "the hero's hands — too large, too clawed, trembling when he touches her for the first time",
+    "him learning human customs to please her — cooking her food, making her a bed, bringing her gifts",
+    "his voice — deep, rumbling, breaking when he says her name",
+    "the size difference in daily life — he carries her, shelters her with his body, curls around her while she sleeps",
+    "the first time she touches his monstrous features (horns, tusks, scales) without flinching — and he closes his eyes"
+]
+
+[sensuality_calibration]
+intensity = "high spice — 3-4 explicit scenes per book, size difference is central to the intimacy, the mate bond adds supernatural intensity"
+sensual_expression_methods = [
+    "size difference — every intimate scene emphasizes the physical contrast between them",
+    "the hero's restraint — he is terrified of hurting her, and his control is part of the tension",
+    "supernatural senses — he can feel her desire through the bond, smell her arousal, hear her heartbeat",
+    "primal urgency vs. aching tenderness — the push and pull between the beast and the lover",
+    "the claiming — a climactic scene where the mate bond is physically and supernaturally sealed",
+    "monster-specific physicality — tusks against her neck, wings wrapped around her, tentacles, tails, horns"
+]
+sensuality_function = "the physical intimacy is the ultimate act of trust — she trusts him with her body despite his ability to destroy her, and that trust is what heals him. The spice is inseparable from the emotional arc."
+
+[pacing]
+structure_priority = "romantic escalation with adventure and worldbuilding"
+chapter_count = 18
+chapter_length_words = 3333
+total_target_words = 60000
+tension_maintenance_protocol = [
+    "the heroine encounters the monster hero in chapter 1-2 — visceral, immediate, overwhelming",
+    "forced proximity in his domain through chapters 3-6",
+    "romantic tension and worldbuilding deepen in chapters 7-12",
+    "the 'touch her and die' scene — he destroys a threat to her around chapter 10-12",
+    "crisis and near-separation in chapters 13-15",
+    "climactic battle and claiming in chapters 16-17",
+    "HEA epilogue in chapter 18"
+]
+reader_retention_mechanisms = [
+    "the size difference and monster physicality create immediate, visceral hooks",
+    "the beauty-and-the-beast arc is one of the most compelling structures in romance",
+    "each chapter deepens the heroine's understanding of the monster's world",
+    "the 'touch her and die' moments are the scenes readers share on BookTok",
+    "worldbuilding reveals are paced to maintain curiosity about the larger world"
+]
+
+[conflict_design]
+conflict_types = [
+    "species barrier — she is human, he is monstrous, their worlds are at war",
+    "the heroine's fear and prejudice — she must overcome what she's been taught about monsters",
+    "external threats — human armies, rival monsters, political enemies",
+    "the hero's self-loathing — he believes he is too monstrous to be loved",
+    "the fated bond itself — neither chose this, and the loss of choice is its own conflict",
+    "the physical danger of intimacy — size difference means he could hurt her, and that fear is real"
+]
+conflict_resolution_requirement = "the romantic conflict must resolve in full HEA — she chooses him as he is (no transformation into human form), the external threat is defeated, and the bond is completed."
+
+[ending_requirements]
+ending_type = "HEA"
+hea_definition = [
+    "the heroine chooses the monster freely and permanently",
+    "the hero is loved as he is — no humanization, no sanitization",
+    "the fated mate bond is sealed",
+    "the immediate external threat is defeated",
+    "the couple has a home in his world (or a new world they build together)",
+    "an epilogue showing their life together — tenderness, passion, and the heroine fully integrated into his world"
+]
+critical_requirement = "the monster must remain a monster. He does not become human. She loves the monster, not a human wearing a monster suit."
+
+[setting]
+world = "The Sundered Lands — a merged world where the human realm and the Otherworld collided in a magical cataclysm called The Sundering"
+key_locations = [
+    "Book 1 (Orc): the Ironhold — a massive orc fortress in the borderlands, stone and iron, war banners and fire pits",
+    "Book 2 (Dragon): the Hoard Spire — a mountain cave system filled with treasure, warm with dragon fire",
+    "Book 3 (Demon): the Ember Citadel — a tower between realms, half in the human world, half in the demon realm",
+    "Book 4 (Fae): the Court of Thorns — a dark fae palace of living wood, shifting corridors, and dangerous beauty",
+    "Book 5 (Minotaur): the Bone Labyrinth — an ancient underground maze, terrifying and strangely beautiful",
+    "Book 6 (Kraken): the Abyssal Palace — an underwater realm of bioluminescent coral, pressure, and alien beauty"
+]
+atmosphere = "each book has a distinct atmosphere matching the monster species — but all share a sense of otherworldly wonder, danger, and the raw beauty of a world that is not meant for humans"
+
+[prohibited_elements]
+hero_transforms_into_human = true
+non_consensual_intimacy = true
+heroine_with_no_agency = true
+monster_as_metaphor_for_abuser = true
+ambiguous_romantic_resolution = true
+gratuitous_violence_against_heroine = true
+body_shaming_of_the_monster = true
+
+[reader_conversion_optimization]
+kindle_unlimited_optimization = [
+    "immediate monster encounter in chapter 1 — visceral hook",
+    "high spice content with size difference drives page reads",
+    "18 chapters at ~3,333 words for immersive pacing",
+    "each book is satisfying standalone but the world builds across the series",
+    "monster romance is UNDERSERVED on KU — readers are hungry for content"
+]
+series_binge_drivers = [
+    "6 different monster species = 6 completely distinct reading experiences",
+    "the Sundered Lands worldbuilding deepens across the series",
+    "heroines from previous books are referenced — the growing alliance of bonded pairs",
+    "each book promises a new species, new kinks, new world",
+    "readers in this niche are voracious and loyal — they will read everything"
+]

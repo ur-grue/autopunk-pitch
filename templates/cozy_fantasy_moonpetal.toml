@@ -1,0 +1,281 @@
+[metadata]
+name = "Cozy Fantasy"
+description = "Series 20: The Moonpetal Tea Shop -- cozy fantasy set in the small town of Brindlemarsh, where a former adventurer opens a tea shop and discovers that the hardest quest is building a life you actually want to live. Gentle magic, wholesome romance, found family, and no world-ending stakes."
+tone = "warm, gentle, whimsical, emotionally grounding"
+themes = ["rest after striving", "finding home", "community as chosen family", "small acts of courage", "the magic in ordinary things"]
+n_chapters = 18
+chapter_length = 3055
+target_audience = "cozy fantasy readers, Legends & Lattes fans, cozy mystery crossover, comfort readers, BookTok cozy romantasy"
+author_style = "Clementine Wells"
+tropes = ["tea shop in a fantasy town", "wholesome romance", "found family", "gentle magic", "slice-of-life", "no world-ending stakes", "grumpy-sunshine", "retired adventurer", "healing through community", "magical baking/brewing"]
+
+[meta]
+purpose = "Instruction specification for Series 20, 'The Moonpetal Tea Shop' by Clementine Wells. A commercially optimized cozy fantasy series set in Brindlemarsh, a small fantasy town. Six interconnected books, each following the tea shop owner and her growing circle of friends and neighbors through a new seasonal challenge. Low spice (fade-to-black). HEA per book. Comfort-read optimization for KU binge behavior."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define gentle world-building, community dynamics, wholesome romantic architecture, and comfort-read pacing required for maximum reader attachment, cozy immersion, and series binge-read behavior in the emerging cozy fantasy niche."
+
+[series]
+name = "The Moonpetal Tea Shop"
+author = "Clementine Wells"
+book_number = 1
+total_books = 6
+book_title = ""
+shop = "The Moonpetal -- a converted stone cottage on Brindlemarsh's main square, serving enchanted teas, herbal remedies, and baked goods. The tea has mild magical properties (calming, warming, dream-enhancing) depending on the blend."
+shared_locations = ["The Moonpetal (the tea shop -- main counter, cozy tables, a garden terrace, an upstairs apartment)", "Brindlemarsh Square (cobblestoned, fountain in the center, market stalls on weekends)", "The Tanglewood (ancient forest bordering the town, source of magical herbs and occasional minor trouble)", "Hearthstone Bridge (arched stone bridge over the Brindlebrook, the town's unofficial thinking spot)", "Granny Fern's Cottage (the town herbalist, mentor figure, lives at the forest edge)"]
+recurring_characters = ["Juniper Wren -- protagonist, former adventurer, tea shop owner, appears in all books", "Thistle -- a small woodland spirit who adopted the tea shop as his home, comic relief and emotional anchor", "Granny Fern -- elderly halfling herbalist, Juniper's mentor and the town's unofficial wisdom-keeper", "Rowan Duskfield -- the quiet carpenter who maintains the tea shop and whose slow-burn romance with Juniper spans the series"]
+timeline = "Each book covers one season. The series spans 18 months (Book 1: autumn, Book 2: winter, Book 3: spring, Book 4: summer, Book 5: autumn again, Book 6: winter solstice). The passage of seasons drives the shop's menu, the town's festivals, and the emotional arc."
+series_arc = "Juniper Wren left adventuring after a quest that cost her a friend. She came to Brindlemarsh to disappear. Instead, she built a tea shop, a community, and a life. The series traces her journey from someone running away from pain to someone who has built something worth staying for. The overarching thread is gentle: each book introduces a small problem that threatens the town's peace, and each resolution strengthens the community. No villains. No apocalypse. Just life, with magic."
+book_hooks = [
+    "Book 1 (Autumn): Juniper opens the Moonpetal in a skeptical town where the last tea shop failed. She must win over the locals before winter, when no one will try a new shop. The carpenter fixing her leaking roof is infuriatingly helpful.",
+    "Book 2 (Winter): A magical cold snap threatens Brindlemarsh's winter festival and the Tanglewood's rare frost-blooming herbs. Juniper and Rowan must venture into the forest together -- and confront what is growing between them.",
+    "Book 3 (Spring): A rival tea merchant arrives in town with flashier magic and lower prices. Juniper must decide what makes the Moonpetal special -- and accept help from the community she has been holding at arm's length.",
+    "Book 4 (Summer): Juniper's old adventuring companion arrives in Brindlemarsh, bringing news of the friend she lost. The past she ran from catches up, and the community she built holds her steady.",
+    "Book 5 (Autumn): The Tanglewood is changing -- the magical herbs are growing differently, and Granny Fern believes it is a natural cycle that only happens once a century. The town must adapt, and Juniper must step into a role she never wanted: community leader.",
+    "Book 6 (Winter Solstice): The Moonpetal's first anniversary. A gentle crisis brings the entire town together for one perfect winter night. Juniper and Rowan's romance reaches its fullest expression. The found family is complete."
+]
+
+[target_audience]
+primary_gender = "female (80%), male (20%)"
+age_range = "25-55"
+psychographic_profile = [
+    "seeks comfort reads as emotional regulation -- reads cozy fantasy to decompress",
+    "values gentleness and kindness in fiction as a counterpoint to stressful reality",
+    "responds to detailed descriptions of food, drink, and domestic spaces",
+    "enjoys low-stakes problems solved through community effort and personal growth",
+    "crossover audience with cozy mystery, cottagecore aesthetic, and Stardew Valley fans",
+    "prefers wholesome romance -- the anticipation matters more than explicit content",
+    "active on BookTok cozy fantasy hashtags, Bookstagram, and cozy reading communities",
+    "will reread comfort books seasonally and collect the series"
+]
+reader_comfort_drivers = [
+    "the fantasy of leaving a stressful life to open a small shop in a magical town",
+    "being surrounded by kind, quirky people who become family",
+    "the sensory pleasure of tea, baked goods, and a warm fire",
+    "a romance that builds slowly and safely, where both people are gentle with each other",
+    "seasonal rhythms that make the world feel alive and cyclical",
+    "the assurance that nothing terrible will happen -- comfort without anxiety"
+]
+
+[genre]
+primary = "cozy fantasy"
+secondary = ["cozy romantasy", "slice-of-life fantasy", "comfort fantasy", "cottagecore fiction", "wholesome fantasy romance"]
+genre_requirements = [
+    "stakes must be personal and local -- no world-ending threats",
+    "violence is absent or minimal and off-page",
+    "the tone must remain warm and gentle throughout -- even conflicts are handled with kindness",
+    "food, drink, and domestic spaces must be described with sensory richness",
+    "magic must feel natural, integrated, and non-threatening",
+    "the community must feel like a place the reader wants to live in",
+    "romance must be wholesome and slow-burn -- fade-to-black for intimate scenes"
+]
+
+[world_building]
+magic_system = [
+    "magic is ambient and botanical -- it grows in plants, flows in water, and responds to intention",
+    "enchanted tea is the most common magical craft -- different herbs produce different mild effects (calm, warmth, clarity, pleasant dreams, mild pain relief)",
+    "magic cannot heal serious injury or illness -- it soothes, comforts, and enhances, but does not cure",
+    "the Tanglewood forest is the primary source of magical herbs -- it has moods and seasons of its own",
+    "some individuals have a stronger affinity for botanical magic (Juniper, Granny Fern)",
+    "magic is not dramatic or flashy -- a cup of moonpetal tea glows faintly silver, a calming blend smells like rain",
+    "no combat magic exists in this world -- magic is for nurturing, not fighting"
+]
+fantasy_town = [
+    "Brindlemarsh -- a town of approximately 800 residents (humans, halflings, a few elves, and one retired dwarf smith)",
+    "built along the Brindlebrook, a clear stream that flows from the Tanglewood",
+    "stone and timber buildings with moss-covered roofs, window boxes full of herbs",
+    "the town square hosts a weekend market, seasonal festivals, and the annual Solstice Faire",
+    "no mayor -- governance by Town Council of elected elders, meetings held at the pub",
+    "the economy runs on farming, forestry, herbalism, and craft trades",
+    "the nearest city is three days by cart -- Brindlemarsh is comfortably isolated"
+]
+non_human_races = [
+    "halflings -- shorter, rounder, excellent cooks and gardeners, make up about 20% of Brindlemarsh's population",
+    "elves -- taller, longer-lived, three elven families live in Brindlemarsh, tend to be the town's historians and teachers",
+    "dwarves -- one retired dwarf smith (Brom Ironkettle) runs the town's forge and is the unofficial fix-it expert",
+    "woodland spirits -- small, semi-corporeal beings that live in the Tanglewood and occasionally wander into town (Thistle is one)",
+    "race is unremarkable in Brindlemarsh -- no tension, no prejudice, just neighbors"
+]
+
+[community_design]
+shop_regulars = [
+    "Mabel Thornberry -- human, elderly, the town gossip, sits at the same table every morning, orders chamomile with extra honey, knows everyone's business and shares it freely",
+    "Pim and Pippa Meadowbrook -- halfling twins, run the bakery next door, supply the Moonpetal with pastries, relentlessly cheerful",
+    "Sage Larkhollow -- elf, the schoolteacher, comes in after classes, orders anything with mint, reads at the window table",
+    "Brom Ironkettle -- dwarf, retired smith, enormous hands, surprisingly delicate with teacups, tells stories of his youth to anyone who sits with him",
+    "Thistle -- woodland spirit, the size of a squirrel, lives in the tea shop's herb garden, steals sugar cubes, communicates through gestures and glowing"
+]
+found_family_arc = [
+    "Book 1: Juniper is a stranger. The regulars are polite but distant. She earns their trust through consistency and good tea.",
+    "Book 2: The regulars become allies during the winter crisis. Juniper accepts help for the first time.",
+    "Book 3: The community rallies around the Moonpetal when it is threatened. Juniper realizes she has built something that matters to others.",
+    "Book 4: The community holds Juniper up when her past arrives. She lets them see her pain.",
+    "Book 5: Juniper steps into leadership naturally, and the community follows because they trust her.",
+    "Book 6: The found family is complete. The final scene is everyone together in the Moonpetal on the longest night of the year."
+]
+
+[romantic_dynamic]
+core_dynamic = "gentle_slow_burn"
+dynamic_definition = [
+    "Rowan is quiet, steady, and present -- he shows love through acts of service (fixing, building, carrying)",
+    "Juniper is warm but guarded -- she cares for everyone but struggles to let anyone care for her",
+    "the romance builds through proximity, small gestures, and shared silences",
+    "there is no grand obstacle -- just two people learning to trust at their own pace",
+    "the community notices the romance before either of them admits it"
+]
+romantic_progression = [
+    "Book 1: Rowan fixes the shop. They are cordial. He stays for tea. She pretends not to notice his kindness.",
+    "Book 2: The winter quest forces them together. A near-miss moment (almost-kiss, interrupted). She realizes she cares.",
+    "Book 3: Jealousy (mild, wholesome) when the rival tea merchant flirts with Juniper. Rowan's quiet steadiness becomes her anchor.",
+    "Book 4: Juniper's vulnerability about her past. Rowan holds her (literally). First kiss.",
+    "Book 5: They are together but navigating what that means. Domestic intimacy. He builds her a reading nook.",
+    "Book 6: Full HEA. He proposes with a carved wooden teacup. The whole town celebrates."
+]
+power_dynamic_calibration = [
+    "perfectly equal -- neither leads, neither follows",
+    "Rowan's physical strength is never used to dominate -- he builds, he carries, he holds",
+    "Juniper's adventuring past means she is the more physically capable of the two -- she protects him once and it is wonderful",
+    "emotional vulnerability is mutual and gradual",
+    "the romance must feel earned through six books of patient development"
+]
+
+[protagonist_design]
+protagonist_name = "Juniper Wren"
+protagonist_background = "Former adventurer (ranger/herbalist). Left her adventuring party after a quest that cost her closest friend's life. Came to Brindlemarsh to start over. Channels her skills into tea-making and herbalism."
+required_psychological_traits = [
+    "warm and generous with others but struggles to accept generosity directed at herself",
+    "competent and resourceful -- her adventuring skills translate into practical problem-solving",
+    "carries quiet grief that surfaces in still moments",
+    "grows from isolation to connection across the series",
+    "possesses a dry, gentle humor",
+    "loves deeply but slowly -- trust is earned, not given"
+]
+reader_identification_requirement = "reader must feel Juniper's journey from exhaustion to peace -- the cozy fantasy is the reader's rest too"
+
+[emotional_design]
+primary_emotional_drivers = [
+    "comfort -- the warmth of tea, fire, and company",
+    "belonging -- being accepted by a community without having to prove yourself",
+    "healing -- grief softening into gratitude over time",
+    "gentle romance -- the slow, safe accumulation of love",
+    "seasonal beauty -- the sensory pleasure of each season in a magical world",
+    "humor -- warm, character-driven comedy from the town's personalities"
+]
+emotional_progression_model = [
+    "arrival and uncertainty (can I build a life here?)",
+    "small victories (the first regular customer, the first successful tea)",
+    "growing connections (the regulars become friends)",
+    "vulnerability (letting people see the real her)",
+    "belonging (this is home now)",
+    "contentment (this is enough, and enough is everything)"
+]
+attachment_mechanisms = [
+    "Rowan leaving a repaired item without mentioning it",
+    "Thistle bringing Juniper a wildflower and placing it on the counter",
+    "Mabel Thornberry defending Juniper to a skeptic without being asked",
+    "the smell of tea and rain described so vividly the reader can taste it",
+    "Juniper naming a new tea blend after a regular and watching them tear up",
+    "the whole town showing up for the Moonpetal's first anniversary"
+]
+
+[sensuality_calibration]
+intensity = "clean to low spice -- fade-to-black for any intimate scenes, emphasis on emotional intimacy, hand-holding and forehead kisses carry enormous weight, the first kiss should feel like a culmination"
+sensual_expression_methods = [
+    "the brush of hands while passing a teacup",
+    "standing close enough to feel warmth but not touching",
+    "his hand on the small of her back, guiding her through a crowd",
+    "the moment before a kiss -- the held breath, the eye contact",
+    "waking up next to someone for the first time (implied, not shown)",
+    "the intimacy of making someone tea exactly the way they like it"
+]
+sensuality_function = "romantic moments must feel earned by five books of patience -- the restraint is the point"
+
+[pacing]
+structure_priority = "seasonal rhythm and emotional accumulation"
+chapter_count = 18
+chapter_length_words = 3055
+tension_maintenance_protocol = [
+    "stakes are personal and local -- never existential",
+    "each chapter should contain at least one sensory-rich comfort scene (tea, food, weather, the shop)",
+    "conflict should arrive gently and resolve through community effort",
+    "the romantic subplot must advance at least slightly every 2-3 chapters",
+    "town festival or community event at least once per book as an emotional set-piece",
+    "seasonal changes must be felt in the prose -- the world should shift with the calendar",
+    "each chapter should end on a note of warmth, curiosity, or gentle anticipation"
+]
+reader_retention_mechanisms = [
+    "the reader wants to return to Brindlemarsh -- the setting is the primary retention tool",
+    "investment in the community characters and their small stories",
+    "the slow-burn romance -- the reader is desperate for the next small step",
+    "seasonal anticipation -- the reader wants to experience the next season in the town",
+    "comfort-read rereadability -- the books should feel good on the second and third reading"
+]
+
+[conflict_design]
+conflict_types = [
+    "personal: Juniper's grief and reluctance to put down roots",
+    "professional: making the tea shop financially viable in a small town",
+    "social: earning trust as an outsider in a close-knit community",
+    "natural: seasonal challenges (cold snap, drought, magical herb scarcity)",
+    "interpersonal: minor disagreements resolved through conversation and empathy",
+    "past: Juniper's adventuring history catching up in non-threatening ways"
+]
+conflict_resolution_requirement = "all conflicts must resolve through kindness, communication, and community effort -- never through violence or manipulation"
+
+[ending_requirements]
+ending_type = "HEA per book, series HEA in Book 6"
+hea_definition = [
+    "Juniper is at peace -- genuinely happy, not just less sad",
+    "the Moonpetal is thriving",
+    "the romance has reached a stage of comfortable, certain love",
+    "the found family is intact and growing",
+    "the reader feels warm and reluctant to leave Brindlemarsh"
+]
+emotional_resolution_requirements = [
+    "each book must end with a scene of communal warmth -- people together, sharing food or tea",
+    "the romantic subplot must take a clear step forward in each book's resolution",
+    "Juniper must demonstrate growth from isolation toward connection",
+    "epilogues should be short, warm, and seasonal -- a glimpse of the next season beginning",
+    "Book 6 epilogue: Juniper and Rowan in the Moonpetal on winter solstice night, the shop full of everyone they love, snow falling outside, tea steaming, Thistle asleep on the mantel"
+]
+
+[setting]
+town = "Brindlemarsh -- a small fantasy town of approximately 800 residents, nestled between the Tanglewood forest and rolling farmland"
+environment = [
+    "stone and timber buildings with moss and ivy, window boxes overflowing with herbs and flowers",
+    "cobblestone streets that are uneven and charming, not hazardous",
+    "the Brindlebrook running through town -- clear water, smooth stones, willows on the banks",
+    "the Tanglewood forest -- ancient, magical, not threatening, full of birdsong and dappled light",
+    "seasonal weather rendered with sensory precision -- the smell of autumn leaves, the crunch of frost, the warmth of spring rain"
+]
+key_locations = [
+    "The Moonpetal Tea Shop -- stone cottage, blue-painted door, a bell that chimes when you enter, mismatched chairs, a fireplace, shelves of tea canisters, the smell of bergamot and honey",
+    "Brindlemarsh Square -- cobblestoned, a mossy fountain in the center, market stalls on weekends, benches under old oak trees",
+    "The Tanglewood -- the forest, ancient and gentle, paths marked with stone cairns, magical herbs growing in clearings",
+    "Hearthstone Bridge -- arched stone over the Brindlebrook, the town's unofficial thinking spot and confession spot",
+    "Pim and Pippa's Bakery -- next door to the Moonpetal, perpetually warm, smells of bread and cinnamon",
+    "Granny Fern's Cottage -- at the forest edge, overgrown garden, every surface covered in dried herbs, a cat on every chair"
+]
+atmosphere = "the literary equivalent of a warm cup of tea on a rainy afternoon -- the reader should feel held, safe, and gently delighted by the world"
+
+[prohibited_elements]
+graphic_violence = true
+character_death_of_named_characters = true
+betrayal_within_the_found_family = true
+cynicism_or_nihilism = true
+ambiguous_romantic_resolution = true
+world_ending_stakes = true
+cruelty_framed_as_humor = true
+grimdark_elements = true
+
+[required_reader_effect]
+psychological_outcomes = [
+    "the reader feels physically calmer after reading -- this is a comfort book",
+    "deep attachment to Brindlemarsh as a place they wish they could visit",
+    "emotional investment in Juniper and Rowan's slow-burn romance",
+    "affection for the community characters -- the reader has favorites",
+    "desire to reread the series seasonally",
+    "the warm certainty that everything will be okay"
+]

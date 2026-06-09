@@ -1,0 +1,183 @@
+[metadata]
+name = "LitRPG / Progression Fantasy"
+description = "Book in the Ascendant: The Infinite Tower series -- a young man enters a mysterious tower that appeared on Earth, where each floor is a deadly dungeon governed by game-like rules. Levels, loot, stat screens, and an escalating power fantasy as he climbs higher than anyone believed possible."
+tone = "visceral, strategic, awe-inspiring, darkly humorous, relentlessly escalating"
+themes = ["mastery through suffering", "the cost of power", "outsmarting systems designed to kill you", "loyalty forged in lethal conditions", "what you become when limits are removed"]
+n_chapters = 25
+chapter_length = 3600
+target_audience = "men 18-40, LitRPG and progression fantasy readers, dungeon crawler fans, Royal Road migrants"
+author_style = "Marcus Vane"
+tropes = ["dungeon climbing", "level-up system", "stat screens", "base building", "tournament arcs", "underdog progression"]
+
+[meta]
+purpose = "Series template for Ascendant: The Infinite Tower -- a 10-book LitRPG progression fantasy series by Marcus Vane. A seemingly infinite tower appeared on Earth. Those who enter gain access to a System: levels, stats, skills, and loot. Each floor is a self-contained dungeon with escalating difficulty. The protagonist climbs from nobody to legend. Optimized for Kindle Unlimited page reads from the most voracious reader demographic in all of KU."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define progression system, world mechanics, power fantasy escalation, and narrative structure required to hook LitRPG readers and sustain engagement across a 10-book, 900,000-word series."
+
+[series]
+name = "Ascendant: The Infinite Tower"
+author = "Marcus Vane"
+total_books = 10
+format = "continuous series -- each book covers a range of tower floors with escalating stakes"
+series_arc = "Books 1-3: the protagonist climbs from a terrified newcomer to a recognized Floor Breaker. Books 4-6: faction warfare, base building, and the revelation that the Tower is not what it seems. Books 7-9: the upper floors where reality bends and the System itself becomes an adversary. Book 10: the summit and the truth behind the Tower."
+book_format = "Each book covers 10-20 floors of the Tower. Every book must end with a significant power-up, revelation, or status change that makes the reader immediately want the next volume."
+cliffhanger_policy = "Books may end on revelations or new threats but must resolve the current floor/arc. No mid-battle cliffhangers. The reader must feel satisfied AND desperate for more."
+
+[target_audience]
+primary_gender = "male"
+age_range = "18-40"
+psychographic_profile = [
+    "reads 5-10 LitRPG books per month on Kindle Unlimited",
+    "obsessed with progression systems, stats, and optimization",
+    "wants to feel the protagonist earn every level through cleverness and grit",
+    "appreciates tactical combat that rewards smart play over raw power",
+    "craves the dopamine hit of level-ups, rare loot drops, and skill unlocks",
+    "wants a protagonist who outthinks opponents, not just outpowers them",
+    "tolerates slow starts if the progression system is clearly established early",
+    "will abandon a series instantly if progression stalls or feels unearned"
+]
+reader_fantasy_drivers = [
+    "becoming impossibly powerful through skill, strategy, and determination",
+    "discovering hidden mechanics that others miss and exploiting them ruthlessly",
+    "building something permanent (a base, a guild, a reputation) in a hostile world",
+    "earning respect from powerful beings who initially dismissed you",
+    "mastering a system so thoroughly that you transcend its intended limits",
+    "the satisfaction of seeing stat numbers climb and skills evolve"
+]
+
+[genre]
+primary = "LitRPG"
+secondary = ["progression fantasy", "dungeon crawler", "tower climbing", "GameLit", "portal fantasy"]
+genre_requirements = [
+    "a clearly defined and internally consistent game System with stats, levels, skills, and loot",
+    "stat screens must appear on the page in formatted blocks -- readers expect to see the numbers",
+    "progression must be visible and measurable -- the reader should always know how powerful the MC is",
+    "combat must be tactical and strategic, not just described -- the reader should understand WHY a move works",
+    "each floor or dungeon must introduce new mechanics that force adaptation",
+    "power creep must be managed -- new threats must scale with MC growth to maintain tension"
+]
+
+[progression_system]
+system_name = "The Tower System"
+stat_categories = ["Strength", "Agility", "Endurance", "Intelligence", "Perception", "Willpower"]
+stat_display_format = "formatted text blocks showing current stats, changes, and comparisons -- must appear after every significant level-up or item acquisition"
+level_cap_per_book = "approximately 10-15 levels per book, starting from Level 1 in Book 1"
+skill_system = "skill trees unlocked by class selection, rare drops, and floor-specific challenges. Skills evolve through use and can be combined for synergy effects."
+class_system = "initial class selection at Floor 5 based on combat style. Advanced classes unlock at Floor 25, 50, and 100. Class evolution is a major progression milestone."
+loot_system = "tiered loot (Common, Uncommon, Rare, Epic, Legendary, Mythic). Each floor's boss drops guaranteed Rare+ loot. Set bonuses and item synergies reward strategic gear choices."
+currency = "Tower Credits -- earned from kills and floor completion. Spent at rest-floor merchants for consumables, crafting materials, and information."
+progression_pacing = [
+    "Book 1: Levels 1-12. Establishing the system, first class selection, first real threat.",
+    "Books 2-3: Levels 12-30. Advanced skills, party dynamics, first dungeon that requires strategy over power.",
+    "Books 4-6: Levels 30-55. Base building, faction warfare, class evolution, the Tower's true nature begins to surface.",
+    "Books 7-9: Levels 55-85. Reality-bending floors, System anomalies, confronting entities that built the Tower.",
+    "Book 10: Levels 85-100. The summit. The System becomes both weapon and antagonist."
+]
+progression_feel = "every level must FEEL significant. Not just +1 to stats but unlocking new capabilities that change how the MC approaches problems. The reader should feel the MC's growing power viscerally."
+
+[world_building]
+tower_structure = "An impossibly tall black spire that appeared simultaneously in every major city on Earth. Anyone can enter. The interior is a separate dimension -- each floor is a self-contained world with its own biome, monsters, and mechanics."
+floor_design_principles = [
+    "each floor must have a unique environmental challenge (not just harder monsters)",
+    "floor mechanics should force the MC to use different skills and strategies",
+    "rest floors every 5-10 floors provide merchants, safe zones, and social interaction",
+    "boss floors require party coordination or extreme solo skill",
+    "secret floors and hidden paths reward exploration and lateral thinking"
+]
+factions = [
+    "Climber Guilds -- organized groups that control rest floors and trade routes within the Tower",
+    "The Gatekeepers -- an elite guild that controls information about upper floors and sells access",
+    "Solo Climbers -- independent operators; respected but vulnerable",
+    "Floor Natives -- sentient beings who exist within the Tower and have their own agendas",
+    "The Architects -- mysterious entities hinted to have built the Tower, appearing in late-series reveals"
+]
+magic_system = "skill-based, not mana-based. Skills have cooldowns and resource costs (Stamina, Focus, or Health). High-level skills can reshape terrain, manipulate time locally, or affect probability."
+technology_level = "Earth-modern outside the Tower. Inside the Tower, technology does not function -- only System-granted items and skills work."
+social_structure = "Climbers are celebrities and mercenaries outside the Tower. Inside, reputation and floor-rank determine social hierarchy. Reaching certain floors grants real-world political influence."
+
+[power_fantasy]
+wish_fulfillment_design = [
+    "MC starts weak but identifies system exploits early -- the reader feels clever alongside him",
+    "each victory should feel earned through preparation and intelligence, not luck or deus ex machina",
+    "NPCs and rivals must acknowledge MC's growth with genuine surprise or respect",
+    "the gap between MC and ordinary people should widen visibly across the series",
+    "rare achievements and unique titles mark the MC as exceptional within the system",
+    "by mid-series, MC should be building something (a base, a guild, a legacy) that gives him agency beyond personal power"
+]
+competence_porn_requirements = [
+    "MC must demonstrate deep understanding of game mechanics that the reader can follow",
+    "strategic planning scenes where MC identifies weaknesses and prepares accordingly",
+    "moments where MC uses low-level skills in creative ways that outperform brute force",
+    "the reader should be able to predict some MC strategies and feel validated when they work",
+    "MC must occasionally fail and learn -- growth through setback, not just through grinding"
+]
+power_scaling = "logarithmic within books (fast early gains, harder later gains) but each book should end with a breakthrough that resets the excitement. The reader must never feel like the MC has plateaued."
+
+[pacing]
+structure_priority = "progression milestones and dungeon floor structure"
+chapter_count = 25
+chapter_length_words = 3600
+tension_maintenance_protocol = [
+    "each chapter must end with a hook -- a new threat, a system notification, a loot reveal, or a cliffhanger",
+    "combat chapters should alternate with strategy, social, and exploration chapters",
+    "stat screens and level-ups should be distributed to create regular dopamine hits (every 2-3 chapters minimum)",
+    "floor boss encounters are set-piece chapters with higher word counts and maximum tension",
+    "quiet moments (rest floors, base building, party interaction) should build character and set up future arcs"
+]
+reader_retention_mechanisms = [
+    "the next floor always promises something new and dangerous",
+    "unresolved mysteries about the Tower's origin and purpose",
+    "rival climbers and faction politics creating interpersonal tension",
+    "skill evolution teasers -- the reader should always know what the MC is working toward",
+    "end-of-book power-ups that make the reader immediately want to see them deployed"
+]
+
+[conflict_design]
+conflict_types = [
+    "environmental -- each floor has unique deadly mechanics that must be solved",
+    "combat -- monsters, bosses, and rival climbers with different abilities",
+    "political -- guild warfare, resource control, information monopolies",
+    "personal -- what the MC sacrifices (relationships, humanity, morality) for power",
+    "systemic -- the Tower's System has its own agenda, and it does not align with the MC's",
+    "existential -- later books: what IS the Tower, and what happens if someone reaches the top?"
+]
+conflict_resolution_requirement = "conflicts must be resolved through strategy, preparation, and earned power -- never through convenient power-ups or sudden allies"
+
+[ending_requirements]
+ending_type = "triumphant progression milestone"
+book_ending_requirements = [
+    "each book must end with the MC reaching a new floor milestone or power threshold",
+    "a revelation or twist that recontextualizes the Tower or the System",
+    "the MC must be measurably more powerful than at the book's start -- show the stats",
+    "a hook for the next book that raises the stakes and promises new challenges",
+    "the reader must close the book feeling satisfied by the progress AND hungry for more"
+]
+series_ending_requirements = [
+    "Book 10 must answer the central mystery: what is the Tower and who built it",
+    "the MC must face a choice that tests everything he has become",
+    "the ending must honor the 900,000 words of progression with a payoff proportional to the investment",
+    "power fantasy must be fulfilled -- the MC's final form should awe the reader"
+]
+
+[setting]
+earth_setting = "near-future Earth altered by the Tower's arrival. Major cities have Tower Zones with their own economies and cultures."
+tower_interior = "each floor is a self-contained world -- forests, deserts, underwater caverns, gravity-defying architecture, pocket dimensions"
+key_locations = [
+    "Floor 1: The Proving Grounds -- a grey stone labyrinth with basic monsters, designed to kill the unprepared",
+    "Rest Floor 5: The Crossroads -- the first safe zone, a bustling market town inside the Tower",
+    "the MC's eventual base of operations (established mid-series, location earned through conquest)",
+    "the Gatekeeper Citadel -- a rest floor controlled by the most powerful guild, information is currency",
+    "the Upper Reaches (Floor 50+) -- where the Tower stops pretending to be a game and becomes something stranger"
+]
+atmosphere = "the Tower is beautiful and terrifying in equal measure. Each floor should feel like stepping into an alien world. The contrast between the Tower's deadly beauty and Earth's mundane familiarity should sharpen across the series."
+
+[prohibited_elements]
+deus_ex_machina_power_ups = true
+progression_without_effort = true
+harem_romance_as_subplot = true
+stat_screens_without_narrative_context = true
+generic_medieval_fantasy_floors = true
+the_mc_is_secretly_special_from_birth = true

@@ -59,19 +59,22 @@ COMBINED="$NOVEL_DIR/complete_novel.md"
     CH_NUM=0
     for chapter in "${CHAPTERS[@]}"; do
         CH_NUM=$((CH_NUM + 1))
+
+        # Page break BEFORE each chapter title (critical for KDP)
         echo ""
+        echo "\\newpage"
+        echo ""
+
         # Extract chapter title if first line is a heading, otherwise use default
         FIRST_LINE=$(head -1 "$chapter")
         if [[ "$FIRST_LINE" == \#* ]]; then
-            # Use existing heading
+            # Use existing heading (promote to H2 if not already for KDP TOC)
             cat "$chapter"
         else
             echo "## Chapter $CH_NUM"
             echo ""
             cat "$chapter"
         fi
-        echo ""
-        echo "\\newpage"
         echo ""
 
         # Count words

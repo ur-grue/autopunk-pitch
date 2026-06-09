@@ -1,0 +1,203 @@
+[metadata]
+name = "Cozy Mystery"
+description = "Series 11: Murder at Moonlight Cove — a retired librarian turns amateur sleuth in a charming coastal Maine town, solving book-themed murders with her imperious cat sidekick."
+tone = "warm, witty, gently suspenseful, cozy"
+themes = ["community", "justice", "friendship", "second acts", "the healing power of books"]
+n_chapters = 18
+chapter_length = 2778
+target_audience = "women 35-65+, cozy mystery binge readers, cat lovers, book lovers"
+author_style = "Clementine Wells"
+tropes = ["amateur sleuth", "small coastal town", "animal sidekick", "book-themed mysteries", "quirky ensemble cast", "no graphic violence"]
+
+[meta]
+purpose = "Series specification for 'Murder at Moonlight Cove' by Clementine Wells. A commercially optimized cozy mystery series featuring a retired librarian sleuth, her imperious Maine Coon cat, and a cast of eccentric coastal townsfolk. Each book features a murder connected to a classic literary work. 15 books planned. Clean — no graphic violence, no explicit content, no profanity."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define mystery structure, community dynamics, sleuth characterization, and cozy tone required for maximum series binge-read behavior and reader loyalty on Kindle Unlimited."
+
+[series]
+name = "Murder at Moonlight Cove"
+author = "Clementine Wells"
+book_number = 1
+total_books = 15
+series_format = "same-sleuth sequential series — each book is a standalone mystery but character arcs and relationships develop across the series"
+shared_locations = ["Moonlight Cove (fictional coastal town, midcoast Maine)", "The Bindery (protagonist's used bookshop and cafe)", "the harbor boardwalk", "Cove Library (her former workplace)", "the lighthouse on Gull Point", "Tide & Thyme (the town diner)"]
+recurring_characters = [
+    "Margot Thorne — protagonist, retired head librarian, 58, sharp-witted, warm but stubborn",
+    "Inspector — Margot's imperious silver Maine Coon cat, 14 lbs, judges everyone",
+    "Chief Dale Kowalski — local police chief, 50s, gruff but secretly respects Margot",
+    "Fiona Chen — Margot's best friend, owns the flower shop, gossip network hub",
+    "Henry Blackwood — retired English professor, widower, Margot's slow-burn romantic interest",
+    "Nessa Thorne — Margot's adult daughter, visits occasionally, worries about her mother's hobby"
+]
+timeline = "each book covers approximately 1-2 weeks of investigation"
+book_theme_hook = "Each mystery is thematically connected to a classic work of literature — the murder method, motive, or setting echoes the book. Margot's literary knowledge is her investigative edge."
+
+[sleuth_design]
+name = "Margot Thorne"
+age = 58
+profession = "retired head librarian, now owns The Bindery (used bookshop and cafe)"
+investigative_edge = "encyclopedic literary knowledge — she recognizes patterns from fiction playing out in real life"
+personality = ["sharp-witted", "warm but firm", "stubborn when she believes she's right", "quietly brave", "dry humor", "deeply empathetic", "fiercely loyal to her community"]
+flaw = "cannot leave a mystery unsolved even when it puts her in danger — her intellectual curiosity overrides her common sense"
+cat_sidekick = "Inspector — a massive silver Maine Coon who accompanies Margot everywhere, knocks things off tables at plot-critical moments, and stares at suspicious characters"
+cat_role = "comic relief, emotional anchor, occasionally draws attention to clues by sitting on evidence or hissing at the guilty party"
+romantic_subplot = "very slow burn across the series with Henry Blackwood — gentle flirtation, shared love of literature, increasing emotional intimacy book by book"
+
+[mystery_design]
+mystery_structure = "classic fair-play whodunit — all clues are available to the reader before the reveal"
+victim_guidelines = [
+    "victim is always someone with secrets",
+    "victim must be connected to the community (not a random stranger)",
+    "reader should feel ambivalent about the victim — sympathetic enough to want justice, flawed enough that many had motive"
+]
+suspect_count = "4-6 viable suspects per book"
+red_herrings_per_book = 3
+clue_distribution = [
+    "plant 5-7 genuine clues across chapters 3-15",
+    "each clue must be observable to the reader",
+    "at least one clue must be literary in nature (connected to the book-theme)",
+    "Inspector the cat must interact with at least one key clue"
+]
+reveal_structure = "Margot gathers suspects or confronts the killer in the penultimate chapter. Final chapter is denouement — community healing, a cozy scene at The Bindery."
+violence_level = "off-page — murder is discovered after the fact. No graphic descriptions of violence, blood, or suffering."
+murder_methods = "non-graphic — poison, staged accidents, drowning, suffocation. No guns, no gore."
+
+[community_design]
+town_name = "Moonlight Cove"
+town_location = "midcoast Maine, fictional — between Camden and Rockland"
+town_population = "approximately 3,200"
+town_personality = "charming but not saccharine — real people with real problems, connected by geography and habit"
+community_role = "the town itself is a character — seasonal rhythms (lobster season, tourist season, nor'easters), local traditions, and community events drive subplot and atmosphere"
+ensemble_requirements = [
+    "each book introduces 2-3 new characters connected to the mystery",
+    "recurring cast deepens across the series",
+    "town gossip network is a legitimate investigative tool",
+    "community events (book fairs, harvest festivals, lighthouse tours) serve as settings for key scenes",
+    "the community's reaction to murder — shock, suspicion, solidarity — is part of every book's emotional texture"
+]
+cozy_elements = [
+    "recipes or book recommendations woven naturally into scenes",
+    "descriptions of food, tea, and baked goods at The Bindery",
+    "seasonal atmosphere (fog, autumn leaves, snow, summer tourists)",
+    "the comfort of routine disrupted by murder and restored by justice"
+]
+
+[target_audience]
+primary_gender = "female"
+age_range = "35-65+"
+psychographic_profile = [
+    "voracious series reader — will binge 10+ books in a series",
+    "values warmth, wit, and community in fiction",
+    "enjoys puzzling out the mystery alongside the sleuth",
+    "cat lover or animal lover",
+    "book lover — appreciates literary references",
+    "seeks comfort reading with just enough suspense to turn pages",
+    "prefers clean content — no explicit violence, sex, or profanity",
+    "loyal to authors and series — reads everything in order"
+]
+reader_fantasy_drivers = [
+    "living in a charming coastal town",
+    "owning a cozy bookshop",
+    "being the smartest person in the room",
+    "having a close-knit community of friends",
+    "the satisfaction of justice served",
+    "a life filled with books, tea, and a magnificent cat"
+]
+
+[genre]
+primary = "cozy mystery"
+secondary = ["amateur sleuth mystery", "small town mystery", "bookshop mystery", "cat mystery", "literary mystery"]
+genre_requirements = [
+    "mystery must be the primary narrative driver",
+    "no graphic violence, explicit sex, or strong profanity",
+    "amateur sleuth — protagonist is not law enforcement",
+    "justice is always served by the end of the book",
+    "humor and warmth balance the suspense",
+    "community and relationships are as important as the whodunit"
+]
+
+[pacing]
+structure_priority = "mystery progression with cozy interludes"
+chapter_count = 18
+chapter_length_words = 2778
+total_target_words = 50000
+tension_maintenance_protocol = [
+    "body discovered by end of chapter 2",
+    "first red herring by chapter 4",
+    "midpoint complication — a second crime or new suspect emerges around chapter 9",
+    "protagonist placed in mild danger around chapter 14-15",
+    "reveal in chapter 17, denouement in chapter 18"
+]
+reader_retention_mechanisms = [
+    "chapter-ending hooks — new clue, suspicious behavior, or small revelation",
+    "escalating stakes within cozy bounds (reputational danger, emotional betrayal, mild physical threat)",
+    "interleave investigation scenes with community/relationship scenes for pacing variety",
+    "the literary theme connection should deepen as the mystery unfolds"
+]
+
+[conflict_design]
+conflict_types = [
+    "the central murder mystery — who did it and why",
+    "Chief Kowalski's resistance to Margot's involvement",
+    "personal connections to suspects creating emotional conflict",
+    "the killer's attempts to deflect suspicion or warn Margot off",
+    "Margot's stubbornness putting strain on her relationships",
+    "small-town politics and old grudges surfacing during the investigation"
+]
+conflict_resolution_requirement = "the mystery must be solved definitively. The guilty party must be identified and face consequences. The community must begin to heal."
+
+[ending_requirements]
+ending_type = "justice served, community restored"
+resolution_requirements = [
+    "the murderer is identified through Margot's deduction",
+    "all planted clues are explained in the reveal",
+    "the literary theme connection is made explicit",
+    "the community begins healing — a warm final scene at The Bindery",
+    "Inspector the cat does something endearing in the final pages",
+    "a subtle hook for the next book — a new arrival, a letter, a comment that hints at future trouble"
+]
+
+[setting]
+region = "midcoast Maine"
+town = "Moonlight Cove (fictional)"
+season = "varies by book — each book set in a different season for variety"
+key_locations = [
+    "The Bindery — Margot's used bookshop and cafe on Main Street, creaky floors, ceiling-high shelves, a fireplace, the scent of old paper and fresh scones",
+    "Moonlight Cove Harbor — lobster boats, the boardwalk, fog rolling in off the Atlantic",
+    "Cove Library — Margot's former workplace, now run by her protege",
+    "Gull Point Lighthouse — dramatic cliffside setting, popular for pivotal scenes",
+    "Tide & Thyme — the town diner where everyone gathers and gossips",
+    "Henry's cottage — book-lined study overlooking the cove, site of literary discussions and quiet chemistry",
+    "the town green — location of seasonal festivals and community events"
+]
+atmosphere = "fog, salt air, clapboard buildings, lobster buoys, the sound of harbor bells — cozy New England charm with an undercurrent of secrets"
+
+[prohibited_elements]
+graphic_violence = true
+explicit_sexual_content = true
+strong_profanity = true
+child_victims = true
+animal_harm = true
+nihilistic_ending = true
+unresolved_mystery = true
+protagonist_as_killer = true
+
+[reader_conversion_optimization]
+kindle_unlimited_optimization = [
+    "fast hook — body discovered by end of chapter 2",
+    "short chapters for fast page-turn pace",
+    "series hook in final chapter to drive read-through to next book",
+    "18 chapters at ~2,778 words for consistent pacing",
+    "each book is standalone-satisfying but rewards series reading"
+]
+series_binge_drivers = [
+    "recurring cast that readers grow attached to",
+    "slow-burn romantic subplot that develops across books",
+    "Inspector the cat's ongoing personality and antics",
+    "the literary theme hook gives each book a unique identity",
+    "community events and seasonal changes mark the passage of time",
+    "Margot's relationships deepen — readers feel like part of the town"
+]

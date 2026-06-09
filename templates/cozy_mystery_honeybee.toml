@@ -1,0 +1,225 @@
+[metadata]
+name = "Cozy Mystery"
+description = "Book in The Honeybee Bakery Mysteries series -- Clover Honeyfield, a former pastry chef who left Chicago to take over her late grandmother's bakery in Magnolia Creek, Georgia, keeps stumbling over dead bodies between batches of honey lavender scones. Each book features a new murder, a new recipe collection, and the deepening bonds of a small-town cast."
+tone = "warm, witty, gently suspenseful, cozy with a sharp observational edge"
+themes = ["community as family", "starting over", "finding home", "justice rooted in compassion", "the comfort of routine in an uncertain world"]
+n_chapters = 18
+chapter_length = 2800
+target_audience = "women 35-65+, cozy mystery binge readers, baking enthusiasts, small-town fiction fans"
+author_style = "Clementine Wells"
+tropes = ["amateur sleuth baker", "small town with secrets", "quirky sidekick", "themed hook (bakery)", "will-they-won't-they slow burn", "nosy but lovable community"]
+
+[meta]
+purpose = "Series template for The Honeybee Bakery Mysteries -- a 15-book cozy mystery series by Clementine Wells. Each book features a standalone murder mystery solved by Clover Honeyfield, baker and reluctant amateur detective, in the fictional Southern town of Magnolia Creek, Georgia. No graphic violence, no explicit content. Recipes included. Optimized for Kindle Unlimited binge-through across a long series."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define mystery structure, community dynamics, sleuth design, and cozy tone requirements for a long-running series that maximizes reader loyalty, comfort-read reread value, and Kindle Unlimited page reads across 15 books."
+
+[series]
+name = "The Honeybee Bakery Mysteries"
+author = "Clementine Wells"
+total_books = 15
+setting_town = "Magnolia Creek, Georgia"
+shared_locations = [
+    "The Honeybee Bakery -- a converted Victorian cottage on Main Street with yellow shutters, a wraparound porch, and a bell above the door",
+    "Magnolia Creek Town Square -- gazebo, farmer's market on Saturdays, seasonal decorations",
+    "Clover's cottage behind the bakery -- small, cluttered, with a garden and a cat",
+    "The Magnolia Inn -- bed-and-breakfast run by a recurring character, where out-of-town suspects often stay",
+    "the Sheriff's office -- small-town law enforcement, the sheriff is both ally and obstacle"
+]
+series_format = "each book is a standalone mystery with a self-contained murder, investigation, and resolution. Recurring characters and relationships deepen across the series. A very slow-burn romantic subplot develops across multiple books."
+recurring_elements = [
+    "each book opens with Clover baking something specific -- the recipe is included at the end",
+    "each book features a seasonal or town event that provides the setting for the murder",
+    "Clover's cat, Biscuit, is present in every book and occasionally provides accidental clues",
+    "the bakery's daily rhythms (dawn baking, morning rush, afternoon lull) structure the pacing",
+    "at least one recipe per book is included as bonus content"
+]
+slow_burn_romance = "Clover and the local sheriff (or another appropriate recurring character) have a glacially slow romantic subplot that develops across the full 15-book series. Subtle moments, denied feelings, near-misses. The romance is a seasoning, not the main course."
+
+[target_audience]
+primary_gender = "female"
+age_range = "35-65+"
+psychographic_profile = [
+    "reads cozy mysteries in bed, on vacation, and during lunch breaks -- comfort reading",
+    "values warmth, humor, and community over darkness or suspense intensity",
+    "enjoys the puzzle of solving the mystery alongside the sleuth",
+    "becomes deeply attached to recurring characters and their evolving lives",
+    "appreciates food descriptions, recipes, and domestic detail as part of the reading experience",
+    "prefers clean content -- no graphic violence, no explicit sex, no excessive profanity",
+    "will read 15+ books in a series if she loves the characters and the town",
+    "discovers books through Amazon also-boughts, newsletter swaps, and cozy mystery Facebook groups"
+]
+reader_fantasy_drivers = [
+    "living in a charming small town where everyone knows your name",
+    "running a cozy bakery filled with the smell of fresh bread and honey",
+    "being clever enough to solve the puzzle before the professionals",
+    "belonging to a tight-knit community that rallies around each other",
+    "the comfort of predictable rhythms -- sunrise baking, afternoon tea, evening walks",
+    "justice being served without the world being a dark or frightening place"
+]
+
+[genre]
+primary = "cozy mystery"
+secondary = ["amateur sleuth mystery", "culinary mystery", "small-town mystery", "Southern fiction", "comfort fiction"]
+genre_requirements = [
+    "one murder per book, discovered within the first three chapters",
+    "no graphic violence -- the murder happens off-page or is discovered after the fact",
+    "no explicit sexual content -- the slow-burn romance is sweet and restrained",
+    "no excessive profanity -- characters may use mild expressions but nothing harsh",
+    "the amateur sleuth must have a plausible reason for investigating each case",
+    "the mystery must be fair -- all clues must be available to the reader before the solution",
+    "the town must feel like a place readers want to live, not a place they want to escape"
+]
+
+[mystery_design]
+murder_method_guidelines = [
+    "poison (especially food-related -- fits the bakery theme), blunt force, accidental-looking deaths, drowning",
+    "no firearms as the primary method -- too violent for cozy tone",
+    "no torture, no serial killers, no crimes against children",
+    "the method should connect to the book's theme or setting (e.g., poisoned honey at the county fair)"
+]
+suspect_structure = [
+    "4-6 suspects per book, each with means, motive, and opportunity",
+    "suspects should include a mix of recurring townspeople and new characters specific to each book",
+    "the most obvious suspect is never the killer",
+    "at least one suspect must be genuinely sympathetic -- the reader should feel conflicted",
+    "red herrings must be plausible enough to distract but fair in retrospect"
+]
+clue_structure = [
+    "plant 5-7 clues throughout the book, with 2-3 being subtle enough that rereaders will catch them",
+    "Clover discovers clues through conversations, observation, and bakery-related connections",
+    "the solution should be deducible from the clues -- never a deus ex machina reveal",
+    "include at least one clue that the reader can spot before Clover does (fair play)",
+    "the final reveal should recontextualize at least one earlier scene"
+]
+investigation_method = "Clover investigates through gossip, observation, baking-related social connections, and occasionally stumbling into the wrong place at the right time. She is not a trained detective -- her advantage is that people talk to her because she feeds them."
+pacing_of_mystery = [
+    "murder discovered by chapter 3",
+    "first suspect identified by chapter 5",
+    "midpoint twist or second death/complication by chapter 9-10",
+    "Clover in mild danger by chapter 14-15",
+    "solution and confrontation by chapter 17",
+    "warm denouement and recipe in chapter 18"
+]
+
+[sleuth_design]
+name = "Clover Honeyfield"
+occupation = "owner and head baker at The Honeybee Bakery"
+backstory = "former pastry chef at a prestigious Chicago restaurant who burned out and returned to Magnolia Creek to take over her late grandmother's bakery. She inherited the building, the recipes, and apparently her grandmother's talent for being in the wrong place at the wrong time."
+required_traits = [
+    "warm and genuine -- people open up to her naturally",
+    "observant -- notices details others miss, especially related to food, body language, and inconsistencies in stories",
+    "stubborn -- once she starts investigating, she cannot stop, even when warned off",
+    "self-deprecating humor -- does not take herself too seriously",
+    "competent baker -- her baking skill is real, specific, and central to her identity",
+    "occasionally reckless -- her curiosity outpaces her caution, creating mild peril moments"
+]
+investigation_skills = [
+    "people talk to her because she is the baker -- everyone comes to the bakery",
+    "she notices food-related clues others would miss (unusual ingredients, dietary habits, kitchen knowledge)",
+    "her grandmother's social connections give her access to town history and secrets",
+    "she is not physically formidable -- she solves crimes with observation and empathy, not action"
+]
+character_growth_across_series = "Clover grows from a burned-out city transplant hiding in her grandmother's shadow to a fully rooted member of Magnolia Creek who has found her home. The slow-burn romance develops alongside her growing confidence and belonging."
+
+[community_design]
+town_name = "Magnolia Creek, Georgia"
+town_character = "a fictional small Southern town with a picturesque main street, old money families, a lively gossip network, and seasonal festivals that provide the backdrop for each book's murder"
+recurring_cast = [
+    "Juniper 'June' Delacroix -- Clover's best friend, owner of the flower shop next door, dramatic and loyal, the Watson to Clover's Holmes",
+    "Sheriff Boone Callahan -- local law enforcement, initially annoyed by Clover's meddling, grudging respect evolves into the slow-burn romantic interest",
+    "Mabel Tate -- 80-year-old town matriarch who knows every secret in Magnolia Creek and dispenses wisdom with sweet tea",
+    "Roscoe Pemberton -- the curmudgeonly hardware store owner who complains about everything but is secretly kind",
+    "Lila Honeyfield -- Clover's younger sister who visits occasionally, bringing city chaos to small-town life",
+    "Biscuit -- Clover's orange tabby cat, a bakery fixture who judges everyone silently"
+]
+community_dynamics = [
+    "the gossip network is both a source of clues and comic relief",
+    "town events (festivals, fairs, church socials, farmer's markets) provide natural settings for each book",
+    "old grudges and long-buried secrets create layers of motive for murders",
+    "the community rallies together after each crime, reinforcing the cozy atmosphere",
+    "new characters each book (tourists, returning relatives, seasonal workers) provide suspects and variety"
+]
+seasonal_events = [
+    "Spring: Magnolia Blossom Festival",
+    "Summer: County Fair and Honey Harvest",
+    "Fall: Pecan Pie Bake-Off and Harvest Dance",
+    "Winter: Christmas Market and Candlelight Walk",
+    "plus town-specific events: mayoral elections, historical society galas, bakery anniversary celebrations"
+]
+
+[pacing]
+structure_priority = "mystery investigation rhythm with cozy domestic interludes"
+chapter_count = 18
+chapter_length_words = 2800
+tension_maintenance_protocol = [
+    "the mystery drives the plot but cozy moments (baking, friendships, town life) provide essential breathing room",
+    "tension should be suspenseful, never frightening -- the reader should feel curious, not anxious",
+    "Clover should be in mild personal danger exactly once per book, resolved quickly",
+    "the midpoint twist (chapter 9-10) should eliminate one suspect and introduce a new complication",
+    "the pacing should feel like a pleasant afternoon that happens to involve a murder"
+]
+reader_retention_mechanisms = [
+    "recurring characters whose lives evolve across the series -- readers invest in their stories",
+    "the slow-burn romance providing a long-arc hook across all 15 books",
+    "recipes and food descriptions that make readers hungry and happy",
+    "a fair-play mystery puzzle that engages the reader's deductive instincts",
+    "the warmth of Magnolia Creek as a place readers want to return to"
+]
+
+[conflict_design]
+conflict_types = [
+    "the mystery itself -- who committed the murder and why",
+    "Clover's meddling clashing with the sheriff's investigation",
+    "town politics and old grudges surfacing around the murder",
+    "Clover's own unresolved feelings about leaving Chicago and starting over",
+    "the slow-burn romantic tension with the sheriff (attraction vs. professional friction)",
+    "mild personal danger when Clover gets too close to the truth"
+]
+conflict_resolution_requirement = "the mystery must be solved, justice must be served (the killer is caught), and the community must be restored to its cozy equilibrium"
+
+[ending_requirements]
+ending_type = "justice served, community restored"
+book_ending_requirements = [
+    "the killer is identified and caught -- justice is always served in Magnolia Creek",
+    "the community is restored to warmth and normalcy after the disruption",
+    "a cozy final scene -- Clover baking, sharing a meal with friends, or a quiet moment with Biscuit",
+    "a tiny advancement in the slow-burn romance (a look, a near-miss, a small kindness)",
+    "a hook for the next book -- a new character arriving, a festival approaching, or a hint of trouble"
+]
+series_arc_requirements = [
+    "the slow-burn romance should reach a satisfying conclusion by Book 12-13",
+    "Books 14-15 should feature the established relationship as warm background while the mystery continues",
+    "Clover's character arc from outsider to beloved community member should feel complete",
+    "the final book should feature a case that connects to Clover's grandmother's past, bringing the series full circle",
+    "readers should close the last book feeling like they are saying goodbye to friends"
+]
+
+[setting]
+state = "Georgia"
+town = "Magnolia Creek -- a fictional town in the Georgia piedmont, population ~4,000"
+atmosphere = "Spanish moss, magnolia trees, wraparound porches, sweet tea on the porch, fireflies in summer, the smell of baking bread at dawn"
+key_locations = [
+    "The Honeybee Bakery -- yellow Victorian cottage, display cases full of pastries, the comforting clatter of the kitchen",
+    "Main Street -- bookshop, flower shop, hardware store, the diner, all within walking distance",
+    "Magnolia Creek Town Square -- gazebo, benches, the site of every festival and most gossip",
+    "Clover's cottage -- behind the bakery, a tiny house with a garden, a porch swing, and Biscuit's favorite windowsill",
+    "The Magnolia Inn -- Victorian bed-and-breakfast where out-of-town characters stay",
+    "Mabel Tate's parlor -- where all the best gossip is served with pecan pie",
+    "the creek itself -- a pretty walking path where Clover thinks through clues"
+]
+season = "varies per book -- the series should cycle through all four Georgia seasons across the 15 books, with seasonal events and weather creating atmosphere"
+
+[prohibited_elements]
+graphic_violence = true
+explicit_sexual_content = true
+excessive_profanity = true
+crimes_against_children = true
+animal_harm = true
+dark_or_gritty_tone = true
+serial_killer_plots = true
+supernatural_elements = true
+cynical_or_nihilistic_worldview = true

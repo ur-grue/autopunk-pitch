@@ -1,0 +1,231 @@
+[metadata]
+name = "Why Choose / Reverse Harem Romance"
+description = "Series 15: Claimed by the Shadow Court — one mortal heroine, four dark fae lords, and the academy where she must survive their politics, their trials, and their devastating attention. She doesn't choose between them. She claims them all. High spice. HEA guaranteed."
+tone = "dark, seductive, politically charged, emotionally intense, lush"
+themes = ["power and submission", "belonging without compromise", "the strength of the pack bond", "dark fae politics", "choosing to be claimed rather than conquered"]
+n_chapters = 22
+chapter_length = 3636
+target_audience = "women 20-35, why choose romance readers, dark fae romance fans, academy romance fans, BookTok"
+author_style = "Rowan Ashfire"
+tropes = ["why choose / reverse harem", "one heroine + multiple love interests", "dark fae", "academy setting", "she picks all of them", "pack dynamics", "fated bonds", "bully to lover", "trials and competition"]
+
+[meta]
+purpose = "Series specification for 'Claimed by the Shadow Court' by Rowan Ashfire. A commercially optimized why choose romance series set in a dark fae academy. One mortal heroine bonds with four dark fae lords across 5 books. No love triangle — she doesn't choose between them; she claims them all. High spice with explicit content involving multiple partners. HEA guaranteed. Designed for the underserved why choose / reverse harem niche on Kindle Unlimited."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define why choose dynamics, multi-partner romantic progression, dark fae worldbuilding, academy structure, pack bond mechanics, and political intrigue required for maximum reader obsession and series read-through in the why choose niche."
+
+[series]
+name = "Claimed by the Shadow Court"
+author = "Rowan Ashfire"
+book_number = 1
+total_books = 5
+series_format = "continuous series — one heroine, four love interests, one overarching story told across 5 books. Each book deepens bonds and escalates stakes. HEA at the end of Book 5, with HFN (happy for now) progress in each book."
+book_arc = [
+    "Book 1: Arrival and first trial — heroine enters Thornhallow Academy, meets the four lords, bonds with the first (the Reluctant Protector)",
+    "Book 2: Second trial and deepening bonds — she bonds with the second lord (the Savage), political enemies emerge",
+    "Book 3: Third trial and the pack bond begins forming — she bonds with the third lord (the Scholar), betrayal from within the court",
+    "Book 4: Crisis — she bonds with the fourth lord (the Shadow King), the pack bond is threatened by the antagonist, darkest hour",
+    "Book 5: Final trial, full pack bond completed, the Shadow Court claimed — climactic battle, political resolution, full HEA with all four"
+]
+shared_locations = ["Thornhallow Academy (dark fae academy in the Shadow Realm)", "the Court of Thorns and Shadows", "the Trial Grounds", "the Obsidian Library", "the lords' private quarters", "the Veil — the boundary between mortal and fae realms"]
+recurring_characters = [
+    "Elowen Ashvale — mortal heroine, the first mortal accepted to Thornhallow in a thousand years",
+    "Lord Caelum Voss — the Reluctant Protector, eldest, controlled, carries the weight of duty (ice and shadow magic)",
+    "Lord Ren Duskborne — the Savage, feral and fierce, communicates through action not words (beast and blood magic)",
+    "Lord Soren Nighthollow — the Scholar, silver-tongued and dangerously clever, sees everything (mind and illusion magic)",
+    "Lord Thane Ashenmoor — the Shadow King, the most powerful and most damaged, the last to trust (death and void magic)",
+    "Queen Morwenna — antagonist, the current Shadow Queen who sees the heroine as a threat to her power"
+]
+
+[romantic_dynamic]
+core_dynamic = "why choose — one heroine, four fae lords, no love triangle. She doesn't pick one. She claims all four, and they claim her."
+dynamic_definition = [
+    "each lord offers something different — protection, passion, intellect, power",
+    "the heroine's bond with each lord develops at its own pace across the series",
+    "the four lords must learn to share — jealousy is acknowledged and overcome, not ignored",
+    "the pack bond is supernatural — when all five are bonded, they are stronger than the sum of their parts",
+    "the heroine is the center of the pack — she holds them together, she is their anchor",
+    "the relationship is polyamorous and permanent — presented as natural within the fae world, not a phase or compromise"
+]
+pack_bond_mechanics = [
+    "individual bonds form first — the heroine bonds with each lord separately across books 1-4",
+    "the pack bond forms when all four individual bonds are active — a supernatural fusion that amplifies all their power",
+    "the pack bond creates shared emotional awareness — they can sense each other's emotions, pain, desire",
+    "the completed pack bond is the key to defeating the antagonist — it's both romantic resolution and plot resolution",
+    "jealousy management — the lords must negotiate sharing her attention, and this tension is a feature, not a bug"
+]
+power_dynamic_calibration = [
+    "the heroine is mortal in a world of immortal fae — she is physically vulnerable but magically essential",
+    "each lord is more powerful than her individually, but she holds the power to unite or break the pack",
+    "the dynamic shifts as her own power awakens across the series",
+    "consent and choice are paramount — she is never coerced into any bond",
+    "by Book 5, the heroine is the most powerful being in the Shadow Court — because the pack bond flows through her"
+]
+
+[romantic_partner_design]
+partner_count = 4
+partner_type = "dark fae lords — each with distinct personality, magic type, love language, and role in the pack"
+lord_profiles = [
+    "Caelum (The Reluctant Protector): ice and shadow magic. Eldest, most controlled, carries duty like armor. Slow to open but once he does, he is bedrock. Loves through acts of service and quiet sacrifice. First to bond (Book 1).",
+    "Ren (The Savage): beast and blood magic. Feral, physical, communicates through action. The first to kill for her. Loves through physical touch and fierce loyalty. Second to bond (Book 2).",
+    "Soren (The Scholar): mind and illusion magic. Silver-tongued, observant, dangerously clever. Sees through everyone, including her. Loves through words, gifts, and the devastating precision of being truly known. Third to bond (Book 3).",
+    "Thane (The Shadow King): death and void magic. The most powerful and most broken. Believes himself unworthy of love. The last to trust, the last to bond, and when he finally surrenders, it shatters everything. Loves through total devotion. Fourth to bond (Book 4)."
+]
+shared_hero_traits = [
+    "physically imposing — dark fae are tall, powerful, supernaturally beautiful in an alien way",
+    "possessive of the heroine — 'touch her and die' applies to all four",
+    "emotionally damaged in different ways — each has wounds the heroine heals",
+    "competent and powerful — lords of the Shadow Court, not boys",
+    "devoted — once bonded, the heroine is their world, individually and collectively"
+]
+exclusivity_requirement = "the pack bond is exclusive — the four lords and the heroine are bonded to each other and no one else. The bond is permanent."
+
+[protagonist_design]
+protagonist_gender = "female"
+name = "Elowen Ashvale"
+heroine_type = "mortal woman in a world of immortal fae — vulnerable but never weak"
+required_psychological_traits = [
+    "fierce determination — she was sent to Thornhallow as a political pawn, and she refuses to be one",
+    "emotional intelligence — she sees through the lords' masks and walls",
+    "bravery that borders on recklessness — she will not back down from the trials",
+    "compassion — her humanity is her greatest weapon in a world of immortal cruelty",
+    "growing power — her latent magic awakens across the series, but her greatest power is the pack bond itself",
+    "sexual confidence that develops naturally — she goes from overwhelmed to empowered across the series"
+]
+reader_identification_requirement = "the reader must feel Elowen's journey from terrified outsider to the most powerful woman in the Shadow Court. Every bond she forms should feel earned, every intimate scene should deepen the emotional stakes."
+heroine_arc = "from mortal pawn to Shadow Court queen — from alone and afraid to loved by four and feared by all"
+
+[emotional_design]
+primary_emotional_drivers = [
+    "the overwhelming experience of being desired by four powerful beings",
+    "the unique emotional connection with each lord — no bond is the same",
+    "the jealousy and negotiation between the lords — watching them learn to share is part of the tension",
+    "the 'touch her and die' protectiveness multiplied by four",
+    "the growing pack bond — feeling the emotional web tighten and strengthen",
+    "the heroine's transformation from vulnerable outsider to the center of a dark fae court"
+]
+emotional_progression_model = [
+    "isolation — the mortal alone in the fae world",
+    "first bond (Caelum) — safety, trust, the relief of being protected",
+    "second bond (Ren) — passion, physicality, the thrill of being claimed by the wild one",
+    "third bond (Soren) — intimacy of being truly known, intellectual and emotional connection",
+    "pack tension — the lords struggling with jealousy and the heroine managing multiple bonds",
+    "fourth bond (Thane) — the deepest surrender, the most damaged lord opening his heart",
+    "pack bond completion — all five united, the emotional and magical fusion",
+    "the full HEA — she is theirs and they are hers, completely and permanently"
+]
+attachment_mechanisms = [
+    "each lord's unique way of showing love — Caelum's quiet sacrifice, Ren's physical devotion, Soren's devastating words, Thane's total surrender",
+    "scenes where the lords are tender with each other because of their shared love for her",
+    "the pack dynamics — sleeping arrangements, territorial bickering, protective coordination",
+    "the heroine's growing power and confidence as the bonds deepen",
+    "moments where all four lords are present and the pack bond hums between them"
+]
+
+[sensuality_calibration]
+intensity = "high spice — explicit scenes with individual lords and eventually group dynamics. The why choose format demands bold, creative intimacy. 3-5 steamy scenes per book, escalating in complexity as more bonds form."
+sensual_expression_methods = [
+    "individual scenes first — each lord's distinct intimate style must be established before group dynamics",
+    "Caelum: controlled intensity, ice magic makes his skin cold to the touch, precise and devastating",
+    "Ren: primal, physical, growling, biting, no patience for clothes or ceremony",
+    "Soren: verbal, teasing, illusion magic adds layers, he makes her describe what she wants",
+    "Thane: overwhelming, dark, worshipful, the void magic makes his touch electric, he trembles",
+    "group dynamics emerge in Books 4-5 — the pack bond makes shared intimacy natural and intensely connected",
+    "the supernatural bond amplifies sensation — they feel each other's pleasure through the pack bond"
+]
+sensuality_function = "the intimate scenes ARE the pack bond forming. Each scene deepens the connection, builds trust between the lords, and advances the heroine's power. The spice is the plot."
+
+[pacing]
+structure_priority = "romantic bond progression interleaved with academy trials and political intrigue"
+chapter_count = 22
+chapter_length_words = 3636
+total_target_words = 80000
+tension_maintenance_protocol = [
+    "the heroine enters Thornhallow in chapter 1 — immediate danger and wonder",
+    "meet all four lords by chapter 3 — distinct first impressions",
+    "the first trial by chapter 5 — establishes the stakes",
+    "romantic tension escalates through the middle third, intercut with political intrigue and academy challenges",
+    "the primary romantic bond of this book deepens around chapters 10-15",
+    "crisis — a betrayal, a trial failure, or a direct attack from Queen Morwenna around chapters 17-19",
+    "climactic resolution of the book's central conflict in chapters 20-21",
+    "chapter 22 — emotional resolution of the new bond, cliffhanger or hook for the next book"
+]
+reader_retention_mechanisms = [
+    "four love interests means the romantic tension never stops — even when one bond is satisfied, others are simmering",
+    "the academy trials provide action and stakes between romantic beats",
+    "political intrigue adds layers of complexity and betrayal",
+    "each book ends with a cliffhanger or emotional hook that demands the next book",
+    "the pack bond is the ultimate payoff — readers must read all 5 books to see it completed"
+]
+
+[conflict_design]
+conflict_types = [
+    "the academy trials — magical tests that could kill the heroine",
+    "Queen Morwenna's political machinations — she wants the heroine dead or exiled",
+    "the lords' jealousy and territorial instincts — learning to share is a genuine struggle",
+    "the heroine's mortality — she is fragile in a world of immortals",
+    "political factions within the Shadow Court who oppose the pack bond",
+    "the heroine's growing power — it makes her a target as well as an asset",
+    "each lord's personal demons — the wounds they carry that make trust difficult"
+]
+conflict_resolution_requirement = "each book resolves its immediate crisis and solidifies one new bond. The series-level conflict (Queen Morwenna, the pack bond completion, the heroine's full power) resolves in Book 5."
+
+[ending_requirements]
+ending_type = "HEA at series end (Book 5); HFN progress in Books 1-4"
+per_book_resolution = [
+    "each book establishes and solidifies one primary bond",
+    "each book resolves its immediate trial or political crisis",
+    "emotional progress with all four lords, even the ones not yet fully bonded",
+    "a cliffhanger or emotional hook driving the reader to the next book"
+]
+series_hea_definition = [
+    "the full pack bond is completed — all four lords and the heroine, bonded permanently",
+    "Queen Morwenna is defeated and the Shadow Court claimed",
+    "the heroine ascends as the pack's center — the most powerful being in the court",
+    "each lord is emotionally healed and fully devoted",
+    "an epilogue showing the five of them together — ruling, loving, permanent"
+]
+critical_requirement = "she does not choose between them. She claims all four. This is non-negotiable for the why choose reader."
+
+[setting]
+realm = "the Shadow Realm — a dark fae dimension of perpetual twilight, dangerous beauty, and ancient magic"
+academy = "Thornhallow Academy — a dark fae institution carved into a mountain of black crystal, where fae nobility train in magic, politics, and warfare"
+key_locations = [
+    "Thornhallow Academy — halls of dark crystal, shifting staircases, the library of forbidden texts, the training grounds",
+    "the Trial Grounds — a magical arena that reshapes itself for each trial, lethal and beautiful",
+    "the Obsidian Library — Soren's domain, a vast repository of fae knowledge and forbidden magic",
+    "the lords' quarters — each lord has chambers reflecting his magic (Caelum's ice tower, Ren's wild garden, Soren's mirror hall, Thane's void chamber)",
+    "the Court of Thorns and Shadows — the political heart of the fae realm, Queen Morwenna's seat of power",
+    "the Veil — the shimmering boundary between the mortal world and the Shadow Realm"
+]
+atmosphere = "perpetual twilight, bioluminescent flora, air thick with magic, obsidian spires and gardens of night-blooming flowers — beautiful and dangerous, seductive and alien. The Shadow Realm is not safe, and that is part of its allure."
+
+[prohibited_elements]
+heroine_forced_to_choose_one = true
+non_consensual_bonding = true
+lords_abusing_the_heroine = true
+heroine_with_no_agency = true
+jealousy_resolved_by_elimination = true
+homophobia_between_the_lords = true
+the_heroine_as_passive_object = true
+ambiguous_ending = true
+
+[reader_conversion_optimization]
+kindle_unlimited_optimization = [
+    "immediate hook — mortal heroine thrust into dark fae academy in chapter 1",
+    "four love interests means constant romantic tension and high spice content",
+    "22 chapters at ~3,636 words for immersive pacing",
+    "80,000 words per book maximizes KENP page reads",
+    "each book's cliffhanger drives immediate read-through to the next"
+]
+series_binge_drivers = [
+    "the pack bond can only be completed across all 5 books — the ultimate series hook",
+    "each book adds a new lord to the bond — escalating intimacy and emotional complexity",
+    "the political intrigue deepens across the series",
+    "readers must reach Book 5 for the full HEA — maximum series read-through",
+    "the why choose niche is UNDERSERVED — dedicated readers will consume the entire series rapidly",
+    "each lord has distinct fans — readers will have a favorite and read the whole series to see his arc"
+]

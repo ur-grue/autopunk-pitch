@@ -301,3 +301,13 @@ All phases print verbose progress to the Claude Code console:
 - Word counts
 - Quality metrics (after writing phase)
 - Time elapsed per phase
+
+## Health Stack
+
+This repo has no conventional toolchain (no TS/test runner). `/health` runs:
+
+- lint (python): ruff check scripts/*.py
+- shell: shellcheck scripts/*.sh
+- syntax: python3 -m py_compile scripts/*.py && bash -n scripts/*.sh
+- config: validate templates/*.toml with tomllib
+- skills: validate skills/**/SKILL.md frontmatter (name + description)

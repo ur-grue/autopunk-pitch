@@ -1,0 +1,248 @@
+[metadata]
+name = "Dark Academia Gothic Romance"
+description = "Series 18: The Ravensgate Society -- dark academia romance set in an ancient English university where a secret society guards forbidden knowledge. Each book follows a different scholar drawn into the Society's orbit, entangled with a dangerous mentor or rival, while a gothic mystery deepens across the series."
+tone = "atmospheric, intellectual, Gothic, seductive, ominous"
+themes = ["forbidden knowledge", "the cost of ambition", "power and desire", "old institutions hiding dark truths", "love as revelation and risk"]
+n_chapters = 22
+chapter_length = 3636
+target_audience = "BookTok dark academia aesthetic, romantasy crossover readers, gothic romance fans, women 18-35"
+author_style = "Elara Nighthollow"
+tropes = ["secret society", "forbidden knowledge", "mentor-student tension", "gothic atmosphere", "mystery subplot", "morally grey love interest", "rivals-to-lovers", "locked library", "dangerous beauty", "who can you trust"]
+
+[meta]
+purpose = "Instruction specification for Series 18, 'The Ravensgate Society' by Elara Nighthollow. A commercially optimized dark academia gothic romance series set at a fictional ancient English university. Four books, each following a different scholar-protagonist and their entanglement with a Society member. Medium-high spice. HEA per book. The gothic mystery arc resolves in Book 4."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define gothic atmosphere, intellectual tension, romantic architecture, and mystery pacing required for maximum BookTok virality, emotional immersion, and binge-read conversion in the dark academia romance niche."
+
+[series]
+name = "The Ravensgate Society"
+author = "Elara Nighthollow"
+book_number = 1
+total_books = 4
+book_title = ""
+institution = "Ravensgate College -- founded 1247, the oldest and most secretive college at a fictional ancient English university. Gothic stone architecture, underground tunnels, a restricted library that predates the college itself."
+shared_locations = ["The Undercroft (underground meeting hall of the Society, candlelit, vaulted stone ceilings)", "The Restricted Archive (a library beneath the library, accessible only through a hidden door behind a portrait)", "The Founder's Tower (tallest spire of Ravensgate, private study of the Society's leader)", "The Cloister Garden (walled garden with ancient yew trees, where scholars go to think and conspiracies go to breathe)", "The Raven's Perch (rooftop bar on the college roof, unofficial, technically forbidden)"]
+recurring_characters = ["Professor Elias Vane -- the Society's current Master, elegant, terrifying, love interest in Book 4", "Wren Alcott -- the college librarian, knows more than anyone, appears in all books as an ally and information source", "The Founder -- a mythologized figure from 1247 whose writings drive the series mystery"]
+timeline = "Each book covers one academic term (October-December, January-March, April-June, or a full year for Book 4). Series spans approximately 2.5 academic years."
+series_arc = "The Ravensgate Society has guarded a collection of manuscripts since 1247 -- writings that describe a method of accessing human memory and perception beyond normal limits. The Founder achieved it. The Society has spent 800 years trying to replicate it, with devastating failures. Each book reveals a new piece of the Founder's method. Book 4 reveals the truth: the method works, it always has, and the Society has been protecting the world from its consequences."
+book_hooks = [
+    "Book 1: A first-year postgraduate discovers a hidden manuscript in her dormitory wall -- and the Society member sent to retrieve it decides she is more interesting than the book",
+    "Book 2: A rival scholar and a Society archivist are locked in the Restricted Archive overnight during a storm -- the manuscripts they find rewrite what both believed about the Founder",
+    "Book 3: A visiting American professor is recruited as a temporary Society member and falls for the woman assigned to watch her -- whose loyalty to the Society may outweigh everything else",
+    "Book 4: The new Society Master must confront the Founder's true legacy with the one person who has been opposing the Society from the start -- Professor Vane's most brilliant and infuriating critic"
+]
+
+[target_audience]
+primary_gender = "female"
+age_range = "18-35"
+psychographic_profile = [
+    "identifies with the dark academia aesthetic -- old libraries, candlelight, Latin inscriptions, wool coats",
+    "responds to intellectual seduction -- being seen as brilliant is as arousing as physical attraction",
+    "values atmospheric prose that makes the setting a character",
+    "wants romance that feels dangerous and earned, not safe and easy",
+    "enjoys mystery that rewards careful reading and rereading",
+    "active on BookTok, Bookstagram, dark academia Pinterest, and Tumblr",
+    "crossover audience with romantasy and gothic fiction",
+    "prefers morally grey love interests who are genuinely ambiguous, not just labeled dark"
+]
+reader_fantasy_drivers = [
+    "being recognized as intellectually exceptional by someone brilliant and terrifying",
+    "access to forbidden knowledge that changes how you see the world",
+    "belonging to a secret group of extraordinary people",
+    "a love interest who is powerful, dangerous, and utterly undone by you",
+    "the romance of old buildings, candlelight, rare books, and whispered secrets",
+    "being the one who solves the mystery that has defeated everyone else"
+]
+
+[genre]
+primary = "dark academia romance"
+secondary = ["gothic romance", "mystery romance", "academic thriller", "BookTok dark academia", "secret society romance"]
+genre_requirements = [
+    "romance must be the primary emotional driver -- the mystery serves the romance, not the reverse",
+    "gothic atmosphere must be sustained in every scene -- weather, architecture, lighting, sound",
+    "intellectual tension must function as foreplay -- arguments about manuscripts, theories, and interpretations",
+    "the mystery must be genuinely engaging and fair-play solvable by attentive readers",
+    "each book must work as a standalone romance while advancing the series mystery"
+]
+
+[romantic_dynamic]
+core_dynamic = "intellectual_adversaries_to_lovers"
+dynamic_definition = [
+    "both partners are intellectually formidable -- the attraction is rooted in being challenged",
+    "power imbalance shifts throughout the book -- neither holds permanent advantage",
+    "verbal sparring functions as foreplay -- arguments escalate into desire",
+    "secrets create distance; revelations create intimacy",
+    "the love interest is morally grey -- genuinely ambiguous loyalties until late in the book"
+]
+power_dynamic_calibration = [
+    "mentor-student tension must be handled carefully -- the student must have genuine power and agency",
+    "the Society's secrecy creates inherent power imbalance that must be acknowledged and navigated",
+    "intellectual respect must be mutual and demonstrated, not merely stated",
+    "the love interest's darker qualities must be real, not performance -- but never abusive",
+    "the protagonist must be willing to walk away, and the love interest must know it"
+]
+
+[romantic_partner_design]
+love_interest_required_traits = [
+    "intellectually brilliant -- published, respected, feared in academic circles",
+    "aesthetically striking in a gothic register -- sharp features, dark clothing, deliberate elegance",
+    "morally ambiguous -- genuinely torn between the Society's mission and personal ethics",
+    "emotionally guarded -- reveals vulnerability only when the protagonist earns it",
+    "possesses a secret that could destroy the relationship if revealed (and it will be revealed)",
+    "capable of intellectual cruelty that he or she later regrets and makes amends for"
+]
+attraction_model = [
+    "intellectual recognition (they notice each other's brilliance before anything else)",
+    "adversarial tension (they disagree on something fundamental)",
+    "forced collaboration (the Society or the mystery requires them to work together)",
+    "moments of unexpected vulnerability (cracks in the intellectual armor)",
+    "physical proximity in atmospheric settings (library, tower, rain-soaked garden)",
+    "crisis of trust (a secret revealed that could end everything)",
+    "emotional and intellectual surrender (choosing each other over the Society, career, or safety)"
+]
+exclusivity_requirement = "love interest must demonstrate that the protagonist is the only person who has ever reached them intellectually and emotionally"
+
+[protagonist_design]
+protagonist_gender = "female (Books 1, 2, 4), male (Book 3 -- expands readership)"
+required_psychological_traits = [
+    "intellectually hungry -- she pursued knowledge before the Society found her",
+    "observant and analytical -- the mystery requires a protagonist who notices details",
+    "emotionally courageous -- she confronts uncomfortable truths about herself and others",
+    "socially adept enough to navigate the Society's politics but authentic enough to resist its seductions",
+    "capable of standing her ground against the love interest in argument and in bed"
+]
+reader_identification_requirement = "reader must feel the intellectual thrill of discovery and the gothic dread of what is being discovered -- the protagonist's curiosity must be the reader's curiosity"
+
+[emotional_design]
+primary_emotional_drivers = [
+    "intellectual arousal -- the thrill of understanding something forbidden",
+    "gothic dread -- the sense that the beautiful old building is hiding something terrible",
+    "desire sharpened by danger -- wanting someone who might be the enemy",
+    "belonging -- being chosen for a secret society of brilliant people",
+    "betrayal and trust -- who is lying, and does love survive the answer",
+    "revelation -- the moment a mystery yields its secret"
+]
+emotional_progression_model = [
+    "arrival and awe (the beauty and history of Ravensgate)",
+    "curiosity and suspicion (something is wrong beneath the surface)",
+    "intellectual engagement and adversarial attraction",
+    "induction into the Society's periphery",
+    "deepening intimacy intertwined with deepening mystery",
+    "betrayal or revelation that threatens the relationship",
+    "emotional reckoning -- both partners must choose honesty",
+    "resolution that integrates love and truth"
+]
+attachment_mechanisms = [
+    "the love interest leaving a rare book on the protagonist's desk without acknowledgment",
+    "arguments that end with both of them breathing hard and standing too close",
+    "the love interest quoting something the protagonist wrote -- proof of having read her work carefully",
+    "a private moment in a gothic setting -- candlelight, rain, stone walls, silence",
+    "the love interest sacrificing their position in the Society for the protagonist",
+    "solving a puzzle together -- the intellectual equivalent of a trust fall"
+]
+
+[sensuality_calibration]
+intensity = "medium-high spice -- 2-3 explicit scenes per book, framed within gothic atmosphere (candlelight, library, rain against stone), intellectual tension as foreplay, the first physical encounter should feel like a dam breaking"
+sensual_expression_methods = [
+    "intellectual dominance as arousal -- being pinned by an argument, then by hands",
+    "gothic setting integration -- cold stone, warm skin, firelight, the smell of old books",
+    "delayed gratification -- weeks of verbal sparring before the first touch",
+    "clothing as armor -- the deliberate removal of each layer as a surrender",
+    "whispered Latin or literary references during intimate moments (earned, not pretentious)",
+    "the contrast between public composure and private abandon"
+]
+sensuality_function = "intimate scenes must feel like the resolution of intellectual and emotional tension -- the physical is the culmination, not a separate track"
+
+[pacing]
+structure_priority = "dual-engine: romance and mystery advancing in tandem"
+chapter_count = 22
+chapter_length_words = 3636
+tension_maintenance_protocol = [
+    "mystery and romance must both advance in every chapter -- no purely expository chapters",
+    "the gothic atmosphere must be sustained throughout -- never let the setting become neutral",
+    "first intellectual confrontation by chapter 2",
+    "first mystery revelation by chapter 4",
+    "first physical contact by chapter 8",
+    "major mystery twist at chapter 12",
+    "emotional crisis at chapter 17-18",
+    "mystery and romantic resolution in chapters 20-22",
+    "each chapter ends on a mystery hook, a romantic hook, or both"
+]
+reader_retention_mechanisms = [
+    "mystery breadcrumbs that reward attentive reading",
+    "escalating romantic tension with genuine intellectual obstacles",
+    "gothic set pieces that create atmosphere-driven suspense",
+    "the Society's secrets unfolding layer by layer",
+    "the love interest's true nature revealed gradually -- each revelation complicates the reader's attachment"
+]
+
+[conflict_design]
+conflict_types = [
+    "intellectual disagreement that reflects deeper value conflicts",
+    "the Society's secrecy vs. the protagonist's commitment to truth",
+    "the love interest's divided loyalty -- Society vs. partner",
+    "academic politics and professional consequences of forbidden relationships",
+    "the Founder's legacy -- is it a gift or a curse",
+    "the threat of expulsion from Ravensgate and loss of everything the protagonist has worked for",
+    "a mystery antagonist within the Society who opposes the protagonist's involvement"
+]
+conflict_resolution_requirement = "romantic resolution must integrate with mystery resolution -- the couple solves the puzzle together, and solving it brings them together"
+
+[ending_requirements]
+ending_type = "HEA per book, series HEA in Book 4"
+hea_definition = [
+    "the couple chooses each other with full knowledge of each other's secrets",
+    "the mystery of the book is resolved (though the series mystery continues)",
+    "the protagonist's place at Ravensgate is secured on her own terms",
+    "emotional openness between partners -- no more secrets that matter",
+    "the reader feels both romantic satisfaction and intellectual satisfaction"
+]
+emotional_resolution_requirements = [
+    "the love interest must make a sacrifice that proves love outweighs the Society",
+    "the protagonist must demonstrate that she is the love interest's intellectual equal",
+    "the mystery resolution must be fair-play -- the reader could have guessed it from available clues",
+    "epilogue must hint at the next book's couple and deepen the series mystery",
+    "Book 4 epilogue reveals the Founder's truth and shows all couples at a Society gathering, the old secrets finally resolved"
+]
+
+[setting]
+city = "a fictional ancient English university city (modeled on Oxford/Cambridge)"
+institution = "Ravensgate College, founded 1247"
+environment = [
+    "Gothic stone architecture -- gargoyles, pointed arches, mullioned windows",
+    "perpetual autumn atmosphere -- mist, rain, falling leaves, early darkness",
+    "candlelit interiors -- the college resists modern lighting in its oldest sections",
+    "the smell of old books, stone dust, beeswax candles, and rain on cobblestones",
+    "the constant presence of ravens on the college rooftops -- the college's namesake"
+]
+key_locations = [
+    "The Undercroft -- the Society's meeting hall, underground, vaulted stone ceiling, a single long oak table lit by candelabra",
+    "The Restricted Archive -- beneath the college library, accessible through a hidden door, contains manuscripts from 1247 onward",
+    "The Founder's Tower -- the tallest spire, private study at the top, accessible by a narrow spiral staircase, panoramic views of the city",
+    "The Cloister Garden -- walled, private, ancient yew trees, a stone bench where the Founder is said to have had his revelation",
+    "The Raven's Perch -- unauthorized rooftop gathering spot, accessed by climbing out a fourth-floor window, blankets and wine bottles, the city spread below",
+    "The protagonist's rooms -- college accommodation, small, book-cluttered, a window seat overlooking the garden"
+]
+atmosphere = "gothic intellectual seduction -- every corridor smells of history, every shadow holds a secret, every beautiful room was built by people who knew things they should not have known"
+
+[prohibited_elements]
+mentor_exploiting_student = true
+protagonist_losing_agency_to_the_society = true
+mystery_unsolvable_by_reader = true
+intellectual_elitism_as_virtue = true
+ambiguous_romantic_resolution = true
+sexual_coercion_framed_as_passion = true
+the_society_as_purely_evil = true
+
+[required_reader_effect]
+psychological_outcomes = [
+    "visceral desire to attend Ravensgate -- the setting must feel like a place the reader wants to inhabit",
+    "intellectual stimulation alongside romantic satisfaction",
+    "genuine suspense about the mystery -- the reader should theorize between books",
+    "deep emotional attachment to the love interest despite (because of) their moral ambiguity",
+    "desire to immediately read the next book to learn more of the Founder's secret",
+    "BookTok-ready aesthetic moments the reader wants to quote and share"
+]

@@ -1,0 +1,225 @@
+[metadata]
+name = "Sports Romance (Hockey)"
+description = "Book in the Cold Shot Kings series -- a grumpy professional hockey player and the warm, relentlessly optimistic woman who breaks through his defenses. Team series format: each book features a different player on the Northshore Cold Shots."
+tone = "witty, emotionally intense, athletic, playful banter with deep vulnerability"
+themes = ["trust", "emotional walls", "found family through team bonds", "proving yourself off the ice", "vulnerability as strength"]
+n_chapters = 20
+chapter_length = 3250
+target_audience = "women 18-35, BookTok hockey romance readers, sports romance binge readers"
+author_style = "Harper Calloway"
+tropes = ["grumpy hockey player / sunshine heroine", "forced proximity", "rivals to lovers", "team dynamics", "slow burn"]
+
+[meta]
+purpose = "Series template for the Cold Shot Kings -- a 6-book hockey romance series by Harper Calloway. Each book features a different player on the Northshore Cold Shots professional hockey team and the woman who upends his world. Grumpy-sunshine core dynamic. Medium-high spice. HEA guaranteed. Optimized for Kindle Unlimited page reads, BookTok virality, and series binge-through rate."
+planning_allowed = false
+plot_generation_allowed = false
+character_generation_allowed = false
+title_generation_allowed = false
+focus = "Define emotional, structural, athletic, and romantic characteristics required for maximum reader obsession and binge-read behavior in the hockey romance sub-niche on Amazon KDP and Kindle Unlimited."
+
+[series]
+name = "Cold Shot Kings"
+author = "Harper Calloway"
+total_books = 6
+team_name = "Northshore Cold Shots"
+league = "Professional hockey (fictionalized NHL-equivalent league)"
+shared_locations = [
+    "Northshore Arena (home rink -- the tunnel, the locker room, the players' bench, the VIP box)",
+    "The Penalty Box Bar & Grill (team hangout across from the arena)",
+    "the team training facility (weight room, ice baths, PT suite)",
+    "lakeside condos where the players live in the off-season",
+    "the team plane (road trips, card games, forced proximity)"
+]
+team_culture = "A brotherhood built on chirps, loyalty, and unspoken rules. These men will bleed for each other on the ice but cannot talk about feelings to save their lives."
+series_arc = "The Cold Shots are a rebuilding franchise fighting for a playoff spot. Each book covers one season. The team's on-ice journey parallels each couple's emotional arc -- trust, sacrifice, winning together."
+book_format = "Each book features one player as the hero and a new heroine. Previous couples appear as side characters, deepening the team family feel. Reading order matters for team arc but each romance is self-contained."
+
+[target_audience]
+primary_gender = "female"
+age_range = "18-35"
+psychographic_profile = [
+    "obsessed with hockey romance since Icebreaker and the ACOTAR-to-hockey-romance pipeline",
+    "craves grumpy heroes who are soft only for the heroine",
+    "loves locker room banter and team brotherhood dynamics",
+    "wants emotional intensity balanced with humor and wit",
+    "responds to competence porn (athletes at peak performance)",
+    "seeks found-family warmth within the team structure",
+    "actively shares favorite scenes and quotes on BookTok",
+    "prefers series they can binge in one weekend"
+]
+reader_fantasy_drivers = [
+    "being the one person who melts the emotionally guarded athlete",
+    "being desired by a physically powerful, publicly famous man who is privately gentle",
+    "insider access to the locker room brotherhood",
+    "the thrill of the game combined with romantic tension",
+    "emotional exclusivity -- he is stone-faced to the world but undone by her",
+    "feeling chosen above career, fame, and the sport itself"
+]
+
+[genre]
+primary = "sports romance"
+secondary = ["hockey romance", "grumpy-sunshine romance", "forced proximity romance", "team series romance", "contemporary romance"]
+genre_requirements = [
+    "romance must be primary narrative driver -- hockey is the setting, not the plot",
+    "hockey scenes must serve emotional or romantic tension, never exist for sport alone",
+    "team dynamics must create organic forced proximity and conflict",
+    "the sport must feel authentic -- real hockey terminology, game rhythm, physical stakes",
+    "banter must be sharp, specific, and character-revealing"
+]
+
+[romantic_dynamic]
+core_dynamic = "grumpy_sunshine"
+dynamic_definition = [
+    "hero is emotionally closed off, blunt, physically intimidating on ice, awkward or surly off it",
+    "heroine is warm, disarming, genuinely kind but not naive -- she has her own steel",
+    "hero fights the attraction because it threatens his emotional control and on-ice focus",
+    "heroine does not try to fix him -- her presence simply makes his walls irrelevant",
+    "the shift happens when he chooses to let her in, not when she forces her way through",
+    "team notices before either of them admits it -- chirps and interference from teammates"
+]
+power_dynamic_calibration = [
+    "hero has physical size and public fame advantage",
+    "heroine has emotional intelligence and relational power advantage",
+    "power must equalize as the relationship deepens",
+    "hero must never use physical intimidation toward heroine",
+    "heroine must have her own career, goals, and life outside the relationship"
+]
+
+[romantic_partner_design]
+hero_required_traits = [
+    "elite hockey player -- physically imposing, controlled violence on ice",
+    "emotionally guarded -- communicates through actions, not words",
+    "dry humor that emerges slowly as he relaxes around heroine",
+    "fiercely protective of people he cares about",
+    "has a specific vulnerability or wound that explains the emotional walls",
+    "competent and commanding on ice, uncertain and awkward in emotional territory"
+]
+attraction_model = [
+    "initial irritation or indifference",
+    "involuntary awareness -- noticing small details about her",
+    "internal resistance -- telling himself this is a distraction",
+    "accidental proximity moments that crack the armor",
+    "a moment of genuine vulnerability that shifts everything",
+    "emotional surrender -- choosing her over emotional safety"
+]
+exclusivity_requirement = "hero must demonstrate he has never let anyone past his walls the way he lets heroine in"
+
+[protagonist_design]
+protagonist_gender = "female"
+required_psychological_traits = [
+    "genuinely warm without being saccharine -- her optimism is a choice, not naivety",
+    "has her own professional ambitions unrelated to hockey",
+    "emotionally resilient -- can handle his grumpiness without taking it personally",
+    "capable of calling him on his avoidance without being preachy",
+    "has a life, friends, and goals that exist independently of the romance",
+    "vulnerable in her own way -- the sunshine persona sometimes masks her own fears"
+]
+reader_identification_requirement = "reader must see herself in the heroine -- relatable, competent, not a manic pixie dream girl"
+
+[emotional_design]
+primary_emotional_drivers = [
+    "tension between his emotional walls and her warmth",
+    "anticipation during slow-burn proximity",
+    "the thrill of watching him crack -- small gestures that reveal he cares",
+    "protectiveness (him toward her, but also her fierce loyalty toward him)",
+    "longing during separation (road games, emotional distance)",
+    "team-as-family warmth and belonging"
+]
+emotional_progression_model = [
+    "irritation or indifference",
+    "reluctant awareness",
+    "involuntary protectiveness",
+    "genuine connection through a vulnerable moment",
+    "fear of what this means for his focus and career",
+    "emotional crisis (the black moment -- pushes her away)",
+    "grand gesture or honest confrontation",
+    "emotional security and commitment"
+]
+attachment_mechanisms = [
+    "him doing something quietly protective she was not supposed to notice",
+    "a private moment of humor or softness that only she witnesses",
+    "him showing up when she needs someone, no questions asked",
+    "physical awareness in close quarters (locker room adjacent, team events, shared rides)",
+    "the team noticing and commenting, making both of them confront what is happening"
+]
+
+[sensuality_calibration]
+intensity = "medium-high spice -- 2-3 steamy scenes per book, explicit but emotionally grounded, physical chemistry tied to emotional vulnerability"
+sensual_expression_methods = [
+    "athletic physicality -- awareness of his body as powerful, controlled, capable",
+    "accidental contact that sends electricity through both of them",
+    "charged proximity in confined spaces (equipment room, hotel hallway, team plane)",
+    "the contrast between his public restraint and private intensity",
+    "post-game adrenaline translating into physical urgency",
+    "breath and heartbeat awareness during close moments",
+    "his hands -- scarred knuckles, tape marks, gentle despite their size"
+]
+sensuality_function = "physical intimacy must deepen emotional connection -- each intimate scene should reveal something new about the characters"
+
+[pacing]
+structure_priority = "emotional progression interleaved with hockey season rhythm"
+chapter_count = 20
+chapter_length_words = 3250
+tension_maintenance_protocol = [
+    "romantic tension must remain unresolved for at least 60% of the book",
+    "hockey games create natural act breaks and emotional peaks",
+    "road trips and away games create separation tension",
+    "team dynamics provide comic relief without deflating emotional stakes",
+    "the black moment should feel earned -- connected to his specific wound, not manufactured drama"
+]
+reader_retention_mechanisms = [
+    "sharp banter that readers want to screenshot and share",
+    "unresolved sexual tension during forced proximity",
+    "team chirps and brotherhood moments that make readers love the whole cast",
+    "cliffhanger-adjacent chapter endings (emotional, not plot-based)",
+    "glimpses of future book couples to drive series binge-through"
+]
+
+[conflict_design]
+conflict_types = [
+    "his emotional walls -- built from a specific past wound (varies per book)",
+    "professional stakes -- a bad season, trade rumors, career pressure",
+    "forced proximity creating tension neither can escape",
+    "team code or bro code complications",
+    "public scrutiny -- WAG culture, media attention, social media exposure",
+    "her own life goals potentially conflicting with the hockey lifestyle (travel, instability, public life)"
+]
+conflict_resolution_requirement = "all conflicts must resolve in favor of emotional union and mutual sacrifice"
+
+[ending_requirements]
+ending_type = "HEA"
+hea_definition = [
+    "clear emotional commitment -- he chooses her openly, not secretly",
+    "he demonstrates vulnerability in front of others (team, public) as proof of growth",
+    "her independence is preserved -- she has not given up her goals for the relationship",
+    "a moment that mirrors an early scene but with emotional walls removed",
+    "epilogue seeds the next book's couple with a hook that drives immediate purchase"
+]
+emotional_resolution_requirements = [
+    "hero must verbally articulate his feelings -- no ambiguity",
+    "the grand gesture must cost him something (pride, privacy, competitive advantage)",
+    "heroine must feel emotionally safe and chosen",
+    "team must witness or acknowledge the relationship, cementing found-family arc",
+    "epilogue must leave readers desperate for the next book"
+]
+
+[setting]
+city = "Northshore -- a fictional mid-size city with a passionate hockey culture (Great Lakes region feel)"
+arena = "Northshore Arena -- 18,000 seats, deafening when full, the Cold Shots' fortress"
+key_locations = [
+    "the rink -- ice surface, players' bench, tunnel, locker room",
+    "The Penalty Box Bar & Grill -- dark wood, neon beer signs, team memorabilia, the booth in the back corner",
+    "the training facility -- weight room, ice baths, PT tables, film room",
+    "lakeside condos -- where players live, docks, summer bonfires",
+    "the team plane -- card games, film sessions, cramped seats, overnight flights",
+    "away game hotel rooms -- shared floors, late-night hallway encounters"
+]
+season = "hockey season -- October through April, with preseason in September and playoffs in May. Cold winters, frozen lakes, breath visible in the air."
+
+[prohibited_elements]
+abuse_framed_as_romance = true
+stalking_framed_as_devotion = true
+heroine_gives_up_career_for_hero = true
+hero_physically_intimidates_heroine = true
+inaccurate_hockey_terminology = true
+generic_sports_setting = true
