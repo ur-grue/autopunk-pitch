@@ -311,3 +311,12 @@ This repo has no conventional toolchain (no TS/test runner). `/health` runs:
 - syntax: python3 -m py_compile scripts/*.py && bash -n scripts/*.sh
 - config: validate templates/*.toml with tomllib
 - skills: validate skills/**/SKILL.md frontmatter (name + description)
+
+## Roadmap & Changelog
+
+- **`ROADMAP.md`** is the source of truth for direction: pillars (P0 survive → P1 audience → P2
+  quality → P3 niche → P4 loop → P5 product), milestones (M0–M4), and the two open strategic
+  decisions (D1 business model, D2 writer-scope-vs-length). Read it before proposing new scope.
+- **`CHANGELOG.md`** (Keep a Changelog format) records every ship. **Convention: update the
+  `[Unreleased]` section in the same change that ships the work**, and cut a dated `[x.y.z]` entry
+  when a milestone lands. Roadmap context for an entry lives in `ROADMAP.md`.
