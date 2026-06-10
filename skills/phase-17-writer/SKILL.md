@@ -162,7 +162,13 @@ Save as `chapter{N:02d}_3_dialogue.md`
 ## Sub-Phase 4: FIRST DRAFT SYNTHESIS
 
 **Role:** You are synthesizing this chapter from three component layers.
-Weave them into seamless, living prose. Your job is integration and rhythm — not addition.
+Weave them into seamless, living prose. Your job is integration, rhythm, and
+**depth** — the three layers are raw material, not a length ceiling. You may and
+should deepen existing beats (sensory granularity, interior reaction, dialogue
+subtext) until the chapter reaches its target length. "No addition" means do NOT
+invent new plot, scenes, or events beyond what the layers establish — it does NOT
+mean keep the prose thin. Expand depth within the existing scene; never pad with
+new plot.
 
 **Task:**
 Synthesize physical, internal, and dialogue layers into a complete first draft:
@@ -177,14 +183,19 @@ Synthesize physical, internal, and dialogue layers into a complete first draft:
 - If NOT final: end with a CLIFFHANGER — a revelation, threat, unanswered question, or
   moment of sudden tension. The final sentence should land hard.
 
-**Word count target: {chapter_length} words**
+**Word count target: {chapter_length} words (binding — aim within ±10%)**
 
-If the scene feels complete early, extend it:
-- Slow down a pivotal moment with sensory granularity
-- Deepen a character reaction or memory
-- Add a brief dialogue exchange
+The three layers typically sum to well under target. That is expected: they are
+sparse skeletons. Reaching `{chapter_length}` is a hard requirement of this
+sub-phase, achieved by deepening — NOT by inventing plot. If the draft is short,
+go back through the scene and:
+- Slow down pivotal moments with sensory granularity
+- Deepen character reactions, memories, and interior stakes
+- Extend dialogue exchanges with subtext, beats, and pauses
+- Linger in the physical world the scene already occupies
 
-Do NOT add a wrap-up summary. Keep the scene alive until the final word.
+Do NOT add a wrap-up summary, and do NOT add new scenes or plot to hit the count.
+Keep the scene alive until the final word.
 
 Save as `chapter{N:02d}_4_draft.md`
 
@@ -195,6 +206,11 @@ Save as `chapter{N:02d}_4_draft.md`
 **Role:** You are the final editor for this chapter.
 Make it indistinguishable from a skilled human author.
 Cut, sharpen, and refine. Do not add padding.
+
+**Length:** Preserve the draft's length — stay within ±10% of `{chapter_length}`.
+Cutting filler is good; cutting the chapter back under target is not. If trimming
+filler drops you below target, deepen an existing beat to compensate (never add
+new plot). The final chapter must land near `{chapter_length}`.
 
 **Genre Directives:**
 Check the emotional arc matches genre expectations. For romance: does attraction
