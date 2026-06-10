@@ -5,6 +5,15 @@ All notable changes to ccwriter are recorded here. Format follows
 roadmap context lives in `ROADMAP.md`.
 
 ## [Unreleased]
+### Fixed (D2 — writer under-length)
+- `skills/phase-17-writer/SKILL.md` — Sub-Phase 4 (Draft synthesis) no longer treats the three
+  sparse layers as a length ceiling. Reframed "not addition": the draft may and should deepen
+  existing beats (sensory/interior/dialogue subtext) to reach `{chapter_length}`; "no addition"
+  now applies only to plot/scenes, not depth. Word target made binding (±10%), and Sub-Phase 5
+  (Revision) gained a length-preservation guard so polish can't cut the chapter back under target.
+  Verified on the monster-romance ch1 test: draft went 1053 → 3091 words (32% → 93% of 3333), and
+  `quality_gate.py` flips FAIL → PASS on all four checks.
+
 ### Added (Roadmap P0 — Survive & isolate)
 - `docs/account-safety.md` — blast-radius model (the account, not the book, is the risk unit;
   one account / few pen names / low volume / high quality + disclosure), AI-disclosure posture,
